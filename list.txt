@@ -1,3 +1,5 @@
+! Title: AI uBlock Blacklist
+! Expires: 1 day
 ||soundscapehq.com^$doc
 ||oldtimemusic.com^$doc
 ||medium.com/@emmaw4430^$doc
