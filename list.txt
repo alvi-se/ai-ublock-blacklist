@@ -1,5 +1,7 @@
 ! Title: AI uBlock Blacklist
 ! Expires: 1 day
+! Homepage: https://github.com/alvi-se/ai-ublock-blacklist
 ||soundscapehq.com^$doc
 ||oldtimemusic.com^$doc
 ||medium.com/@emmaw4430^$doc
+||gottamentor.com^$doc
