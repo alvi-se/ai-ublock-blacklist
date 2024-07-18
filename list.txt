@@ -6,4 +6,4 @@
 ||medium.com/@emmaw4430^$doc
 ||gottamentor.com^$doc
 ||technicalustad.com^$doc
-||hatchjs.com?$doc
+||hatchjs.com^$doc
