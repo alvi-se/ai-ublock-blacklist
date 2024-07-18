@@ -7,3 +7,4 @@
 ||gottamentor.com^$doc
 ||technicalustad.com^$doc
 ||hatchjs.com^$doc
+||medium.com/@teamcode20233^$doc
