@@ -2,7 +2,7 @@
 A personal list for [uBlock Origin](https://github.com/gorhill/uBlock) blocking AI content farms. Pull requests welcome.
 
 ## Install
-You can [click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) to subscribe to this list automatically.
+You can [click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) to subscribe to this list automatically. This link works only if you have uBlock Origin installed.
 
 Alternatively, import the following URL as a 3rd party list in uBlock Origin.
 * `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
