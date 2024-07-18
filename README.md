@@ -1,5 +1,11 @@
 # AI uBlock Origin Blacklist
-A personal list containing AI content farms. Pull requests welcome.
+A personal list for [uBlock Origin](https://github.com/gorhill/uBlock) blocking AI content farms. Pull requests welcome.
+
+## Install
+You can [click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt) to subscribe to this list automatically.
+
+Alternatively, import the following URL as a 3rd party list in uBlock Origin.
+* `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
 
 ## Why?
 While browsing it happens sometimes that I come across websites which text is written by generative AI. These website provide no useful information, have mediocre content and are filled up with ads to earn money.
