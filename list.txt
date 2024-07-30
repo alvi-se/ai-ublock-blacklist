@@ -8,4 +8,4 @@
 ||technicalustad.com^$doc
 ||hatchjs.com^$doc
 ||medium.com/@teamcode20233^$doc
-||medium.com/@TechSavvyScribe
+||medium.com/@TechSavvyScribe^$doc
