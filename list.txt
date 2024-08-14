@@ -9,4 +9,4 @@
 ||hatchjs.com^$doc
 ||medium.com/@teamcode20233^$doc
 ||medium.com/@TechSavvyScribe^$doc
-||medium.com/@aidenjodrriley
+||medium.com/@aidenjodrriley^$doc
