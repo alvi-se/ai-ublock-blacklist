@@ -8,7 +8,7 @@ Alternatively, import the following URL as a 3rd party list in uBlock Origin.
 * `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
 
 ## Why?
-While browsing it happens sometimes that I come across websites which text is written by generative AI. These website provide no useful information, have mediocre content and are filled up with ads to earn money.
+While browsing it happens sometimes that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads to earn money.
 So when I find this kind of website, I put it here.
 
 ## How websites are added
