@@ -10,3 +10,4 @@
 ||medium.com/@teamcode20233^$doc
 ||medium.com/@TechSavvyScribe^$doc
 ||medium.com/@aidenjodrriley^$doc
+||feedalpha.com^$doc
