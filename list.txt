@@ -11,3 +11,4 @@
 ||medium.com/@TechSavvyScribe^$doc
 ||medium.com/@aidenjodrriley^$doc
 ||feedalpha.com^$doc
+||medium.com/@Victor.Ahmad^$doc
