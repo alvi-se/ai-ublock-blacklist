@@ -12,3 +12,4 @@
 ||medium.com/@aidenjodrriley^$doc
 ||feedalpha.com^$doc
 ||medium.com/@Victor.Ahmad^$doc
+||medium.com/@chetan.akarte^$doc
