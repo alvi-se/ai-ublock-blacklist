@@ -13,4 +13,5 @@
 ||feedalpha.com^$doc
 ||medium.com/@Victor.Ahmad^$doc
 ||medium.com/@chetan.akarte^$doc
-||medium.com/@raphaelrat_62823
+||medium.com/@raphaelrat_62823^$doc
+||medium.com/@hamidrezadeveloper^$doc
