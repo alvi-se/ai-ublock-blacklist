@@ -15,3 +15,4 @@
 ||medium.com/@chetan.akarte^$doc
 ||medium.com/@raphaelrat_62823^$doc
 ||medium.com/@hamidrezadeveloper^$doc
+||dhiwise.com^$doc
