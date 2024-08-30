@@ -16,3 +16,4 @@
 ||medium.com/@raphaelrat_62823^$doc
 ||medium.com/@hamidrezadeveloper^$doc
 ||dhiwise.com^$doc
+||medium.com/@samra.sajjad0001^$doc
