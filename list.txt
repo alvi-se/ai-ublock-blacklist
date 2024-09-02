@@ -17,3 +17,4 @@
 ||medium.com/@hamidrezadeveloper^$doc
 ||dhiwise.com^$doc
 ||medium.com/@samra.sajjad0001^$doc
+||golinuxcloud.com^$doc
