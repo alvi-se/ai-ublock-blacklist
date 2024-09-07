@@ -20,3 +20,5 @@
 ||golinuxcloud.com^$doc
 ||slingacademy.com^$doc
 ||flatirons.com^$doc
+||cognisys.group^$doc
+||cognisys.co.uk^$doc
