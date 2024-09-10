@@ -23,3 +23,4 @@
 ||cognisys.group^$doc
 ||cognisys.co.uk^$doc
 ||katalon.com^$doc
+||dnmtechs.com^$doc
