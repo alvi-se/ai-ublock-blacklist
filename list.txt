@@ -25,3 +25,4 @@
 ||katalon.com^$doc
 ||dnmtechs.com^$doc
 ||robots.net^$doc
+||ansonalex.com^$doc
