@@ -26,3 +26,4 @@
 ||dnmtechs.com^$doc
 ||robots.net^$doc
 ||ansonalex.com^$doc
+||codingdeeply.com^$doc
