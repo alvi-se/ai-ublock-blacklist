@@ -27,3 +27,4 @@
 ||robots.net^$doc
 ||ansonalex.com^$doc
 ||codingdeeply.com^$doc
+||astrostellar.it^$doc
