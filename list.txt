@@ -28,3 +28,4 @@
 ||ansonalex.com^$doc
 ||codingdeeply.com^$doc
 ||astrostellar.it^$doc
+||somethingup.net^$doc
