@@ -30,3 +30,4 @@
 ||astrostellar.it^$doc
 ||somethingup.net^$doc
 ||xaydungso.vn^$doc
+||telescopeguides.com^$doc
