@@ -31,3 +31,4 @@
 ||somethingup.net^$doc
 ||xaydungso.vn^$doc
 ||telescopeguides.com^$doc
+||devgem.io^$doc
