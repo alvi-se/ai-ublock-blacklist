@@ -33,3 +33,4 @@
 ||telescopeguides.com^$doc
 ||devgem.io^$doc
 ||studiolegalelavorospoltore.it^$doc
+||palisade.email^$doc
