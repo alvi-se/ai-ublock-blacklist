@@ -34,3 +34,4 @@
 ||devgem.io^$doc
 ||studiolegalelavorospoltore.it^$doc
 ||palisade.email^$doc
+||learn-it-university.com^$doc
