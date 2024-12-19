@@ -36,3 +36,4 @@
 ||palisade.email^$doc
 ||learn-it-university.com^$doc
 ||medium.com/@ravipatel.it^$doc
+||gbtimes.com^$doc
