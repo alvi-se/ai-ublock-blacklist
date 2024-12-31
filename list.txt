@@ -37,3 +37,4 @@
 ||learn-it-university.com^$doc
 ||medium.com/@ravipatel.it^$doc
 ||gbtimes.com^$doc
+||astro-observer.com^$doc
