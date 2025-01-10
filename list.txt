@@ -38,3 +38,7 @@
 ||medium.com/@ravipatel.it^$doc
 ||gbtimes.com^$doc
 ||astro-observer.com^$doc
+||glossykitchen.com^$doc
+||theproperkitchen.com^$doc
+||elvanco.com^$doc
+||aboutwaffles.com^$doc
