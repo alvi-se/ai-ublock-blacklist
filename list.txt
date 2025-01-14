@@ -42,3 +42,4 @@
 ||theproperkitchen.com^$doc
 ||elvanco.com^$doc
 ||aboutwaffles.com^$doc
+||sprinkledata.com^$doc
