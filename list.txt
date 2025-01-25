@@ -43,3 +43,4 @@
 ||elvanco.com^$doc
 ||aboutwaffles.com^$doc
 ||sprinkledata.com^$doc
+||stargazez.com^$doc
