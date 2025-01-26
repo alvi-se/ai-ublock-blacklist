@@ -44,3 +44,4 @@
 ||aboutwaffles.com^$doc
 ||sprinkledata.com^$doc
 ||stargazez.com^$doc
+||madpenguin.org^$doc
