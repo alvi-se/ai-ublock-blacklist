@@ -45,3 +45,4 @@
 ||sprinkledata.com^$doc
 ||stargazez.com^$doc
 ||madpenguin.org^$doc
+||umatechnology.org^$doc
