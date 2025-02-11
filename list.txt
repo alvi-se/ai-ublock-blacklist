@@ -46,3 +46,4 @@
 ||stargazez.com^$doc
 ||madpenguin.org^$doc
 ||umatechnology.org^$doc
+||phoneswiz.com^$doc
