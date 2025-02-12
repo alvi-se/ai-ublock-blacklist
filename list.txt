@@ -47,3 +47,4 @@
 ||madpenguin.org^$doc
 ||umatechnology.org^$doc
 ||phoneswiz.com^$doc
+||nhanvietluanvan.com^$doc
