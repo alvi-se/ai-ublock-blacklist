@@ -48,3 +48,4 @@
 ||umatechnology.org^$doc
 ||phoneswiz.com^$doc
 ||nhanvietluanvan.com^$doc
+||itslinuxfoss.com^$doc
