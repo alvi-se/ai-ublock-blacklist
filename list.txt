@@ -49,3 +49,4 @@
 ||phoneswiz.com^$doc
 ||nhanvietluanvan.com^$doc
 ||itslinuxfoss.com^$doc
+||cyberly.org^$doc
