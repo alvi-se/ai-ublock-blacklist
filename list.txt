@@ -54,3 +54,5 @@
 ||learnpal.ai^$doc
 ||talkpal.ai^$doc
 ||grammartutor.ai^$doc
+||howtouselinux.com^$doc
+||linuxhandbook.com^$doc
