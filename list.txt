@@ -56,3 +56,4 @@
 ||grammartutor.ai^$doc
 ||howtouselinux.com^$doc
 ||linuxhandbook.com^$doc
+||sqlpey.com^$doc
