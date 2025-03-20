@@ -58,3 +58,4 @@
 ||linuxhandbook.com^$doc
 ||sqlpey.com^$doc
 ||techxplore.it^$doc
+||poespas.me^$doc
