@@ -59,3 +59,4 @@
 ||sqlpey.com^$doc
 ||techxplore.it^$doc
 ||poespas.me^$doc
+||viaggiaresereni.it^$doc
