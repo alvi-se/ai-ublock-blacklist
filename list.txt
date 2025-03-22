@@ -60,3 +60,4 @@
 ||techxplore.it^$doc
 ||poespas.me^$doc
 ||viaggiaresereni.it^$doc
+||pcmena.com^$doc
