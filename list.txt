@@ -62,3 +62,4 @@
 ||viaggiaresereni.it^$doc
 ||pcmena.com^$doc
 ||religiousquestion.com^$doc
+||namso-gen.co^$doc
