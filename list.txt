@@ -63,3 +63,4 @@
 ||pcmena.com^$doc
 ||religiousquestion.com^$doc
 ||namso-gen.co^$doc
+||webasha.com^$doc
