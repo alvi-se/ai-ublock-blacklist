@@ -64,3 +64,6 @@
 ||religiousquestion.com^$doc
 ||namso-gen.co^$doc
 ||webasha.com^$doc
+||coderivers.org^$doc
+||pythonmania.org^$doc
+||pytutorial.com^$doc
