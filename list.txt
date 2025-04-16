@@ -68,3 +68,4 @@
 ||pythonmania.org^$doc
 ||pytutorial.com^$doc
 ||thelinuxcode.com^$doc
+||cmder.net^$doc
