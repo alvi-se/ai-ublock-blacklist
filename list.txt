@@ -69,3 +69,4 @@
 ||pytutorial.com^$doc
 ||thelinuxcode.com^$doc
 ||cmder.net^$doc
+||medium.com/coinmonks^$doc
