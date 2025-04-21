@@ -70,3 +70,4 @@
 ||thelinuxcode.com^$doc
 ||cmder.net^$doc
 ||medium.com/coinmonks^$doc
+||soliditylibraries.com^$doc
