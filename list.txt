@@ -72,3 +72,4 @@
 ||medium.com/coinmonks^$doc
 ||soliditylibraries.com^$doc
 ||sinkeetools.it^$doc
+||zenrows.com^$doc
