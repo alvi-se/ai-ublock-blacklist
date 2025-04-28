@@ -73,3 +73,4 @@
 ||soliditylibraries.com^$doc
 ||sinkeetools.it^$doc
 ||zenrows.com^$doc
+||proxiesapi.com^$doc
