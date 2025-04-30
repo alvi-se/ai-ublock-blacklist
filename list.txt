@@ -74,3 +74,4 @@
 ||sinkeetools.it^$doc
 ||zenrows.com^$doc
 ||proxiesapi.com^$doc
+||medium.com/@stevrogers721^$doc
