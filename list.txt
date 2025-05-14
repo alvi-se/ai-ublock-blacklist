@@ -76,3 +76,4 @@
 ||proxiesapi.com^$doc
 ||medium.com/@stevrogers721^$doc
 ||thejapanesearts.it^$doc
+||maheshnotes.com^$doc
