@@ -77,3 +77,4 @@
 ||medium.com/@stevrogers721^$doc
 ||thejapanesearts.it^$doc
 ||maheshnotes.com^$doc
+||iccivitella.it^$doc
