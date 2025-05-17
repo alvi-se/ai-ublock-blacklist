@@ -78,3 +78,4 @@
 ||thejapanesearts.it^$doc
 ||maheshnotes.com^$doc
 ||iccivitella.it^$doc
+||medium.com/@cosmicray001^$doc
