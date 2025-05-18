@@ -80,3 +80,4 @@
 ||iccivitella.it^$doc
 ||medium.com/@cosmicray001^$doc
 ||curiosandosimpara.com^$doc
+||in3giorni.com^$doc
