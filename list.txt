@@ -81,3 +81,4 @@
 ||medium.com/@cosmicray001^$doc
 ||curiosandosimpara.com^$doc
 ||in3giorni.com^$doc
+||w3schools.tech^$doc
