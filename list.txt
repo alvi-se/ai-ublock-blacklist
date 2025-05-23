@@ -82,3 +82,4 @@
 ||curiosandosimpara.com^$doc
 ||in3giorni.com^$doc
 ||w3schools.tech^$doc
+||gufosaggio.net^$doc
