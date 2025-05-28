@@ -84,3 +84,4 @@
 ||w3schools.tech^$doc
 ||gufosaggio.net^$doc
 ||sslinsights.com^$doc
+||evmfrontier.com^$doc
