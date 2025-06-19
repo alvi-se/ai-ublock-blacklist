@@ -86,3 +86,4 @@
 ||sslinsights.com^$doc
 ||evmfrontier.com^$doc
 ||bomberbot.com^$doc
+||tecomeeting.it^$doc
