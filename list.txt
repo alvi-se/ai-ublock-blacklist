@@ -87,3 +87,4 @@
 ||evmfrontier.com^$doc
 ||bomberbot.com^$doc
 ||tecomeeting.it^$doc
+||dailyknowlege.com^$doc
