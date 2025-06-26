@@ -89,3 +89,4 @@
 ||tecomeeting.it^$doc
 ||dailyknowlege.com^$doc
 ||technicqa.com^$doc
+||bugbase.ai^$doc
