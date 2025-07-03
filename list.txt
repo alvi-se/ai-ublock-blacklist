@@ -90,3 +90,4 @@
 ||dailyknowlege.com^$doc
 ||technicqa.com^$doc
 ||bugbase.ai^$doc
+||towardsdev.com^$doc
