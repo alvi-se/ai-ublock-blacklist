@@ -91,3 +91,4 @@
 ||technicqa.com^$doc
 ||bugbase.ai^$doc
 ||towardsdev.com^$doc
+||compilenrun.com^$doc
