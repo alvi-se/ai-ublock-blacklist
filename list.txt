@@ -93,3 +93,4 @@
 ||towardsdev.com^$doc
 ||compilenrun.com^$doc
 ||studyraid.com^$doc
+||esportgaming.it^$doc
