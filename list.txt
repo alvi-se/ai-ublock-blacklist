@@ -94,3 +94,4 @@
 ||compilenrun.com^$doc
 ||studyraid.com^$doc
 ||esportgaming.it^$doc
+||incognito.com^$doc
