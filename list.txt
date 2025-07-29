@@ -97,3 +97,8 @@
 ||incognito.com^$doc
 ||justwebworld.com^$doc
 ||medium.com/@banerjeesamarjit9^$doc
+||e-choose.it^$doc
+||gravita-zero.it^$doc
+||itb.co.jp^$doc
+||maurizioinfante.it^$doc
+||magnofood.com^$doc
