@@ -102,3 +102,4 @@
 ||itb.co.jp^$doc
 ||maurizioinfante.it^$doc
 ||magnofood.com^$doc
+||bestonlinetutorial.com^$doc
