@@ -103,3 +103,4 @@
 ||maurizioinfante.it^$doc
 ||magnofood.com^$doc
 ||bestonlinetutorial.com^$doc
+||expertbeacon.com^$doc
