@@ -104,3 +104,12 @@
 ||magnofood.com^$doc
 ||bestonlinetutorial.com^$doc
 ||expertbeacon.com^$doc
+||dottssamincinesi.it^$doc
+||roma.com^$doc
+||musicattitude.it^$doc
+||travelated.com^$doc
+||wirelessgate.com^$doc
+||atleticavalledicembra.it^$doc
+||fuoriporta.org^$doc
+||farmaciaintroini.it^$doc
+||pivovarlouka.cz^$doc
