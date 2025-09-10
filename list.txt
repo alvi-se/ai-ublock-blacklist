@@ -113,3 +113,4 @@
 ||fuoriporta.org^$doc
 ||farmaciaintroini.it^$doc
 ||pivovarlouka.cz^$doc
+||dev.to/nadimtuhin^$doc
