@@ -115,3 +115,8 @@
 ||pivovarlouka.cz^$doc
 ||dev.to/nadimtuhin^$doc
 ||undercodenews.com^$doc
+||medium.com/@natid9628^$doc
+||medium.com/@danielgebre978^$doc
+||gamer-king.com^$doc
+||financefixer7.com^$doc
+||animecreation.hashnode.dev^$doc
