@@ -120,3 +120,4 @@
 ||gamer-king.com^$doc
 ||financefixer7.com^$doc
 ||animecreation.hashnode.dev^$doc
+||helpleft.com^$doc
