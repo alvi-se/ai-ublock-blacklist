@@ -114,3 +114,4 @@
 ||farmaciaintroini.it^$doc
 ||pivovarlouka.cz^$doc
 ||dev.to/nadimtuhin^$doc
+||undercodenews.com^$doc
