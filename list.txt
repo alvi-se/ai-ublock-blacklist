@@ -121,3 +121,4 @@
 ||financefixer7.com^$doc
 ||animecreation.hashnode.dev^$doc
 ||helpleft.com^$doc
+||danieleteti.it^$doc
