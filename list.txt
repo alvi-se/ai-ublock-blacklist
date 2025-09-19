@@ -122,3 +122,4 @@
 ||animecreation.hashnode.dev^$doc
 ||helpleft.com^$doc
 ||danieleteti.it^$doc
+||toursetlist.com^$doc
