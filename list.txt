@@ -123,3 +123,4 @@
 ||helpleft.com^$doc
 ||danieleteti.it^$doc
 ||toursetlist.com^$doc
+||programmazionepython.it^$doc
