@@ -125,3 +125,4 @@
 ||toursetlist.com^$doc
 ||programmazionepython.it^$doc
 ||publit.io^$doc
+||fastercapital.com^$doc
