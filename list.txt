@@ -129,3 +129,4 @@
 ||8designers.com^$doc
 ||bobcares.com^$doc
 ||mondoandroid.com^$doc
+||windowsforum.com^$doc
