@@ -128,3 +128,4 @@
 ||fastercapital.com^$doc
 ||8designers.com^$doc
 ||bobcares.com^$doc
+||mondoandroid.com^$doc
