@@ -130,3 +130,4 @@
 ||bobcares.com^$doc
 ||mondoandroid.com^$doc
 ||windowsforum.com^$doc
+||netecitalia.com^$doc
