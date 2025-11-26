@@ -134,3 +134,4 @@
 ||achivx.com^$doc
 ||tuttodigitale.net^$doc
 ||wemedia.it^$doc
+||affarifinanza.it^$doc
