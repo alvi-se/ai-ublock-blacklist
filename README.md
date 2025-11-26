@@ -8,12 +8,37 @@ Alternatively, import the following URL as a 3rd party list in uBlock Origin.
 * `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
 
 ## Why?
-While browsing it happens sometimes that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads to earn money.
+While browsing it happens ~sometimes~ **most of the times** that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads to earn money.
 So when I find this kind of website, I put it here.
 
 ## How websites are added
-If I suspect a website is AI generated, I usually put its content on AI testers like [GPTZero](https://gptzero.me/).
-If it is clearly AI written, I check the domain or the blog. If every content is made by AI, then it ends up here.
+Content farm have have some patterns that make them recognizable. Here are the ones I understood. Of course, these are not strict rules.
+
+* **Unnecessary introduction and conclusion**: this is probably the easiest way to spot content farms. For example, you click on some guide on how to use a specific feature in Flutter.
+  The article would begin giving an introduction about Flutter itself like the following:
+  > In today’s fast-moving digital landscape, users expect apps to be fast, beautiful, and consistent across every device they touch.
+  
+  Probably, no human would write such an introduction to explain a *specific* feature.
+  It would fit to generally speak about Flutter, but not for a super specific code that can be understood only by experienced developers. If I'm writing such an article, I'm supposing that
+  the reader will already know what Flutter is!
+* **No/few links to external content**
+* **No sources and references**: same as above, but for for sources about facts. This is very important to check, especially for articles about (pseudo)science, politics and content that could
+  spread misinformation.
+* **Blog with hundreds of thousands of articles**
+* **Date after November 2022**: a weak guideline for sure, but it adds up to all others. Can be easily faked though.
+* **No/few images, videos, non-text media**: these pages are automatically generated and published, and it's hard to generate other kind of content to be put into the page.
+* **AI generated images, logos**: usually it's the banner of the article or the blog logo.
+* **Poor text formatting**
+* **Not-rendered Markdown charcters**: text has no formatting and has Markdown syntax.
+* **Reference to product of company**: the website is owned by a company that sells some product or service.
+* **Long post, with unnecessary or out-of-context content**: at some point the article can start talking about another topic, which can be related to the original one but irrelevant.
+* **Always on top of search engines result**: they are of course abusing SEO.
+* **Know-it-all blog**: the same blog appears in the search engine for completely different topics.
+* **Vague content**: lots of headings, each with a short content that provides no useful information.
+* **Unprofessional or missing contact information**: they have bought a domain, why are they using Gmail for contact?
+* **Vague or missing about page**
+* **AI enthusiastic content**: if someone loves ChatGPT they will use it for **everything**. So if you stumble across an AI-devoted blog, it's for sure 100% AI generated.
+
 
 ## Google Dorks
 Because AI users are dumb enough to copy-paste LLM responses without reading them, the LLM will sometimes reveal itself, for example in the intro of the content.
