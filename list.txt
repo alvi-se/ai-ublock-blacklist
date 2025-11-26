@@ -132,3 +132,5 @@
 ||windowsforum.com^$doc
 ||netecitalia.com^$doc
 ||achivx.com^$doc
+||tuttodigitale.net^$doc
+||wemedia.it^$doc
