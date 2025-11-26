@@ -131,3 +131,4 @@
 ||mondoandroid.com^$doc
 ||windowsforum.com^$doc
 ||netecitalia.com^$doc
+||achivx.com^$doc
