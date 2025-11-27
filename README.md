@@ -15,6 +15,14 @@ As I said, I'm adding pages as I browse, so each entry is added manually. I'm no
 
 However, there is indeed some bias for my entries. For example, as I am an Italian citizen, you will find a lot of Italian websites. This is another reason why pull requests are welcome.
 
+## How to add websites
+Try to find out the scope of the AI slop. Usually, it will be a domain, but I've found also a lot of Medium blogs or dev.to blogs. These platforms should not be blocked as a whole, but just the blog who's spamming.
+
+Say that you want to add entry `example.com/@slopUser`, simply put a line to file `list.txt` as following:
+```adblock
+||example.com/@slopUser^$doc
+```
+
 ## How websites are added
 Content farm have have some patterns that make them recognizable. Here are the ones I understood. Of course, these are not strict rules.
 
