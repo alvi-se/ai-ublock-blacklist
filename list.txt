@@ -136,3 +136,4 @@
 ||wemedia.it^$doc
 ||affarifinanza.it^$doc
 ||thebatterytips.com^$doc
+||androidguias.com^$doc
