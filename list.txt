@@ -137,3 +137,4 @@
 ||affarifinanza.it^$doc
 ||thebatterytips.com^$doc
 ||androidguias.com^$doc
+||3d-p.eu^$doc
