@@ -138,3 +138,4 @@
 ||thebatterytips.com^$doc
 ||androidguias.com^$doc
 ||3d-p.eu^$doc
+||soundproofgeek.com^$doc
