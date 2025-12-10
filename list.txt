@@ -140,3 +140,4 @@
 ||3d-p.eu^$doc
 ||soundproofgeek.com^$doc
 ||neuralword.com^$doc
+||pupuweb.com^$doc
