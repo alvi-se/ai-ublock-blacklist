@@ -143,3 +143,4 @@
 ||pupuweb.com^$doc
 ||dn.org^$doc
 ||grokipedia.com^$doc
+||playgama.com/blog^$doc
