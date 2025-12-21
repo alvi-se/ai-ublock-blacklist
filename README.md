@@ -8,7 +8,7 @@ Alternatively, import the following URL as a 3rd party list in uBlock Origin.
 * `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
 
 ## Why?
-While browsing it happens ~sometimes~ **most of the times** that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads to earn money.
+While browsing it happens ~sometimes~ [**most of the times**](https://www.axios.com/2025/10/14/ai-generated-writing-humans) that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads to earn money.
 So when I find this kind of website, I put it here.
 
 As I said, I'm adding pages as I browse, so each entry is added manually. I'm not considering using automated tools simply because it's hard for an algorithm to understand if a page is AI generated or not, especially with the guidelines I wrote next. An argument could be that this list is useless because it's too short. However, since these websites are doing SEO to appear first on search engines, you will meet the same website more than once, especially for searches related to each other. I've found this list to be blocking websites since the very first day I began writing it, even with very few entries.
