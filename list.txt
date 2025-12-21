@@ -144,3 +144,4 @@
 ||dn.org^$doc
 ||grokipedia.com^$doc
 ||playgama.com/blog^$doc
+||askai.glarity.app^$doc
