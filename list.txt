@@ -145,3 +145,4 @@
 ||grokipedia.com^$doc
 ||playgama.com/blog^$doc
 ||askai.glarity.app^$doc
+||exactlyhowlong.com^$doc
