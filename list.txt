@@ -145,3 +145,11 @@
 ||grokipedia.com^$doc
 ||playgama.com/blog^$doc
 ||askai.glarity.app^$doc
+||radiofmtotal.com.ar^$doc
+||makeblock.com.ar^$doc
+||mysqlya.com.ar^$doc
+||jugandoando.com.ar^$doc
+||armatucv.com.ar^$doc
+||kaboomeventos.com.ar^$doc
+||newsmatic.com.ar^$doc
+||colegiodepsicologossj.com.ar^$doc
