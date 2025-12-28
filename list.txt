@@ -239,3 +239,4 @@
 ||ypfelcruce.com.ar^$doc
 
 ||exactlyhowlong.com^$doc
+||easytechsolver.com^$doc
