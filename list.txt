@@ -237,3 +237,5 @@
 ||vanessa-mae.com.ar^$doc
 ||viegener.com.ar^$doc
 ||ypfelcruce.com.ar^$doc
+
+||exactlyhowlong.com^$doc
