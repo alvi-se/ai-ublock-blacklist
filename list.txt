@@ -240,3 +240,4 @@
 
 ||exactlyhowlong.com^$doc
 ||easytechsolver.com^$doc
+||cronistadiario.com.ar^$doc
