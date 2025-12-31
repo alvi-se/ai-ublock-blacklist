@@ -240,3 +240,4 @@
 
 ||exactlyhowlong.com^$doc
 ||easytechsolver.com^$doc
+||decortweaks.com^$doc
