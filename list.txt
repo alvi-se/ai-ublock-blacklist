@@ -241,3 +241,4 @@
 ||exactlyhowlong.com^$doc
 ||easytechsolver.com^$doc
 ||gearprobe.com^$doc
+||cronistadiario.com.ar^$doc
