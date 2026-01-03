@@ -240,4 +240,5 @@
 
 ||exactlyhowlong.com^$doc
 ||easytechsolver.com^$doc
+||decortweaks.com^$doc
 ||cronistadiario.com.ar^$doc
