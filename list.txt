@@ -242,3 +242,4 @@
 ||easytechsolver.com^$doc
 ||decortweaks.com^$doc
 ||cronistadiario.com.ar^$doc
+||aeanet.org^$doc
