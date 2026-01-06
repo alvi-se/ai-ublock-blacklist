@@ -260,3 +260,8 @@
 ||motsefficaces.com^$doc
 ||nigerianprice.com^$doc
 ||checklistoo.com^$doc
+||settingsmag.com^$doc
+||allnetworks.com.ng^$doc
+||thetotalentrepreneurs.com^$doc
+||webincomeplus.com^$doc
+||medium.com/@abasstoriola^$doc
