@@ -1,6 +1,8 @@
 ! Title: AI uBlock Blacklist
 ! Expires: 1 day
 ! Homepage: https://github.com/alvi-se/ai-ublock-blacklist
+
+! Randomly found websites
 ||soundscapehq.com^$doc
 ||oldtimemusic.com^$doc
 ||medium.com/@emmaw4430^$doc
@@ -145,6 +147,14 @@
 ||grokipedia.com^$doc
 ||playgama.com/blog^$doc
 ||askai.glarity.app^$doc
+||exactlyhowlong.com^$doc
+||easytechsolver.com^$doc
+||cronistadiario.com.ar^$doc
+
+! To PR makers: add above new, individual, entries
+! If you are instead adding entries related to each other
+! put them at the bottom of the file to group them
+
 
 ! https://github.com/alvi-se/ai-ublock-blacklist/pull/9
 ||9geishas.com.ar^$doc
@@ -238,7 +248,15 @@
 ||viegener.com.ar^$doc
 ||ypfelcruce.com.ar^$doc
 
-||exactlyhowlong.com^$doc
-||easytechsolver.com^$doc
+! https://github.com/alvi-se/ai-ublock-blacklist/pull/11
+||abasstoriola.com^$doc
 ||gearprobe.com^$doc
-||cronistadiario.com.ar^$doc
+||goalshaven.com^$doc
+||vpnalysis.com^$doc
+||calculatority.com^$doc
+||palabraseficaces.com^$doc
+||speechesonly.com^$doc
+||recipesnmeals.com^$doc
+||motsefficaces.com^$doc
+||nigerianprice.com^$doc
+||checklistoo.com^$doc
