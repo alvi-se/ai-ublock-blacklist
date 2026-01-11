@@ -150,6 +150,9 @@
 ||exactlyhowlong.com^$doc
 ||easytechsolver.com^$doc
 ||cronistadiario.com.ar^$doc
+||kalilinuxtutorials.com^$doc
+||forensicosint.com^$doc
+
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
