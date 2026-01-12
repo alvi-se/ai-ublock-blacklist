@@ -152,6 +152,7 @@
 ||cronistadiario.com.ar^$doc
 ||kalilinuxtutorials.com^$doc
 ||forensicosint.com^$doc
+||linuxbash.sh^$doc
 
 
 ! To PR makers: add above new, individual, entries
