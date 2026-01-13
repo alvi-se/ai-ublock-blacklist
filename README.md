@@ -33,13 +33,13 @@ Content farm have have some patterns that make them recognizable. Here are the o
   Probably, no human would write such an introduction to explain a *specific* feature.
   It could fit to generally speak about Flutter (still too baroque though), but not for a super specific code that can be understood only by experienced developers. If I'm writing such an article, I'm supposing that the reader will already know what Flutter is!
 * **No/few links to external content**
-* **No sources and references**: same as above, but for for sources about facts. This is very important to check, especially for articles about (pseudo)science, politics and content that could spread misinformation.
-* **Blog with hundreds of thousands of articles**: especially when published in a very short timespan. A lot of AI slop blogs post tens or hundreds of articles a day, mostly by the same author.
+* **No sources and references**: same as above, but for sources about facts. This is very important to check, especially for articles about (pseudo)science, politics and content that could spread misinformation.
+* **Blog with hundreds of thousands of articles**: especially when published in a very short time span. A lot of AI slop blogs post tens or hundreds of articles a day, mostly by the same author.
 * **Date after November 2022**: a weak guideline for sure, but it adds up to all others. Can be easily faked though.
 * **No/few images, videos, non-text media**: these pages are automatically generated and published, and it's hard to generate other kind of content to be put into the page.
 * **AI generated images, logos**: usually it's the banner of the article or the blog logo.
 * **Poor text formatting**
-* **Not-rendered Markdown charcters**: text has no formatting and has Markdown syntax.
+* **Not-rendered Markdown characters**: text has no formatting and has Markdown syntax.
 * **Reference to product of company**: the website is owned by a company that sells some product or service.
 * **Long post, with unnecessary or out-of-context content**: at some point the article can start talking about another topic, which can be related to the original one but irrelevant.
 * **Always on top of search engines result**: they are of course abusing SEO.
