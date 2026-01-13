@@ -153,6 +153,7 @@
 ||kalilinuxtutorials.com^$doc
 ||forensicosint.com^$doc
 ||linuxbash.sh^$doc
+||silverscreennation.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
