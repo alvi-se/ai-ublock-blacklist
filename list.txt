@@ -154,6 +154,7 @@
 ||forensicosint.com^$doc
 ||linuxbash.sh^$doc
 ||silverscreennation.com^$doc
+||ilsignificatodi.it^$doc
 
 
 ! To PR makers: add above new, individual, entries
