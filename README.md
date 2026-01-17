@@ -35,7 +35,7 @@ Content farm have have some patterns that make them recognizable. Here are the o
 * **No/few links to external content**
 * **No sources and references**: same as above, but for sources about facts. This is very important to check, especially for articles about (pseudo)science, politics and content that could spread misinformation.
 * **Blog with hundreds of thousands of articles**: especially when published in a very short time span. A lot of AI slop blogs post tens or hundreds of articles a day, mostly by the same author.
-* **Date after November 2022**: a weak guideline for sure, but it adds up to all others. Can be easily faked though.
+* **Date after November 2022**: the AI hype began with the release of ChatGPT in November 2022. A weak guideline for sure, but it adds up to all others. Dates can be easily faked though.
 * **No/few images, videos, non-text media**: these pages are automatically generated and published, and it's hard to generate other kind of content to be put into the page.
 * **AI generated images, logos**: usually it's the banner of the article or the blog logo.
 * **Poor text formatting**
