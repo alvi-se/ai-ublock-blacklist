@@ -157,6 +157,7 @@
 ||ilsignificatodi.it^$doc
 ||yohomobile.com^$doc
 ||laseroffice.it^$doc
+||songmeaningsandfacts.com^$doc
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
