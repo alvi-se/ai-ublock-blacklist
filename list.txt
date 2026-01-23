@@ -158,6 +158,8 @@
 ||yohomobile.com^$doc
 ||laseroffice.it^$doc
 ||songmeaningsandfacts.com^$doc
+||mylikeled.com^$doc
+
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
