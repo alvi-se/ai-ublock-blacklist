@@ -159,6 +159,7 @@
 ||laseroffice.it^$doc
 ||songmeaningsandfacts.com^$doc
 ||mylikeled.com^$doc
+||amateurphotographerguide.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
