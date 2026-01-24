@@ -160,6 +160,7 @@
 ||songmeaningsandfacts.com^$doc
 ||mylikeled.com^$doc
 ||hyperclapper.com/blog-posts^$doc
+||amateurphotographerguide.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
