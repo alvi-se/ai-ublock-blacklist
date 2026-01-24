@@ -159,6 +159,7 @@
 ||laseroffice.it^$doc
 ||songmeaningsandfacts.com^$doc
 ||mylikeled.com^$doc
+||hyperclapper.com/blog-posts^$doc
 
 
 ! To PR makers: add above new, individual, entries
@@ -275,3 +276,16 @@
 ||thetotalentrepreneurs.com^$doc
 ||webincomeplus.com^$doc
 ||medium.com/@abasstoriola^$doc
+
+! topnotch.blog
+||cursivealphabet.info^$doc
+||digiprocenter.com^$doc
+||emojimeme.net^$doc
+||fitguideline.com^$doc
+||inmarketingbiz.com^$doc
+||newear.net^$doc
+||oldreddit.info^$doc
+||premiumtechcenter.com^$doc
+||publicasino.com^$doc
+||tabooworld.net^$doc
+||wheongames.net^$doc
