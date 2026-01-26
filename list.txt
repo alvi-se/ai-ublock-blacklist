@@ -161,6 +161,7 @@
 ||mylikeled.com^$doc
 ||hyperclapper.com/blog-posts^$doc
 ||amateurphotographerguide.com^$doc
+||magiskzip.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
