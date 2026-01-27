@@ -162,6 +162,7 @@
 ||hyperclapper.com/blog-posts^$doc
 ||amateurphotographerguide.com^$doc
 ||magiskzip.com^$doc
+||linuxvox.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
