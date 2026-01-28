@@ -254,7 +254,7 @@
 ||rodantes.com.ar^$doc
 ||saacupuntura.com.ar^$doc
 ||securitygps.com.ar^$doc
-||servernet.com.ar^$$doc
+||servernet.com.ar^$doc
 ||tajmahalresto.com.ar^$doc
 ||todocalculadoras.com.ar^$doc
 ||urbanococinaamericana.com.ar^$doc
