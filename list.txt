@@ -163,6 +163,7 @@
 ||amateurphotographerguide.com^$doc
 ||magiskzip.com^$doc
 ||linuxvox.com^$doc
+||gameslearningsociety.org^$doc
 
 
 ! To PR makers: add above new, individual, entries
