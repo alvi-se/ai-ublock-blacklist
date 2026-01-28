@@ -163,7 +163,7 @@
 ||amateurphotographerguide.com^$doc
 ||magiskzip.com^$doc
 ||linuxvox.com^$doc
-
+||psicologiainsiemelivorno.it^$doc
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
@@ -254,7 +254,7 @@
 ||rodantes.com.ar^$doc
 ||saacupuntura.com.ar^$doc
 ||securitygps.com.ar^$doc
-||servernet.com.ar^$doc
+||servernet.com.ar^$$doc
 ||tajmahalresto.com.ar^$doc
 ||todocalculadoras.com.ar^$doc
 ||urbanococinaamericana.com.ar^$doc
