@@ -164,6 +164,7 @@
 ||magiskzip.com^$doc
 ||linuxvox.com^$doc
 ||cyberpost.co^$doc
+||gameslearningsociety.org^$doc
 ||psicologiainsiemelivorno.it^$doc
 
 
