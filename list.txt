@@ -164,6 +164,7 @@
 ||magiskzip.com^$doc
 ||linuxvox.com^$doc
 ||cyberpost.co^$doc
+||psicologiainsiemelivorno.it^$doc
 
 
 ! To PR makers: add above new, individual, entries
