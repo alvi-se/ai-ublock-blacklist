@@ -166,6 +166,7 @@
 ||cyberpost.co^$doc
 ||gameslearningsociety.org^$doc
 ||psicologiainsiemelivorno.it^$doc
+||homecleaningstuff.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
