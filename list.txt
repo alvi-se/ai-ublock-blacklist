@@ -167,6 +167,7 @@
 ||gameslearningsociety.org^$doc
 ||psicologiainsiemelivorno.it^$doc
 ||homecleaningstuff.com^$doc
+||clrn.org^$doc
 
 
 ! To PR makers: add above new, individual, entries
