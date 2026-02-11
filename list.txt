@@ -167,6 +167,7 @@
 ||gameslearningsociety.org^$doc
 ||psicologiainsiemelivorno.it^$doc
 ||homecleaningstuff.com^$doc
+||techbloat.com^$doc
 ||clrn.org^$doc
 
 
