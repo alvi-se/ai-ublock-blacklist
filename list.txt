@@ -170,6 +170,8 @@
 ||techbloat.com^$doc
 ||clrn.org^$doc
 ||dev.to/keploy^$doc
+||rankingcoach.com^$doc
+||latex-tutorial.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
