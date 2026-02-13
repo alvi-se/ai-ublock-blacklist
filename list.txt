@@ -299,3 +299,26 @@
 ||publicasino.com^$doc
 ||tabooworld.net^$doc
 ||wheongames.net^$doc
+
+! editorial@rankwc.com
+! https://rankwc.com/
+||rankwc.com^$doc
+||slotedition.com^$doc
+||thepressmag.com^$doc
+||ranked.ai^$doc
+||aspectratiocalculatorpro.com^$doc
+||grobuzz.co.uk^$doc
+||financeworth.net^$doc
+||businessbbcx.com^$doc
+||ulcuprazol.com^$doc
+||instabiobook.com^$doc
+||tiktak188sgp.com^$doc
+||howhatmagazine.com^$doc
+||wikitimezone.com^$doc
+||usatimesmag.com^$doc
+||nategames.net^$doc
+||sbusinessnews.com^$doc
+||eromeb.com^$doc
+||insuredition.com^$doc
+||tech2sites.com^$doc
+||editorialedition.com^$doc
