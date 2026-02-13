@@ -325,3 +325,8 @@
 ||insuredition.com^$doc
 ||tech2sites.com^$doc
 ||editorialedition.com^$doc
+
+! https://github.com/alvi-se/ai-ublock-blacklist/issues/21
+! https://www.facebook.com/groups/124910653034839/
+! This Facebook group is a goldmine for this repo
+||lookwhatmomfound.org^$doc
