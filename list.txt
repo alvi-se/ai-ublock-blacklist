@@ -169,6 +169,7 @@
 ||homecleaningstuff.com^$doc
 ||techbloat.com^$doc
 ||clrn.org^$doc
+||dev.to/keploy^$doc
 
 
 ! To PR makers: add above new, individual, entries
