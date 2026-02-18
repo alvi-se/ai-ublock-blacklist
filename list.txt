@@ -173,6 +173,7 @@
 ||rankingcoach.com^$doc
 ||latex-tutorial.com^$doc
 ||snowboardinghelp.com^$doc
+||codegenes.net^$doc
 
 
 ! To PR makers: add above new, individual, entries
