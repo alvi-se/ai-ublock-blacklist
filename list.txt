@@ -689,46 +689,46 @@
 
 
 ! https://docs.google.com/spreadsheets/d/1KxRaKaqPMvNXwhe1biUMqEvENZlzB8-FOaU55UIj6-U/edit?gid=0#gid=0
-||Shayariyan.com^$doc
-||Funylifee.in^$doc
+||shayariyan.com^$doc
+||funylifee.in^$doc
 ||instabiolist.in^$doc
 ||mybestdp.com^$doc
-||Buscadorrdeestatus.com^$doc
+||buscadorrdeestatus.com^$doc
 ||marathiquote.in^$doc
 ||photosweek.in^$doc
-||Marathipremi.in^$doc
+||marathipremi.in^$doc
 ||ankithindishayari.in^$doc
 ||photoswaly.in^$doc
-||Instabio.co.in^$doc
-||Prohindishayari.com^$doc
+||instabio.co.in^$doc
+||prohindishayari.com^$doc
 ||educationmessage.com^$doc
-||Shayari2u.com^$doc
-||Piyaarishayari.com^$doc
-||Birthdaywishinmarathi.com^$doc
-||Bangla-caption.blog^$doc
-||Theytrishi.com^$doc
-||Semakan-str.my^$doc
+||shayari2u.com^$doc
+||piyaarishayari.com^$doc
+||birthdaywishinmarathi.com^$doc
+||bangla-caption.blog^$doc
+||theytrishi.com^$doc
+||semakan-str.my^$doc
 ||2lineshayari.com^$doc
-||Sgrestaurantmenu.org^$doc
-||Attitude-yari.com^$doc
+||sgrestaurantmenu.org^$doc
+||attitude-yari.com^$doc
 ||waahshayari.com^$doc
-||Surahyaseeenpdf.com^$doc
+||surahyaseeenpdf.com^$doc
 ||mewingemoji.com^$doc
 ||emotionwheel.co.uk^$doc
-||Thehdhub4u.com^$doc
+||thehdhub4u.com^$doc
 ||ibommamoviess.com^$doc
-||Protechpost.com^$doc
-||Techpromagazine.co.uk^$doc
-||prousamagazine.com^$doc
-||Usatimenetworks.com^$doc
-||Techktime.co.uk^$doc
-||usaaitrend.co.uk^$doc
-||Protimeusa.com^$doc
-||Fastlivemagazine.com^$doc
-||Todaypronews.com^$doc
-||Usalitenetwork.com^$doc
 ||protechpost.com^$doc
-||Usaprotime.com^$doc
+||techpromagazine.co.uk^$doc
+||prousamagazine.com^$doc
+||usatimenetworks.com^$doc
+||techktime.co.uk^$doc
+||usaaitrend.co.uk^$doc
+||protimeusa.com^$doc
+||fastlivemagazine.com^$doc
+||todaypronews.com^$doc
+||usalitenetwork.com^$doc
+||protechpost.com^$doc
+||usaprotime.com^$doc
 
 
 ! https://www.facebook.com/groups/increasedadr/posts/1214485440744016/
