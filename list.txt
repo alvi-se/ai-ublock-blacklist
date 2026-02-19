@@ -177,6 +177,7 @@
 ||outofbit.it^$doc
 ||medium.com/@stackarchitect^$doc
 ||comepulire.net^$doc
+||qualcherisposta.it^$doc
 
 
 ! To PR makers: add above new, individual, entries
