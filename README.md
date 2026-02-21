@@ -83,20 +83,6 @@ The LLM will answer with an intro like `Sure! Here's an article about`. Take thi
 "Certo! Ecco un articolo"
 ```
 
-## NAQ (Never Asked Questions)
-
-**My website is on your list!**
-
-Cry about it.
-
-**But I'm just using AI to correct grammar and spell**
-
-All I hear is skill issue. Imagine needing an AI to write stuff.
-
-**I bought a domain that previously was a content farm, can you remove it?**
-
-No.
-
 ## Similar projects
 - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): this projects hides every AI related result from search engines, including
   websites that I believe are legit tools (e.g. ChatGPT). What I want instead is blocking access only to garbage AI content farms.
