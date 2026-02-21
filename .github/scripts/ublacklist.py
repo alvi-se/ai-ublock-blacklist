@@ -14,6 +14,7 @@ def convert_line(line: str) -> str | None:
 
     m = PATTERN.match(line)
     if not m:
+		print(f"Could not convert: {line}")
         return None
 
     domain_path = m.group(1)
