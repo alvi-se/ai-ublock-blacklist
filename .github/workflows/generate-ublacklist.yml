@@ -1,0 +1,28 @@
+name: Generate uBlacklist filters
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'list.txt'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert uBlock filters to uBlacklist format
+        run: |
+          python3 .github/scripts/ublacklist.py list.txt ublacklist.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ublacklist.txt
+          git diff --cached --quiet || git commit -m "Auto-generate uBlacklist filters"
+          git push
