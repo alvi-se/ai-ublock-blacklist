@@ -178,6 +178,7 @@
 ||medium.com/@stackarchitect^$doc
 ||comepulire.net^$doc
 ||qualcherisposta.it^$doc
+||geekchamp.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
