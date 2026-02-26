@@ -177,6 +177,7 @@ name: alvi-se/ai-ublock-blacklist
 *://medium.com/@stackarchitect/*
 *://comepulire.net/*
 *://qualcherisposta.it/*
+*://geekchamp.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
