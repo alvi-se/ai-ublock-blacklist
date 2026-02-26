@@ -178,6 +178,8 @@
 ||medium.com/@stackarchitect^$doc
 ||comepulire.net^$doc
 ||qualcherisposta.it^$doc
+||medium.com/@theopinionatedev^$doc
+||medium.com/@syntaxSavage^$doc
 
 
 ! To PR makers: add above new, individual, entries
