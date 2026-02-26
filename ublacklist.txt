@@ -1188,7 +1188,6 @@ name: alvi-se/ai-ublock-blacklist
 *://how2invest.mx/*
 *://indiacarez.com/*
 *://tcl.news/*
-*://apnews.com/*
 *://arcarrierpoint.net/*
 *://vamonde.com/*
 *://ziplinq.com/*
@@ -2600,7 +2599,6 @@ name: alvi-se/ai-ublock-blacklist
 *://www.otsnews.co.uk/*
 *://newspatrolling.com/*
 *://theukpost.co.uk/*
-*://bristol247.com/*
 *://www.parmapress24.it/*
 *://northiowatoday.com/*
 *://pmldaily.com/*
@@ -2619,10 +2617,8 @@ name: alvi-se/ai-ublock-blacklist
 *://www.theclintoncourier.net/*
 *://www.takeonedigitalnetwork.com/*
 *://savedelete.com/*
-*://worldcrunch.com/*
 *://dailynewshungary.com/*
 *://kahawatungu.com/*
 *://businessoutstanders.com/*
 *://www.fontmirror.com/*
-*://dailytrust.com/*
 *://www.readability.com/*
