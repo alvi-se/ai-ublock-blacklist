@@ -1226,7 +1226,8 @@
 ||how2invest.mx^$doc
 ||indiacarez.com^$doc
 ||tcl.news^$doc
-||apnews.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||apnews.com^$doc
 ||arcarrierpoint.net^$doc
 ||vamonde.com^$doc
 ||ziplinq.com^$doc
@@ -2641,7 +2642,8 @@
 ||www.otsnews.co.uk^$doc
 ||newspatrolling.com^$doc
 ||theukpost.co.uk^$doc
-||bristol247.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||bristol247.com^$doc
 ||www.parmapress24.it^$doc
 ||northiowatoday.com^$doc
 ||pmldaily.com^$doc
@@ -2660,10 +2662,12 @@
 ||www.theclintoncourier.net^$doc
 ||www.takeonedigitalnetwork.com^$doc
 ||savedelete.com^$doc
-||worldcrunch.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||worldcrunch.com^$doc
 ||dailynewshungary.com^$doc
 ||kahawatungu.com^$doc
 ||businessoutstanders.com^$doc
 ||www.fontmirror.com^$doc
-||dailytrust.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||dailytrust.com^$doc
 ||www.readability.com^$doc
