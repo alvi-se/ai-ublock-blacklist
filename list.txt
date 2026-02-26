@@ -296,6 +296,25 @@
 ||thetotalentrepreneurs.com^$doc
 ||webincomeplus.com^$doc
 ||medium.com/@abasstoriola^$doc
+||diagramlens.com^$doc
+||writtensamples.com^$doc
+||audiojust.com^$doc
+||homestuffmag.com^$doc
+||settingslab.com^$doc
+||wordsatease.com^$doc
+||knowvehicles.com^$doc
+||africanmensclothing.com^$doc
+||offgridever.com^$doc
+||bestpickshub.com^$doc
+||lagoslink.com^$doc
+||speechrepository.com^$doc
+||aichievements.com^$doc
+||lettersoo.com^$doc
+||mithaali.com^$doc
+||messagespedia.com^$doc
+||humoripedia.com^$doc
+||journalingace.com^$doc
+||myemailsamples.com^$doc
 
 ! topnotch.blog
 ||cursivealphabet.info^$doc
