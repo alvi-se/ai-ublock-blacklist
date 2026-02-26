@@ -180,6 +180,7 @@ name: alvi-se/ai-ublock-blacklist
 *://comepulire.net/*
 *://qualcherisposta.it/*
 *://geekchamp.com/*
+*://hmnshudhmn24.medium.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
