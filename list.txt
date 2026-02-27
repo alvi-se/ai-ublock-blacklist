@@ -181,6 +181,7 @@
 ||geekchamp.com^$doc
 ||hmnshudhmn24.medium.com^$doc
 ||lademeureduparc.fr^$doc
+||visualnovels.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
