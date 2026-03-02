@@ -182,6 +182,7 @@
 ||hmnshudhmn24.medium.com^$doc
 ||lademeureduparc.fr^$doc
 ||visualnovels.com^$doc
+||biggo.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
