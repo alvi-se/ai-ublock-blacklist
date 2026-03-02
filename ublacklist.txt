@@ -183,6 +183,7 @@ name: alvi-se/ai-ublock-blacklist
 *://hmnshudhmn24.medium.com/*
 *://lademeureduparc.fr/*
 *://visualnovels.com/*
+*://biggo.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
