@@ -83,6 +83,14 @@ The LLM will answer with an intro like `Sure! Here's an article about`. Take thi
 "Certo! Ecco un articolo"
 ```
 
+## (Experimental) SEO backlinks spreadsheets
+When SEO marketers advertise themselves, sometimes they publish Google Spreadsheets in which they list the websites they control. This is mostly to sell backlinks: when your website is linked by a lot of others, search engines tend to consider it as more trusted and so they will increase its rank. Or at least, this is what people who sell backlinks say. I'm not a SEO expert, so I don't actually know whether this actually works. What I've noticed though, is that websites listed in these spreadsheets are [mostly AI slop](https://github.com/alvi-se/ai-ublock-blacklist/issues/22). This can be an effective way to massively add websites to the list. However, this increases the chances of false positives: there is no guarantee that the websites are actually AI slop. [Issue 31](https://github.com/alvi-se/ai-ublock-blacklist/issues/31) shows a clear example in which popular websites have been accidentally added to the list.
+
+What I suggest is to download the spreadsheet and analyze it, to find potential false positives and remove them from the list. Here are some ways to analyze the spreadsheet:
+* **Compare it with the [Tranco list](https://tranco-list.eu/)**, as done in [issue 31](https://github.com/alvi-se/ai-ublock-blacklist/issues/31). If a site is ranked too high, it might be a false positive.
+* **Sort by traffic/price**: spreadsheets show also the traffic of the website. The more popular a website is, the more expensive a backlink from it. If a website has a particularly high traffic compared to others, it's better to inspect it.
+
+
 ## Similar projects
 - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): this projects hides every AI related result from search engines, including
   websites that I believe are legit tools (e.g. ChatGPT). What I want instead is blocking access only to garbage AI content farms.
