@@ -92,5 +92,6 @@ What I suggest is to download the spreadsheet and analyze it, to find potential 
 
 
 ## Similar projects
-- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): this projects hides every AI related result from search engines, including
+* [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): this projects hides every AI-related result from search engines, including
   websites that I believe are legit tools (e.g. ChatGPT). What I want instead is blocking access only to garbage AI content farms.
+* [Stevo's GenAI Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist): hides AI widgets from websites.
