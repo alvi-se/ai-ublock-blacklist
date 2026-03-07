@@ -184,6 +184,7 @@ name: alvi-se/ai-ublock-blacklist
 *://lademeureduparc.fr/*
 *://visualnovels.com/*
 *://biggo.com/*
+*://gizmocleaning.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
