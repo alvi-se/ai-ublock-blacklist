@@ -184,6 +184,7 @@
 ||visualnovels.com^$doc
 ||biggo.com^$doc
 ||gizmocleaning.com^$doc
+||weerg.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
