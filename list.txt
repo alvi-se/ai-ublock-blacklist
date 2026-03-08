@@ -185,6 +185,7 @@
 ||biggo.com^$doc
 ||gizmocleaning.com^$doc
 ||weerg.com^$doc
+||w3tutorials.net^$doc
 
 
 ! To PR makers: add above new, individual, entries
