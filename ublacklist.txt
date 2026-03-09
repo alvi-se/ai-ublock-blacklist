@@ -186,6 +186,7 @@ name: alvi-se/ai-ublock-blacklist
 *://biggo.com/*
 *://gizmocleaning.com/*
 *://weerg.com/*
+*://w3tutorials.net/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
