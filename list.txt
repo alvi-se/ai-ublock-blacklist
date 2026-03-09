@@ -186,6 +186,7 @@
 ||gizmocleaning.com^$doc
 ||weerg.com^$doc
 ||w3tutorials.net^$doc
+||printara3d.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
