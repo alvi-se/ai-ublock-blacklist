@@ -188,6 +188,7 @@
 ||w3tutorials.net^$doc
 ||printara3d.com^$doc
 ||coderscratchpad.com^$doc
+||javaspring.net^$doc
 
 
 ! To PR makers: add above new, individual, entries
