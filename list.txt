@@ -189,7 +189,7 @@
 ||printara3d.com^$doc
 ||coderscratchpad.com^$doc
 ||javaspring.net^$doc
-
+||vocal.media^$doc
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
