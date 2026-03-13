@@ -190,6 +190,7 @@ name: alvi-se/ai-ublock-blacklist
 *://printara3d.com/*
 *://coderscratchpad.com/*
 *://javaspring.net/*
+*://funwithlinux.net/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
