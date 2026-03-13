@@ -189,6 +189,7 @@
 ||printara3d.com^$doc
 ||coderscratchpad.com^$doc
 ||javaspring.net^$doc
+||funwithlinux.net^$doc
 
 
 ! To PR makers: add above new, individual, entries
