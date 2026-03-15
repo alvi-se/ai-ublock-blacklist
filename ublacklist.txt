@@ -191,6 +191,7 @@ name: alvi-se/ai-ublock-blacklist
 *://coderscratchpad.com/*
 *://javaspring.net/*
 *://funwithlinux.net/*
+*://videogamer.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
