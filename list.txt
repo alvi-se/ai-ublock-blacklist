@@ -190,6 +190,7 @@
 ||coderscratchpad.com^$doc
 ||javaspring.net^$doc
 ||funwithlinux.net^$doc
+||videogamer.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
