@@ -191,6 +191,7 @@
 ||javaspring.net^$doc
 ||funwithlinux.net^$doc
 ||videogamer.com^$doc
+||itsfoss.gitlab.io^$doc
 
 
 ! To PR makers: add above new, individual, entries
