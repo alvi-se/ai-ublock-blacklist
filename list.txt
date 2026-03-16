@@ -192,6 +192,7 @@
 ||funwithlinux.net^$doc
 ||videogamer.com^$doc
 ||itsfoss.gitlab.io^$doc
+||hdauto.it^$doc
 
 
 ! To PR makers: add above new, individual, entries
