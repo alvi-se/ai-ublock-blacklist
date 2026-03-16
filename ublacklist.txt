@@ -193,6 +193,7 @@ name: alvi-se/ai-ublock-blacklist
 *://funwithlinux.net/*
 *://videogamer.com/*
 *://itsfoss.gitlab.io/*
+*://hdauto.it/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
