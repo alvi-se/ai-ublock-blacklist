@@ -193,6 +193,7 @@
 ||videogamer.com^$doc
 ||itsfoss.gitlab.io^$doc
 ||hdauto.it^$doc
+||latuaauto.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
