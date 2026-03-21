@@ -195,6 +195,14 @@ name: alvi-se/ai-ublock-blacklist
 *://itsfoss.gitlab.io/*
 *://hdauto.it/*
 *://latuaauto.com/*
+*://knifeup.com/*
+*://beacleaner.com/*
+*://kitchenpluse.com/*
+*://thekitchenix.com/*
+*://knifecarehub.com/*
+*://cleaningbasic.com/*
+*://walkermetalsmith.com/*
+*://cleaney.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
