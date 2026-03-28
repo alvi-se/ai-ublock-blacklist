@@ -203,6 +203,7 @@ name: alvi-se/ai-ublock-blacklist
 *://cleaningbasic.com/*
 *://walkermetalsmith.com/*
 *://cleaney.com/*
+*://imigliore.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
