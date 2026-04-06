@@ -203,6 +203,7 @@
 ||walkermetalsmith.com^$doc
 ||cleaney.com^$doc
 ||imigliore.com^$doc
+||theoriginarchive.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
