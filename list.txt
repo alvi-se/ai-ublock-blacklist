@@ -204,6 +204,7 @@
 ||cleaney.com^$doc
 ||imigliore.com^$doc
 ||theoriginarchive.com^$doc
+||biblia-viva.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
