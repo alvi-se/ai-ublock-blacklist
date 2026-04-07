@@ -205,6 +205,7 @@ name: alvi-se/ai-ublock-blacklist
 *://cleaney.com/*
 *://imigliore.com/*
 *://theoriginarchive.com/*
+*://biblia-viva.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
