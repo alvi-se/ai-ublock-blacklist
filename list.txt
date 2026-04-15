@@ -190,7 +190,6 @@
 ||coderscratchpad.com^$doc
 ||javaspring.net^$doc
 ||funwithlinux.net^$doc
-||videogamer.com^$doc
 ||itsfoss.gitlab.io^$doc
 ||hdauto.it^$doc
 ||latuaauto.com^$doc
@@ -2717,3 +2716,10 @@
 ! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
 ! ||dailytrust.com^$doc
 ||www.readability.com^$doc
+
+! Clickout Media (https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/)
+||adventuregamers.com^$doc
+||escapistmagazine.com^$doc
+||www.gameshub.com^$doc
+||revenuepass.com^$doc
+||videogamer.com^$doc
