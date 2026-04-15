@@ -191,7 +191,6 @@ name: alvi-se/ai-ublock-blacklist
 *://coderscratchpad.com/*
 *://javaspring.net/*
 *://funwithlinux.net/*
-*://videogamer.com/*
 *://itsfoss.gitlab.io/*
 *://hdauto.it/*
 *://latuaauto.com/*
@@ -2671,3 +2670,8 @@ name: alvi-se/ai-ublock-blacklist
 *://businessoutstanders.com/*
 *://www.fontmirror.com/*
 *://www.readability.com/*
+*://adventuregamers.com/*
+*://escapistmagazine.com/*
+*://www.gameshub.com/*
+*://revenuepass.com/*
+*://videogamer.com/*
