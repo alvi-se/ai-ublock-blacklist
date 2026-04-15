@@ -206,6 +206,7 @@ name: alvi-se/ai-ublock-blacklist
 *://imigliore.com/*
 *://theoriginarchive.com/*
 *://biblia-viva.com/*
+*://cursorrules.org/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
@@ -2644,7 +2645,6 @@ name: alvi-se/ai-ublock-blacklist
 *://startupblog.co.uk/*
 *://mmsbee.co.uk/*
 *://celebvogue.com/*
-*://cursorrules.org/*
 *://www.otsnews.co.uk/*
 *://newspatrolling.com/*
 *://theukpost.co.uk/*
