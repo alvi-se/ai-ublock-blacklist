@@ -2644,6 +2644,7 @@ name: alvi-se/ai-ublock-blacklist
 *://startupblog.co.uk/*
 *://mmsbee.co.uk/*
 *://celebvogue.com/*
+*://cursorrules.org/*
 *://www.otsnews.co.uk/*
 *://newspatrolling.com/*
 *://theukpost.co.uk/*
