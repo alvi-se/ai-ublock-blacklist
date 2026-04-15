@@ -205,6 +205,7 @@
 ||imigliore.com^$doc
 ||theoriginarchive.com^$doc
 ||biblia-viva.com^$doc
+||cursorrules.org^$doc
 
 
 ! To PR makers: add above new, individual, entries
@@ -2682,7 +2683,6 @@
 ||startupblog.co.uk^$doc
 ||mmsbee.co.uk^$doc
 ||celebvogue.com^$doc
-||cursorrules.org^$doc
 
 ! https://www.facebook.com/usman.warraich.136036/posts/pfbid02NvvbXTrZWysxJxhWRTn4qHvD7mFAk8yRpWUMFQmqLYppqU2dNmQwZX643w9Q9dEvl
 ||www.otsnews.co.uk^$doc
