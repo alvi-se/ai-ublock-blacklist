@@ -180,6 +180,33 @@
 ||qualcherisposta.it^$doc
 ||medium.com/@theopinionatedev^$doc
 ||medium.com/@syntaxSavage^$doc
+||geekchamp.com^$doc
+||hmnshudhmn24.medium.com^$doc
+||lademeureduparc.fr^$doc
+||visualnovels.com^$doc
+||biggo.com^$doc
+||gizmocleaning.com^$doc
+||weerg.com^$doc
+||w3tutorials.net^$doc
+||printara3d.com^$doc
+||coderscratchpad.com^$doc
+||javaspring.net^$doc
+||funwithlinux.net^$doc
+||itsfoss.gitlab.io^$doc
+||hdauto.it^$doc
+||latuaauto.com^$doc
+||knifeup.com^$doc
+||beacleaner.com^$doc
+||kitchenpluse.com^$doc
+||thekitchenix.com^$doc
+||knifecarehub.com^$doc
+||cleaningbasic.com^$doc
+||walkermetalsmith.com^$doc
+||cleaney.com^$doc
+||imigliore.com^$doc
+||theoriginarchive.com^$doc
+||biblia-viva.com^$doc
+||cursorrules.org^$doc
 
 
 ! To PR makers: add above new, individual, entries
@@ -296,6 +323,25 @@
 ||thetotalentrepreneurs.com^$doc
 ||webincomeplus.com^$doc
 ||medium.com/@abasstoriola^$doc
+||diagramlens.com^$doc
+||writtensamples.com^$doc
+||audiojust.com^$doc
+||homestuffmag.com^$doc
+||settingslab.com^$doc
+||wordsatease.com^$doc
+||knowvehicles.com^$doc
+||africanmensclothing.com^$doc
+||offgridever.com^$doc
+||bestpickshub.com^$doc
+||lagoslink.com^$doc
+||speechrepository.com^$doc
+||aichievements.com^$doc
+||lettersoo.com^$doc
+||mithaali.com^$doc
+||messagespedia.com^$doc
+||humoripedia.com^$doc
+||journalingace.com^$doc
+||myemailsamples.com^$doc
 
 ! topnotch.blog
 ||cursivealphabet.info^$doc
@@ -1228,7 +1274,8 @@
 ||how2invest.mx^$doc
 ||indiacarez.com^$doc
 ||tcl.news^$doc
-||apnews.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||apnews.com^$doc
 ||arcarrierpoint.net^$doc
 ||vamonde.com^$doc
 ||ziplinq.com^$doc
@@ -2638,12 +2685,12 @@
 ||mmsbee.co.uk^$doc
 ||celebvogue.com^$doc
 
-
 ! https://www.facebook.com/usman.warraich.136036/posts/pfbid02NvvbXTrZWysxJxhWRTn4qHvD7mFAk8yRpWUMFQmqLYppqU2dNmQwZX643w9Q9dEvl
 ||www.otsnews.co.uk^$doc
 ||newspatrolling.com^$doc
 ||theukpost.co.uk^$doc
-||bristol247.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||bristol247.com^$doc
 ||www.parmapress24.it^$doc
 ||northiowatoday.com^$doc
 ||pmldaily.com^$doc
@@ -2662,10 +2709,23 @@
 ||www.theclintoncourier.net^$doc
 ||www.takeonedigitalnetwork.com^$doc
 ||savedelete.com^$doc
-||worldcrunch.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||worldcrunch.com^$doc
 ||dailynewshungary.com^$doc
 ||kahawatungu.com^$doc
 ||businessoutstanders.com^$doc
 ||www.fontmirror.com^$doc
-||dailytrust.com^$doc
+! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
+! ||dailytrust.com^$doc
 ||www.readability.com^$doc
+
+! Clickout Media (https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/)
+||adventuregamers.com^$doc
+||escapistmagazine.com^$doc
+||www.gameshub.com^$doc
+||revenuepass.com^$doc
+||videogamer.com^$doc
+
+! westdary@gmail.com
+||dcinl.com^$doc
+||definicionwiki.com^$doc
