@@ -2723,3 +2723,7 @@
 ||www.gameshub.com^$doc
 ||revenuepass.com^$doc
 ||videogamer.com^$doc
+
+! westdary@gmail.com
+||dcinl.com^$doc
+||definicionwiki.com^$doc
