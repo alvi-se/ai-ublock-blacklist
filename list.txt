@@ -178,6 +178,8 @@
 ||medium.com/@stackarchitect^$doc
 ||comepulire.net^$doc
 ||qualcherisposta.it^$doc
+||medium.com/@theopinionatedev^$doc
+||medium.com/@syntaxSavage^$doc
 ||geekchamp.com^$doc
 ||hmnshudhmn24.medium.com^$doc
 ||lademeureduparc.fr^$doc
