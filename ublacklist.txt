@@ -2675,3 +2675,5 @@ name: alvi-se/ai-ublock-blacklist
 *://www.gameshub.com/*
 *://revenuepass.com/*
 *://videogamer.com/*
+*://dcinl.com/*
+*://definicionwiki.com/*
