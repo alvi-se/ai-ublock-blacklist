@@ -208,6 +208,7 @@ name: alvi-se/ai-ublock-blacklist
 *://theoriginarchive.com/*
 *://biblia-viva.com/*
 *://cursorrules.org/*
+*://ejemplo.com.ar/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
