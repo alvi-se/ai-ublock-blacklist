@@ -208,6 +208,7 @@
 ||biblia-viva.com^$doc
 ||cursorrules.org^$doc
 ||ejemplo.com.ar^$doc
+||dotlinux.net^$doc
 
 
 ! To PR makers: add above new, individual, entries
