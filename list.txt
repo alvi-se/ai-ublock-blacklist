@@ -209,6 +209,7 @@
 ||cursorrules.org^$doc
 ||ejemplo.com.ar^$doc
 ||dotlinux.net^$doc
+||medium.com/@ooikrish13^$doc
 
 
 ! To PR makers: add above new, individual, entries
