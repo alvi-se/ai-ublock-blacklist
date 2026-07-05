@@ -211,6 +211,7 @@ name: alvi-se/ai-ublock-blacklist
 *://ejemplo.com.ar/*
 *://dotlinux.net/*
 *://medium.com/@ooikrish13/*
+*://tecnobits.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
