@@ -211,7 +211,7 @@
 ||dotlinux.net^$doc
 ||medium.com/@ooikrish13^$doc
 ||tecnobits.com^$doc
-
+||fdaytalk.com^$doc
 
 ! To PR makers: add above new, individual, entries
 ! If you are instead adding entries related to each other
