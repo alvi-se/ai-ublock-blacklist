@@ -1,0 +1,941 @@
+{
+    "name": "main",
+    "references": [],
+    "sites": [
+        {
+            "site": "soundscapehq.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "oldtimemusic.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gottamentor.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalustad.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hatchjs.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "feedalpha.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dhiwise.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "golinuxcloud.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "slingacademy.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "flatirons.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cognisys.group",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cognisys.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "katalon.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dnmtechs.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "robots.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ansonalex.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "codingdeeply.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "astrostellar.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "somethingup.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "xaydungso.vn",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "telescopeguides.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "devgem.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "studiolegalelavorospoltore.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "palisade.email",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "learn-it-university.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gbtimes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "astro-observer.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "glossykitchen.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theproperkitchen.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "elvanco.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aboutwaffles.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sprinkledata.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "stargazez.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "madpenguin.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "umatechnology.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "phoneswiz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nhanvietluanvan.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "itslinuxfoss.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cyberly.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "linguateacher.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "learnpal.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "talkpal.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "grammartutor.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "howtouselinux.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "linuxhandbook.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sqlpey.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techxplore.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "poespas.me",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "viaggiaresereni.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pcmena.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "religiousquestion.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "namso-gen.co",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "webasha.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "coderivers.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pythonmania.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pytutorial.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thelinuxcode.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cmder.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "soliditylibraries.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sinkeetools.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "zenrows.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "proxiesapi.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thejapanesearts.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "maheshnotes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "iccivitella.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "curiosandosimpara.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "in3giorni.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "w3schools.tech",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gufosaggio.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sslinsights.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "evmfrontier.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bomberbot.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tecomeeting.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dailyknowlege.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicqa.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bugbase.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "towardsdev.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "compilenrun.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "studyraid.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "esportgaming.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "incognito.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "justwebworld.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "e-choose.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gravita-zero.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "itb.co.jp",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "maurizioinfante.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "magnofood.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bestonlinetutorial.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "expertbeacon.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dottssamincinesi.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "roma.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "musicattitude.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "travelated.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wirelessgate.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "atleticavalledicembra.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fuoriporta.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "farmaciaintroini.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pivovarlouka.cz",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dev.to/nadimtuhin",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "undercodenews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gamer-king.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "financefixer7.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "animecreation.hashnode.dev",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "helpleft.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "danieleteti.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "toursetlist.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "programmazionepython.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "publit.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fastercapital.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "8designers.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bobcares.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mondoandroid.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "windowsforum.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "netecitalia.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "achivx.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tuttodigitale.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wemedia.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "affarifinanza.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thebatterytips.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "androidguias.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "3d-p.eu",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "soundproofgeek.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "neuralword.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pupuweb.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dn.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "grokipedia.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "playgama.com/blog",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "askai.glarity.app",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "exactlyhowlong.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "easytechsolver.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cronistadiario.com.ar",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kalilinuxtutorials.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "forensicosint.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "linuxbash.sh",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "silverscreennation.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ilsignificatodi.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "yohomobile.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "laseroffice.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "songmeaningsandfacts.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mylikeled.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hyperclapper.com/blog-posts",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "amateurphotographerguide.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "magiskzip.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "linuxvox.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cyberpost.co",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gameslearningsociety.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "psicologiainsiemelivorno.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "homecleaningstuff.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techbloat.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "clrn.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dev.to/keploy",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "rankingcoach.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "latex-tutorial.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "snowboardinghelp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "codegenes.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "outofbit.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "comepulire.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "qualcherisposta.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "geekchamp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lademeureduparc.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "visualnovels.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biggo.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gizmocleaning.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "weerg.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "w3tutorials.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "printara3d.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "coderscratchpad.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "javaspring.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "funwithlinux.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "itsfoss.gitlab.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hdauto.it",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "latuaauto.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "knifeup.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "beacleaner.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kitchenpluse.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thekitchenix.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "knifecarehub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cleaningbasic.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "walkermetalsmith.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cleaney.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "imigliore.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theoriginarchive.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biblia-viva.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cursorrules.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ejemplo.com.ar",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dotlinux.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tecnobits.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

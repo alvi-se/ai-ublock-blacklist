@@ -1,0 +1,653 @@
+{
+    "name": "GSheet 2",
+    "references": [
+		"https://docs.google.com/spreadsheets/d/12p7JjN_fslQG7Zk9RDtRc0k6ZWfBvVgRJUhA_I-XvH0/edit?gid=0#gid=0"
+	],
+    "sites": [
+        {
+            "site": "widerweekly.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "boldlynames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "holylordsprayer.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "goldbuzz.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "blessingspower.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "swiftypuns.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "azjankari.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "crumbllineup.us",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "foodiejokes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bhoomi-rtconline.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "networthexplore.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "popularmarathi.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nameslections.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shayaritoyou.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "finitenames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "punsberry.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wishpulses.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "niceblessings.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebsbiofolio.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fanzynames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mybioshow.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fozymessages.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techflee.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "measurevan.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pentomagazine.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shayaripower.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shayaribloom.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "righter.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hypeprofiles.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "educationalbaba.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hunkwizards.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "starttostory.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "londonlifemagazine.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "captionsskill.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "creckler.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "funnyknockknockjoke.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "punnyuniverse.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "legendsbios.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "infotopbio.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gracejabbaribio.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "infobiosphere.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "punnz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "guestcollab.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wordstwists.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "craftypuns.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fulcharmnames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "photosvibe.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sgmenulover.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fantasenamegenerator.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "punsclick.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebsglory.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lordofnames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "allfunnypuns.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "phlmenus.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "informativevibes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aniversarycaption.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "alltimenames.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pickuplinlove.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fantomagazines.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "namezorigins.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "grammarapex.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "prayervibe.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "trackmasti.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wittyrizz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "goffaw.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sgmymenu.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "livesrecords.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bigmagazine.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "liftingmags.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biojourneyhub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biographywise.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bioinfolabe.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bioscops.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "onlineinfoes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newzcenter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "trendlandmagazine.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hunkwhiz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biblepulze.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hindsayari.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "brieflynews.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lifedetailshub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "riddlor.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "photosbull.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lagendtime.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "learninger.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "empirecaption.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "golfreddit.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biodetailshub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "betterprayers.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lexiquester.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kickyreport.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "legendsbioworld.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebblinks.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebeinfos.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebrityinfolab.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biographywealth.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biovaulttech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biozooworld.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "biowikivibes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "networthrises.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "livesinfobook.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "photoscollection.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "networthages.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sohobio.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mybestbios.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "photoslink.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "replyswift.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "namescrafter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "allhindishayari.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "matchplayerstat.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "usacelebzone.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "starswife.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gksawal.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "celebritybiograph.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "networthaudit.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wellhealthorganics.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "joinworld2.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newslinkkshubs.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "legendarynetworth.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "strivecreatives.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "networthvenue.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mediasprints.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "adilifestyle.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sportstakedown.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "richlifeinsiders.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "exchangetime24.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "makeovera.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kamalasohonie.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "digitalworldstyle.org",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

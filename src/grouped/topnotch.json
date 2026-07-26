@@ -1,0 +1,63 @@
+{
+    "name": "topnotch",
+    "references": [
+		"topnotch.blog"
+	],
+    "sites": [
+        {
+            "site": "cursivealphabet.info",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "digiprocenter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "emojimeme.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fitguideline.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "inmarketingbiz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newear.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "oldreddit.info",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "premiumtechcenter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "publicasino.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tabooworld.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wheongames.net",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

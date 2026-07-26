@@ -1,0 +1,14 @@
+{
+    "name": "facebook",
+    "references": [
+		"https://github.com/alvi-se/ai-ublock-blacklist/issues/21",
+		"https://www.facebook.com/groups/124910653034839/"
+	],
+    "sites": [
+        {
+            "site": "lookwhatmomfound.org",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}
