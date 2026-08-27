@@ -47,7 +47,6 @@
 ||sprinkledata.com^$doc
 ||stargazez.com^$doc
 ||madpenguin.org^$doc
-||umatechnology.org^$doc
 ||phoneswiz.com^$doc
 ||nhanvietluanvan.com^$doc
 ||itslinuxfoss.com^$doc
@@ -180,7 +179,6 @@
 ||qualcherisposta.it^$doc
 ||medium.com/@theopinionatedev^$doc
 ||medium.com/@syntaxSavage^$doc
-||geekchamp.com^$doc
 ||hmnshudhmn24.medium.com^$doc
 ||lademeureduparc.fr^$doc
 ||visualnovels.com^$doc
@@ -2751,3 +2749,13 @@
 ||impdf.com^$doc
 ||undopdf.com^$doc
 ||crackpdf.com^$doc
+
+! Yorker Media (https://github.com/popcar2/BadWebsiteBlocklist/issues/1 and https://github.com/alvi-se/ai-ublock-blacklist/pull/27)
+||umatechnology.org^$doc
+||geekchamp.com^$doc
+||masteryourtech.com^$doc
+||supportyourtech.com^$doc
+||live2tech.com^$doc
+||solveyourtech.com^$doc
+||i5apps.com^$doc
+||mefmobile.org^$doc
