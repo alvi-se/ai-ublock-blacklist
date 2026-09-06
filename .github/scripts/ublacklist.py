@@ -2,12 +2,20 @@
 
 from glob import glob
 import json
+import sys
 
 
-input_filenames = glob("./src/**/*.json", recursive=True)
+if __name__ == "__main__":
+    input_filenames = glob("./src/**/*.json", recursive=True)
 
-with open("./ublacklist.txt", "wt") as output_file:
-    output_file.write("""---
+    if not input_filenames:
+        print("No JSON files found under ./src/**", file=sys.stderr)
+        sys.exit(1)
+
+    total_sites = 0
+
+    with open("./ublacklist.txt", "wt") as output_file:
+        output_file.write("""---
 name: alvi-se/ai-ublock-blacklist
 ---
 
@@ -15,12 +23,19 @@ name: alvi-se/ai-ublock-blacklist
 
 """)
 
-    for filename in input_filenames:
-        output_file.write(f"\n# Reading file {filename}\n")
-        with open(filename, "rt") as input_file:
-            input_source = json.load(input_file)
-        
-        for s in input_source["sites"]:
-            line = "*://%s/*\n" % s["site"]
-            output_file.write(line)
+        for filename in input_filenames:
+            try:
+                with open(filename, "rt") as input_file:
+                    input_source = json.load(input_file)
+                sites = input_source.get("sites", [])
+                print(f"Processing {filename}: {len(sites)} sites")
+                output_file.write(f"\n# Reading file {filename}\n")
+                for s in sites:
+                    line = "*://%s/*\n" % s["site"]
+                    output_file.write(line)
+                total_sites += len(sites)
+            except (json.JSONDecodeError, KeyError, OSError) as e:
+                print(f"Error reading {filename}: {e}", file=sys.stderr)
+                sys.exit(1)
 
+    print(f"Wrote {total_sites} sites to ./ublacklist.txt")

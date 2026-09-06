@@ -24,6 +24,7 @@ jobs:
           python3 .github/scripts/ublacklist.py
 
       - name: Commit and push if changed
+        if: ${{ !env.ACT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
