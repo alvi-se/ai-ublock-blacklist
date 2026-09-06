@@ -213,6 +213,7 @@ name: alvi-se/ai-ublock-blacklist
 *://medium.com/@ooikrish13/*
 *://tecnobits.com/*
 *://fdaytalk.com/*
+*://toolerific.ai/*
 *://toolify.ai/*
 *://unanswered.io/*
 *://runtimewire.com/*
