@@ -78,7 +78,7 @@ site like this:
     "sites": [
         // ... Other sites
         {
-            site: "<last site before yours>"
+            "site": "<last site before yours>",
             "reason": "AI slop",
             "references": []
         },  // Remember to add this comma
@@ -91,6 +91,15 @@ site like this:
     ]
 }
 ```
+Explanation:
+* The `site` attribute contains the site to be blocked. It is mandatory.
+* The `reason` attribute contains a string that will be shown in the page
+  which is displayed when a page is blocked by uBlock Origin. You can default
+  it to "AI slop", but you are welcome to add more info if necessary
+  (e.g. malware). It is mandatory.
+* `references` is an array of strings that can store any external reference
+  if needed. It is mandatory, but it can be left empty.
+  
 
 If you find multiple entries related to each other, you are welcome to group
 them into a new file, saved in `./src/grouped/`. Take a look at files inside
