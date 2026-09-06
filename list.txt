@@ -212,6 +212,7 @@
 ||medium.com/@ooikrish13^$doc
 ||tecnobits.com^$doc
 ||fdaytalk.com^$doc
+||unanswered.io^$doc
 ||runtimewire.com^$doc
 ||electronics.alibaba.com^$doc
 
