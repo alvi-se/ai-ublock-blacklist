@@ -936,6 +936,36 @@
             "site": "tecnobits.com",
             "reason": "AI slop",
             "references": []
+        },
+        {
+            "site": "fdaytalk.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "toolerific.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "toolify.ai",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "unanswered.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "runtimewire.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "electronics.alibaba.com",
+            "reason": "AI slop",
+            "references": []
         }
     ]
 }
