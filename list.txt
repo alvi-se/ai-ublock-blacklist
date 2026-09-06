@@ -212,6 +212,7 @@
 ||medium.com/@ooikrish13^$doc
 ||tecnobits.com^$doc
 ||fdaytalk.com^$doc
+||runtimewire.com^$doc
 ||electronics.alibaba.com^$doc
 
 ! To PR makers: add above new, individual, entries
