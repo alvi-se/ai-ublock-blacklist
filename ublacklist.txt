@@ -213,6 +213,9 @@ name: alvi-se/ai-ublock-blacklist
 *://medium.com/@ooikrish13/*
 *://tecnobits.com/*
 *://fdaytalk.com/*
+*://unanswered.io/*
+*://runtimewire.com/*
+*://electronics.alibaba.com/*
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
 *://ambrosibicicletas.com.ar/*
