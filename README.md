@@ -1,11 +1,18 @@
 # AI uBlock Origin Blacklist
-A personal list for [uBlock Origin](https://github.com/gorhill/uBlock) blocking AI content farms. Pull requests welcome.
+A personal list for [uBlock Origin](https://github.com/gorhill/uBlock) and [uBlacklist](https://github.com/iorate/ublacklist) blocking AI content farms. Pull requests welcome.
 
 ## Install
-You can [click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) to subscribe to this list automatically. This link works only if you have uBlock Origin installed.
+### Ublock Origin
+You can [click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) to subscribe to this list automatically on uBlock Origin.
 
-Alternatively, import the following URL as a 3rd party list in uBlock Origin.
+Alternatively, you import it manually by going in the uBlock Origin options, *Filter lists* tab > *Import...* and entering the following URL:
 * `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt`
+
+### uBlacklist
+[Click here](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Frefs%2Fheads%2Fmaster%2Fublacklist%2Etxt) to automatically subscribe to the list.
+
+Alternatively, you can manually subscribe to the list going to Options in uBlacklist > Subscription > Add a subscription button, and entering the following link on `URL`:
+* `https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/refs/heads/master/ublacklist.txt`
 
 ## Why?
 While browsing it happens ~sometimes~ [**most of the times**](https://www.axios.com/2025/10/14/ai-generated-writing-humans) that I come across websites which text is written by generative AI. These websites provide no useful information, have mediocre content and are filled up with ads and referral links to earn money.
@@ -22,19 +29,81 @@ However, there is indeed some bias for my entries. For example, as I am an Itali
 ## How to add websites
 If you're not a technical user and don't know how GitHub works, simply report your suspects creating an issue, by clicking [here](https://github.com/alvi-se/ai-ublock-blacklist/issues/new).
 
+If you want to create a pull request, here's how to add sites to the list.
 
-If you want to create a pull request, here's how to add a website to the list.
+### Repository structure
+The repository stores the blocked sites in JSON format. All files are stored in
+the `./src/` folder, where:
+* The `./src/main.json` file stores entries found randomly, not related each other.
+* The `./src/grouped/` folder stores sites grouped in different files. Sites on
+  the same file have some kind of relationship (e.g. same source).
+* The `./src/sheets/` folder stores sites imported by some Google Spreadsheets
+  (see below for more explanations about this)
+
+Each file has the following structure:
+```json
+{
+    "name": "<Name of the list>",
+    "references": [
+		"<Any kind of reference for the list>",
+        "<Can be empty, as in the case of main.json>"
+	],
+    "sites": [
+        {
+            "site": "<site to block>",
+            "reason": "<reason for being added here>",
+            "references": []
+        },
+        {
+            "site": "<another site to block>",
+            "reason": "<reason for being added here>",
+            "references": []
+        }
+    ]
+}
+```
+Sites to be added are defined as a JSON object inside the `sites` array.
+
+### Adding sites
 First, try to find the scope of the AI spammer. Usually, it will be a domain, but I've found also a lot of Medium blogs or dev.to blogs. These platforms should not be blocked as a whole, but just the blog who's spamming.
 
-Say that you want to add entry `example.com/@slopUser`, simply put a line to file `list.txt` as following:
-```adblock
-||example.com/@slopUser^$doc
+Say that you want to add site `example.com/@slopUser`. Create a new JSON object
+at the bottom of the `sites` array in the `./src/main.json` object and add the
+site like this:
+```jsonc
+// ./src/main.json
+{
+    "name": "main",
+    "references": [],
+    "sites": [
+        // ... Other sites
+        {
+            "site": "<last site before yours>",
+            "reason": "AI slop",
+            "references": []
+        },  // Remember to add this comma
+        // Here add your website
+        {
+            "site": "example.com/@slopUser",
+            "reason": "AI slop",
+            "references": []
+        }   // No trailing comma!
+    ]
+}
 ```
+Explanation:
+* The `site` attribute contains the site to be blocked. It is mandatory.
+* The `reason` attribute contains a string that will be shown in the page
+  which is displayed when a page is blocked by uBlock Origin. You can default
+  it to "AI slop", but you are welcome to add more info if necessary
+  (e.g. malware). It is mandatory.
+* `references` is an array of strings that can store any external reference
+  if needed. It is mandatory, but it can be left empty.
+  
 
-The whole `example.com` domain hosts AI garbage, you say? Add only the domain:
-```adblock
-||example.com^$doc
-```
+If you find multiple entries related to each other, you are welcome to group
+them into a new file, saved in `./src/grouped/`. Take a look at files inside
+that folder for some examples.
 
 If you really hate AI and have a lot of time to spend, you are welcome to do some research about the website you have found. Most of these content farms are built by people or organizations [who sell SEO and digital marketing](https://www.fiverr.com/categories/online-marketing/seo-services/seo-packages).
 If you find the source, you might also find other content farms they have created. If you do, add them at the bottom of the file.

@@ -1,0 +1,17 @@
+name: Validate JSON site lists
+
+on:
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install ajv-cli
+        run: npm install ajv-cli
+
+      - name: Validate all JSON files in ./src
+        run: npx ajv-cli validate -s schema.json -d "src/**/*.json"

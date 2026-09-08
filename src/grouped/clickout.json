@@ -1,0 +1,33 @@
+{
+    "name": "clickout",
+    "references": [
+		"https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/"
+	],
+    "sites": [
+        {
+            "site": "adventuregamers.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "escapistmagazine.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.gameshub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "revenuepass.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "videogamer.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

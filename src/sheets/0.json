@@ -1,0 +1,1749 @@
+{
+    "name": "GSheet 0",
+    "references": [
+		"https://github.com/alvi-se/ai-ublock-blacklist/issues/22",
+		"https://docs.google.com/spreadsheets/d/1zKJCjtuDbDFEj6pGHApRfnKCs8wrlXB5644KE35fQHk/edit?gid=0#gid=0"
+	],
+    "sites": [
+        {
+            "site": "techsslaash.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "arcarrierpoint.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techclash.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tidalwavecarwashes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "droidkit.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.ucatruco.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "taskbarx.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "isaimini.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theproxyium.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "grouplink.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theoceanofpdf.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.yatrucoff.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tidalwavecarwashes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "woeusb.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "9xflix.vip",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dignotech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wingetui.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "winsetupfromusb.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theirishmirror.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lidnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techsuse.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mlwbd.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviesda.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wishes.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newspaperinsider.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "investorweeklynews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "morningtimenews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dailynewswork.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.dailydishnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techmarsh.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "skymovies.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "veganizoo.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sevenseventech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tutosdescargas.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newsross.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newscod.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techchevy.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "journalnewsinfo.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ormetech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "unsentproject.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mytecharm.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newsdailysources.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newsthere.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Sarkarisangam.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "carmannews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.honestnewsdaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theunsentproject.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moonvalleynews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviemad.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bioofy.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aavot.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "greennewsdesk.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theunsentproject.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dailynewslaw.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "paperearn.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "relatednewsnetwork.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "eaterys101.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ueldomesquita.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.portalnewsletter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "portalnewsletter.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "jiorockers.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sarkari-ujala.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "infoohub.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tamilblasters.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "uwatchfree.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "insurancemedianews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vibrancegui.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "notontech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "isaidubs.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "toffeeshare.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "reliablenewsdaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mediumbloggers.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "marketmedianews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newsworlddaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "khatrimaza.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "recordnewswire.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "stelladimokoblog.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "goodbyedpi.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cookape.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.newspapercast.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sohohindipro.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "webteknohaber.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vcxsrv.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hindiyaro.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techdemis.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "zvideopro.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mahitechinfo.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tamilmv.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techhopes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "instabiostyle.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Techbigs.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thebusinessnewstips.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techyhittools.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "afilmywap.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "crystaldiskmark.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "apkdone.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ofilmywap.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "grepwin.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theuploadarticle.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Jobshankar.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kuttymoviess.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tegrarcmgui.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviesdaa.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "buildingbusinessnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hoodsite.info",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "downloaderic.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thelindaikejiblog.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "todaypk.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aestheticsymbolslist.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wiztree.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "klwap.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.moneynewsweb.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hogatogaa.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ssrmovies.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviesnation.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techgup.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "businessnewstips.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "rdxhd.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ueldotech.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "turforiginal.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lankacnews.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "movieswood.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "filmywap.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mqttexplorer.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ibommaa.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tamilprint.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviesming.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "swiftrespond.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dazzcam.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wolniturf.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Biharjobportal.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "protrumpnews.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kongotech.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "myflixer.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "soundbuttonsworld.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviespapa.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Modyukle.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gerarcpf.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "istaunch.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theworldfree4u.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sagethumbs.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "clonehero.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "croxyproxy.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "allmacworldz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "peaceequalizer.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wbsedcl.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Sasgujarat.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mynorthwestnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Punjabeducare.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "spotifypremium.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lionapk.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vizaca.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lindaikejinews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techyperfect.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalmastermind.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "paidforarticles.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theprintablestencils.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "cricinfo.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technukti.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "jharupdate.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviezwap.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kolkatafatafatghoshbabu.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "whatsgrouplinks.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mrmeasurements.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "istaunch.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hdmovie2.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hdmovies4u.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "rajkotupdatesnews.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dotmovie.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "eduuolvera.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "scopearth.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "beautifuldp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ajiraportalnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mallumv.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "searchingforsingles.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sarkariwardi.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "soap2day.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "masnoonduain.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "digitalfact.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "allpcworld.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "deledresult.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thefreetricks.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "igfont.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hindikaro.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "brookbtaube.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "inshot.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "How2invest.com.mx",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mybestbio.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technoajeet.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "easytonet.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "istudyinfo.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techgues.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "caption.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "naturerealytr.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dvdplay.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "irishindependentnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "stylishdp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bekirturf.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theexplorevenango.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aaryaeditz.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bijoybayanno.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ludoking.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "moviesmod.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "minimilitia.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "free3dsky.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewstop.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "istudyinfo.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ytteacher.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "apk48.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "b92sport.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thebelfasttelegraph.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kltutors.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mobilehms.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "emptycharacter.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "filmy4waps.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "getintomypc.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewstop.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thekhaleejtimes.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalmastermind.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thedepedtambayan.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "girldp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "friendsdp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "foxi.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "istudyinfo.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gomplayer.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thehindu.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "expertmistry.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ezectech.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "helphindi.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "etcherdownload.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bebak.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "linustechtips.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewztop.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hijabdp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "unsentproject.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hindinews.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "message.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "igetintopc.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "yomovie.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lookwhatmomfound.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wellhealthorganics.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "downloaddp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "arcarrierpoint.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "camerounweb.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewztop.news",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "armyemaillogin.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "metalinjections.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "assamtribune.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "essutumishi.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "xposedmagazine24.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sakshi.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalmasterminds.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "oilcitynews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hefkervelt.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techsslassh.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tekdost.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tafcopportal.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewstop.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techbadbatch.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nsnewsindia.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "rivatunerdown.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "beforeitsnews.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "azeplusyukle.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalmastermind.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "loudwire.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techoutages.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vosizneias.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thunderstormnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "matlablegend.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thedigitaljournal.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techktimes.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "chantcourse.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "leduoduturf.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wabetainfonews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "latestukrainenews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "turfmagazine.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techsslash.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wheon.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fizara.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bloghyper.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "rumormillnews.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ifsc.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techarticles.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bondinews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "indexationnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kolkatafatafattips.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thetechnotricks.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "travelwarningnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "responsefully.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "iphonephotographyschool.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "unsentproject.online",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mastimorning.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "modeditor.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hamsafarlyrics.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lightroom.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "settinghelp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "reminimodapk.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "alightmotion.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Sarkaricenter.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nicedp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "coffeemanga.cam",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "ownsby.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "free4pc.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nicephrase.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "activegrouplinks.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "funkeelife.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shortcaption.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "iwastesomuchtime.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "scholarshiponline.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "oneindia.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "iptvsmarterpro.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shayaricollection.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "onewordcaptions.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "iptvplaylist.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sarkarieducation.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sarkariupdate.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "fullform.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "uniquecompliment.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pdfdrives.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "sarkaribharat.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mummyname.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lista-iptv.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "catguide101.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "photosly.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "attractivedp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "myusernamelist.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "Ddlworld.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nextexamtak.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hindikahani.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "whatsappgrouplink.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thequotes.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "windgustnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "outdoorproject.co.uk",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "khanaparateer.co.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aboutlines.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "statuscrush.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dpwallpaper.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "listaiptv360.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "beingselfish.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "shortbioideas.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "businessmagazines.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "businessdaily.com.in",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technewstop.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nswpolicenews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "latestroyalnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tropicalcyclonenews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "kongotech.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "technicalmasterminds.org",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

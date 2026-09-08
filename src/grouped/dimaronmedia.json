@@ -1,0 +1,183 @@
+{
+    "name": "dimaronmedia",
+    "references": [
+		"https://github.com/alvi-se/ai-ublock-blacklist/pull/11"
+	],
+    "sites": [
+        {
+            "site": "abasstoriola.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "gearprobe.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "goalshaven.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vpnalysis.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "calculatority.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "palabraseficaces.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "speechesonly.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "recipesnmeals.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "motsefficaces.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "nigerianprice.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "checklistoo.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "settingsmag.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "allnetworks.com.ng",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thetotalentrepreneurs.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "webincomeplus.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "medium.com/@abasstoriola",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "diagramlens.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "writtensamples.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "audiojust.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "homestuffmag.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "settingslab.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "wordsatease.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "knowvehicles.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "africanmensclothing.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "offgridever.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "bestpickshub.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lagoslink.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "speechrepository.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "aichievements.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lettersoo.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mithaali.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "messagespedia.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "humoripedia.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "journalingace.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "myemailsamples.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}
