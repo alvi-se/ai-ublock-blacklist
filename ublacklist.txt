@@ -40,7 +40,6 @@ name: alvi-se/ai-ublock-blacklist
 *://sprinkledata.com/*
 *://stargazez.com/*
 *://madpenguin.org/*
-*://umatechnology.org/*
 *://phoneswiz.com/*
 *://nhanvietluanvan.com/*
 *://itslinuxfoss.com/*
@@ -154,7 +153,6 @@ name: alvi-se/ai-ublock-blacklist
 *://gameslearningsociety.org/*
 *://psicologiainsiemelivorno.it/*
 *://homecleaningstuff.com/*
-*://techbloat.com/*
 *://clrn.org/*
 *://dev.to/keploy/*
 *://rankingcoach.com/*
@@ -164,7 +162,6 @@ name: alvi-se/ai-ublock-blacklist
 *://outofbit.it/*
 *://comepulire.net/*
 *://qualcherisposta.it/*
-*://geekchamp.com/*
 *://lademeureduparc.fr/*
 *://visualnovels.com/*
 *://biggo.com/*
