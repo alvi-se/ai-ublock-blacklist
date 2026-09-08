@@ -1,0 +1,53 @@
+{
+    "name": "Yorker Media",
+    "references": [
+		"https://github.com/alvi-se/ai-ublock-blacklist/issues/64"
+	],
+    "sites": [
+        {
+            "site": "umatechnology.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "geekchamp.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "masteryourtech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "supportyourtech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "live2tech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "solveyourtech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "i5apps.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "mefmobile.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "techbloat.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

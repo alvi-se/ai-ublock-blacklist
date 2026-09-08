@@ -40,7 +40,6 @@ name: alvi-se/ai-ublock-blacklist
 *://sprinkledata.com/*
 *://stargazez.com/*
 *://madpenguin.org/*
-*://umatechnology.org/*
 *://phoneswiz.com/*
 *://nhanvietluanvan.com/*
 *://itslinuxfoss.com/*
@@ -154,7 +153,6 @@ name: alvi-se/ai-ublock-blacklist
 *://gameslearningsociety.org/*
 *://psicologiainsiemelivorno.it/*
 *://homecleaningstuff.com/*
-*://techbloat.com/*
 *://clrn.org/*
 *://dev.to/keploy/*
 *://rankingcoach.com/*
@@ -164,7 +162,6 @@ name: alvi-se/ai-ublock-blacklist
 *://outofbit.it/*
 *://comepulire.net/*
 *://qualcherisposta.it/*
-*://geekchamp.com/*
 *://lademeureduparc.fr/*
 *://visualnovels.com/*
 *://biggo.com/*
@@ -2658,6 +2655,17 @@ name: alvi-se/ai-ublock-blacklist
 
 # Reading file ./src/grouped/facebook.json
 *://lookwhatmomfound.org/*
+
+# Reading file ./src/grouped/yorker.json
+*://umatechnology.org/*
+*://geekchamp.com/*
+*://masteryourtech.com/*
+*://supportyourtech.com/*
+*://live2tech.com/*
+*://solveyourtech.com/*
+*://i5apps.com/*
+*://mefmobile.org/*
+*://techbloat.com/*
 
 # Reading file ./src/grouped/verypdf.json
 *://veryutils.com/*
