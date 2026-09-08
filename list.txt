@@ -2658,6 +2658,17 @@
 ! Reading file ./src/grouped/facebook.json
 ||lookwhatmomfound.org^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/yorker.json
+||umatechnology.org^$doc,reason="AI slop"
+||geekchamp.com^$doc,reason="AI slop"
+||masteryourtech.com^$doc,reason="AI slop"
+||supportyourtech.com^$doc,reason="AI slop"
+||live2tech.com^$doc,reason="AI slop"
+||solveyourtech.com^$doc,reason="AI slop"
+||i5apps.com^$doc,reason="AI slop"
+||mefmobile.org^$doc,reason="AI slop"
+||techbloat.com^$doc,reason="AI slop"
+
 ! Reading file ./src/grouped/verypdf.json
 ||veryutils.com^$doc,reason="AI slop"
 ||verypdf.com^$doc,reason="AI slop"

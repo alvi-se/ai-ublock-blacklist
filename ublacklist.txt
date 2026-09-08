@@ -2659,6 +2659,17 @@ name: alvi-se/ai-ublock-blacklist
 # Reading file ./src/grouped/facebook.json
 *://lookwhatmomfound.org/*
 
+# Reading file ./src/grouped/yorker.json
+*://umatechnology.org/*
+*://geekchamp.com/*
+*://masteryourtech.com/*
+*://supportyourtech.com/*
+*://live2tech.com/*
+*://solveyourtech.com/*
+*://i5apps.com/*
+*://mefmobile.org/*
+*://techbloat.com/*
+
 # Reading file ./src/grouped/verypdf.json
 *://veryutils.com/*
 *://verypdf.com/*
