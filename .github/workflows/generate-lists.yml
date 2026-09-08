@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
     paths:
-      - 'list.txt'
+      - 'src/**'
   workflow_dispatch:
 
 jobs:
@@ -15,14 +15,19 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Convert uBlock filters to uBlacklist format
+      - name: Create Ublock Origin list
         run: |
-          python3 .github/scripts/ublacklist.py list.txt ublacklist.txt
+          python3 .github/scripts/ublock.py
+
+      - name: Create ublacklist list
+        run: |
+          python3 .github/scripts/ublacklist.py
 
       - name: Commit and push if changed
+        if: ${{ !env.ACT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ublacklist.txt
-          git diff --cached --quiet || git commit -m "Auto-generate uBlacklist filters"
+          git add ublacklist.txt list.txt
+          git diff --cached --quiet || git commit -m "Auto-generate lists"
           git push

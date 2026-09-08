@@ -1,0 +1,18 @@
+{
+    "name": "westdary",
+    "references": [
+		"westdary@gmail.com"
+	],
+    "sites": [
+        {
+            "site": "dcinl.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "definicionwiki.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}

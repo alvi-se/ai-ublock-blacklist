@@ -1,2761 +1,2740 @@
 ! Title: AI uBlock Blacklist
 ! Expires: 1 day
 ! Homepage: https://github.com/alvi-se/ai-ublock-blacklist
-
-! Randomly found websites
-||soundscapehq.com^$doc
-||oldtimemusic.com^$doc
-||medium.com/@emmaw4430^$doc
-||gottamentor.com^$doc
-||technicalustad.com^$doc
-||hatchjs.com^$doc
-||medium.com/@teamcode20233^$doc
-||medium.com/@TechSavvyScribe^$doc
-||medium.com/@aidenjodrriley^$doc
-||feedalpha.com^$doc
-||medium.com/@Victor.Ahmad^$doc
-||medium.com/@chetan.akarte^$doc
-||medium.com/@raphaelrat_62823^$doc
-||medium.com/@hamidrezadeveloper^$doc
-||dhiwise.com^$doc
-||medium.com/@samra.sajjad0001^$doc
-||golinuxcloud.com^$doc
-||slingacademy.com^$doc
-||flatirons.com^$doc
-||cognisys.group^$doc
-||cognisys.co.uk^$doc
-||katalon.com^$doc
-||dnmtechs.com^$doc
-||robots.net^$doc
-||ansonalex.com^$doc
-||codingdeeply.com^$doc
-||astrostellar.it^$doc
-||somethingup.net^$doc
-||xaydungso.vn^$doc
-||telescopeguides.com^$doc
-||devgem.io^$doc
-||studiolegalelavorospoltore.it^$doc
-||palisade.email^$doc
-||learn-it-university.com^$doc
-||medium.com/@ravipatel.it^$doc
-||gbtimes.com^$doc
-||astro-observer.com^$doc
-||glossykitchen.com^$doc
-||theproperkitchen.com^$doc
-||elvanco.com^$doc
-||aboutwaffles.com^$doc
-||sprinkledata.com^$doc
-||stargazez.com^$doc
-||madpenguin.org^$doc
-||phoneswiz.com^$doc
-||nhanvietluanvan.com^$doc
-||itslinuxfoss.com^$doc
-||cyberly.org^$doc
-||linguateacher.com^$doc
-||learnpal.ai^$doc
-||talkpal.ai^$doc
-||grammartutor.ai^$doc
-||howtouselinux.com^$doc
-||linuxhandbook.com^$doc
-||sqlpey.com^$doc
-||techxplore.it^$doc
-||poespas.me^$doc
-||viaggiaresereni.it^$doc
-||pcmena.com^$doc
-||religiousquestion.com^$doc
-||namso-gen.co^$doc
-||webasha.com^$doc
-||coderivers.org^$doc
-||pythonmania.org^$doc
-||pytutorial.com^$doc
-||thelinuxcode.com^$doc
-||cmder.net^$doc
-||medium.com/coinmonks^$doc
-||soliditylibraries.com^$doc
-||sinkeetools.it^$doc
-||zenrows.com^$doc
-||proxiesapi.com^$doc
-||medium.com/@stevrogers721^$doc
-||thejapanesearts.it^$doc
-||maheshnotes.com^$doc
-||iccivitella.it^$doc
-||medium.com/@cosmicray001^$doc
-||curiosandosimpara.com^$doc
-||in3giorni.com^$doc
-||w3schools.tech^$doc
-||gufosaggio.net^$doc
-||sslinsights.com^$doc
-||evmfrontier.com^$doc
-||bomberbot.com^$doc
-||tecomeeting.it^$doc
-||dailyknowlege.com^$doc
-||technicqa.com^$doc
-||bugbase.ai^$doc
-||towardsdev.com^$doc
-||compilenrun.com^$doc
-||studyraid.com^$doc
-||esportgaming.it^$doc
-||incognito.com^$doc
-||justwebworld.com^$doc
-||medium.com/@banerjeesamarjit9^$doc
-||e-choose.it^$doc
-||gravita-zero.it^$doc
-||itb.co.jp^$doc
-||maurizioinfante.it^$doc
-||magnofood.com^$doc
-||bestonlinetutorial.com^$doc
-||expertbeacon.com^$doc
-||dottssamincinesi.it^$doc
-||roma.com^$doc
-||musicattitude.it^$doc
-||travelated.com^$doc
-||wirelessgate.com^$doc
-||atleticavalledicembra.it^$doc
-||fuoriporta.org^$doc
-||farmaciaintroini.it^$doc
-||pivovarlouka.cz^$doc
-||dev.to/nadimtuhin^$doc
-||undercodenews.com^$doc
-||medium.com/@natid9628^$doc
-||medium.com/@danielgebre978^$doc
-||gamer-king.com^$doc
-||financefixer7.com^$doc
-||animecreation.hashnode.dev^$doc
-||helpleft.com^$doc
-||danieleteti.it^$doc
-||toursetlist.com^$doc
-||programmazionepython.it^$doc
-||publit.io^$doc
-||fastercapital.com^$doc
-||8designers.com^$doc
-||bobcares.com^$doc
-||mondoandroid.com^$doc
-||windowsforum.com^$doc
-||netecitalia.com^$doc
-||achivx.com^$doc
-||tuttodigitale.net^$doc
-||wemedia.it^$doc
-||affarifinanza.it^$doc
-||thebatterytips.com^$doc
-||androidguias.com^$doc
-||3d-p.eu^$doc
-||soundproofgeek.com^$doc
-||neuralword.com^$doc
-||pupuweb.com^$doc
-||dn.org^$doc
-||grokipedia.com^$doc
-||playgama.com/blog^$doc
-||askai.glarity.app^$doc
-||exactlyhowlong.com^$doc
-||easytechsolver.com^$doc
-||cronistadiario.com.ar^$doc
-||kalilinuxtutorials.com^$doc
-||forensicosint.com^$doc
-||linuxbash.sh^$doc
-||silverscreennation.com^$doc
-||ilsignificatodi.it^$doc
-||yohomobile.com^$doc
-||laseroffice.it^$doc
-||songmeaningsandfacts.com^$doc
-||mylikeled.com^$doc
-||hyperclapper.com/blog-posts^$doc
-||amateurphotographerguide.com^$doc
-||magiskzip.com^$doc
-||linuxvox.com^$doc
-||cyberpost.co^$doc
-||gameslearningsociety.org^$doc
-||psicologiainsiemelivorno.it^$doc
-||homecleaningstuff.com^$doc
-||clrn.org^$doc
-||dev.to/keploy^$doc
-||rankingcoach.com^$doc
-||latex-tutorial.com^$doc
-||snowboardinghelp.com^$doc
-||codegenes.net^$doc
-||outofbit.it^$doc
-||medium.com/@stackarchitect^$doc
-||comepulire.net^$doc
-||qualcherisposta.it^$doc
-||medium.com/@theopinionatedev^$doc
-||medium.com/@syntaxSavage^$doc
-||hmnshudhmn24.medium.com^$doc
-||lademeureduparc.fr^$doc
-||visualnovels.com^$doc
-||biggo.com^$doc
-||gizmocleaning.com^$doc
-||weerg.com^$doc
-||w3tutorials.net^$doc
-||printara3d.com^$doc
-||coderscratchpad.com^$doc
-||javaspring.net^$doc
-||funwithlinux.net^$doc
-||itsfoss.gitlab.io^$doc
-||hdauto.it^$doc
-||latuaauto.com^$doc
-||knifeup.com^$doc
-||beacleaner.com^$doc
-||kitchenpluse.com^$doc
-||thekitchenix.com^$doc
-||knifecarehub.com^$doc
-||cleaningbasic.com^$doc
-||walkermetalsmith.com^$doc
-||cleaney.com^$doc
-||imigliore.com^$doc
-||theoriginarchive.com^$doc
-||biblia-viva.com^$doc
-||cursorrules.org^$doc
-||ejemplo.com.ar^$doc
-||dotlinux.net^$doc
-||medium.com/@ooikrish13^$doc
-||tecnobits.com^$doc
-||fdaytalk.com^$doc
-
-! To PR makers: add above new, individual, entries
-! If you are instead adding entries related to each other
-! put them at the bottom of the file to group them
+! THIS FILE IS AUTOGENERATED. DO NOT EDIT MANUALLY
 
 
-! https://github.com/alvi-se/ai-ublock-blacklist/pull/9
-||9geishas.com.ar^$doc
-||aberturasalemanas.com.ar^$doc
-||ambrosibicicletas.com.ar^$doc
-||aquehorajuegaboca.com.ar^$doc
-||armatucv.com.ar^$doc
-||aspenbienesraices.com.ar^$doc
-||basadoenhechosreales.com.ar^$doc
-||bateriascea.com.ar^$doc
-||beautyperfumerias.com.ar^$doc
-||bucaneroshop.com.ar^$doc
-||buloneradasilva.com.ar^$doc
-||capello.com.ar^$doc
-||cerrajeriasanluis.com.ar^$doc
-||ciclolandiamotos.com.ar^$doc
-||cienxcieninox.com.ar^$doc
-||citygame.com.ar^$doc
-||clemhelados.com.ar^$doc
-||colegiodepsicologossj.com.ar^$doc
-||cooplalonja.com.ar^$doc
-||corralonpremium.com.ar^$doc
-||cotilloncotyland.com.ar^$doc
-||criptomonedashoy.com.ar^$doc
-||descarregacesped.com.ar^$doc
-||drisolacirugiaplastica.com.ar^$doc
-||elbodegondelnautico.com.ar^$doc
-||enpocaspalabras.com.ar^$doc
-||farmacialincoln.com.ar^$doc
-||feppadel.com.ar^$doc
-||ferrariclubarg.com.ar^$doc
-||fishcompany.com.ar^$doc
-||fnhockey.com.ar^$doc
-||fulltimemotos.com.ar^$doc
-||geazingueria.com.ar^$doc
-||geriatricobelgrano.com.ar^$doc
-||graficamazzini.com.ar^$doc
-||gtm.com.ar^$doc
-||guiadearbolado.com.ar^$doc
-||hotelcrismalu.com.ar^$doc
-||hotelpremier.com.ar^$doc
-||hotelvip.com.ar^$doc
-||iccsi.com.ar^$doc
-||iglesiadelpilar.com.ar^$doc
-||interbike.com.ar^$doc
-||joyerianobel.com.ar^$doc
-||jugandoando.com.ar^$doc
-||kaboomeventos.com.ar^$doc
-||kayakautovaciable.com.ar^$doc
-||la-pantalla.com.ar^$doc
-||laelectronicaonline.com.ar^$doc
-||lafabricacuero.com.ar^$doc
-||librerialatijera.com.ar^$doc
-||libreriatecnicaweb.com.ar^$doc
-||liebrecapital.com.ar^$doc
-||lorosyguacamayos.com.ar^$doc
-||maderal.com.ar^$doc
-||makeblock.com.ar^$doc
-||mascofans.com.ar^$doc
-||maximavelocidad.com.ar^$doc
-||mimundoporelmundo.com.ar^$doc
-||mobidoc.com.ar^$doc
-||montescojeans.com.ar^$doc
-||mudanzasyfletes2001.com.ar^$doc
-||mundoanime.com.ar^$doc
-||mysqlya.com.ar^$doc
-||nemesautoelevadores.com.ar^$doc
-||newsmatic.com.ar^$doc
-||nogalmaderas.com.ar^$doc
-||ofertaeducativasr.com.ar^$doc
-||opticanaranjo.com.ar^$doc
-||ortodonciajunin.com.ar^$doc
-||paduamateriales.com.ar^$doc
-||panaderiasanfrancisco.com.ar^$doc
-||parqueflandria.com.ar^$doc
-||parroquiadelcarmenvcp.com.ar^$doc
-||partidoverde.com.ar^$doc
-||pianospuch.com.ar^$doc
-||polisantafe.com.ar^$doc
-||pulkrolimpieza.com.ar^$doc
-||radiofmtotal.com.ar^$doc
-||repuestostv.com.ar^$doc
-||rodantes.com.ar^$doc
-||saacupuntura.com.ar^$doc
-||securitygps.com.ar^$doc
-||servernet.com.ar^$doc
-||tajmahalresto.com.ar^$doc
-||todocalculadoras.com.ar^$doc
-||urbanococinaamericana.com.ar^$doc
-||vanessa-mae.com.ar^$doc
-||viegener.com.ar^$doc
-||ypfelcruce.com.ar^$doc
-||saludymovimiento.com.ar^$doc
-||broccolino.com.ar^$doc
-||green-life.com.ar^$doc
-||libreriafan.com.ar^$doc
-||radiotaxisyremises.com.ar^$doc
-||yogacongreso.com.ar^$doc
-||solaringenieria.com.ar^$doc
+! Reading file ./src/main.json
+||soundscapehq.com^$doc,reason="AI slop"
+||oldtimemusic.com^$doc,reason="AI slop"
+||gottamentor.com^$doc,reason="AI slop"
+||technicalustad.com^$doc,reason="AI slop"
+||hatchjs.com^$doc,reason="AI slop"
+||feedalpha.com^$doc,reason="AI slop"
+||dhiwise.com^$doc,reason="AI slop"
+||golinuxcloud.com^$doc,reason="AI slop"
+||slingacademy.com^$doc,reason="AI slop"
+||flatirons.com^$doc,reason="AI slop"
+||cognisys.group^$doc,reason="AI slop"
+||cognisys.co.uk^$doc,reason="AI slop"
+||katalon.com^$doc,reason="AI slop"
+||dnmtechs.com^$doc,reason="AI slop"
+||robots.net^$doc,reason="AI slop"
+||ansonalex.com^$doc,reason="AI slop"
+||codingdeeply.com^$doc,reason="AI slop"
+||astrostellar.it^$doc,reason="AI slop"
+||somethingup.net^$doc,reason="AI slop"
+||xaydungso.vn^$doc,reason="AI slop"
+||telescopeguides.com^$doc,reason="AI slop"
+||devgem.io^$doc,reason="AI slop"
+||studiolegalelavorospoltore.it^$doc,reason="AI slop"
+||palisade.email^$doc,reason="AI slop"
+||learn-it-university.com^$doc,reason="AI slop"
+||gbtimes.com^$doc,reason="AI slop"
+||astro-observer.com^$doc,reason="AI slop"
+||glossykitchen.com^$doc,reason="AI slop"
+||theproperkitchen.com^$doc,reason="AI slop"
+||elvanco.com^$doc,reason="AI slop"
+||aboutwaffles.com^$doc,reason="AI slop"
+||sprinkledata.com^$doc,reason="AI slop"
+||stargazez.com^$doc,reason="AI slop"
+||madpenguin.org^$doc,reason="AI slop"
+||umatechnology.org^$doc,reason="AI slop"
+||phoneswiz.com^$doc,reason="AI slop"
+||nhanvietluanvan.com^$doc,reason="AI slop"
+||itslinuxfoss.com^$doc,reason="AI slop"
+||cyberly.org^$doc,reason="AI slop"
+||linguateacher.com^$doc,reason="AI slop"
+||learnpal.ai^$doc,reason="AI slop"
+||talkpal.ai^$doc,reason="AI slop"
+||grammartutor.ai^$doc,reason="AI slop"
+||howtouselinux.com^$doc,reason="AI slop"
+||linuxhandbook.com^$doc,reason="AI slop"
+||sqlpey.com^$doc,reason="AI slop"
+||techxplore.it^$doc,reason="AI slop"
+||poespas.me^$doc,reason="AI slop"
+||viaggiaresereni.it^$doc,reason="AI slop"
+||pcmena.com^$doc,reason="AI slop"
+||religiousquestion.com^$doc,reason="AI slop"
+||namso-gen.co^$doc,reason="AI slop"
+||webasha.com^$doc,reason="AI slop"
+||coderivers.org^$doc,reason="AI slop"
+||pythonmania.org^$doc,reason="AI slop"
+||pytutorial.com^$doc,reason="AI slop"
+||thelinuxcode.com^$doc,reason="AI slop"
+||cmder.net^$doc,reason="AI slop"
+||soliditylibraries.com^$doc,reason="AI slop"
+||sinkeetools.it^$doc,reason="AI slop"
+||zenrows.com^$doc,reason="AI slop"
+||proxiesapi.com^$doc,reason="AI slop"
+||thejapanesearts.it^$doc,reason="AI slop"
+||maheshnotes.com^$doc,reason="AI slop"
+||iccivitella.it^$doc,reason="AI slop"
+||curiosandosimpara.com^$doc,reason="AI slop"
+||in3giorni.com^$doc,reason="AI slop"
+||w3schools.tech^$doc,reason="AI slop"
+||gufosaggio.net^$doc,reason="AI slop"
+||sslinsights.com^$doc,reason="AI slop"
+||evmfrontier.com^$doc,reason="AI slop"
+||bomberbot.com^$doc,reason="AI slop"
+||tecomeeting.it^$doc,reason="AI slop"
+||dailyknowlege.com^$doc,reason="AI slop"
+||technicqa.com^$doc,reason="AI slop"
+||bugbase.ai^$doc,reason="AI slop"
+||towardsdev.com^$doc,reason="AI slop"
+||compilenrun.com^$doc,reason="AI slop"
+||studyraid.com^$doc,reason="AI slop"
+||esportgaming.it^$doc,reason="AI slop"
+||incognito.com^$doc,reason="AI slop"
+||justwebworld.com^$doc,reason="AI slop"
+||e-choose.it^$doc,reason="AI slop"
+||gravita-zero.it^$doc,reason="AI slop"
+||itb.co.jp^$doc,reason="AI slop"
+||maurizioinfante.it^$doc,reason="AI slop"
+||magnofood.com^$doc,reason="AI slop"
+||bestonlinetutorial.com^$doc,reason="AI slop"
+||expertbeacon.com^$doc,reason="AI slop"
+||dottssamincinesi.it^$doc,reason="AI slop"
+||roma.com^$doc,reason="AI slop"
+||musicattitude.it^$doc,reason="AI slop"
+||travelated.com^$doc,reason="AI slop"
+||wirelessgate.com^$doc,reason="AI slop"
+||atleticavalledicembra.it^$doc,reason="AI slop"
+||fuoriporta.org^$doc,reason="AI slop"
+||farmaciaintroini.it^$doc,reason="AI slop"
+||pivovarlouka.cz^$doc,reason="AI slop"
+||dev.to/nadimtuhin^$doc,reason="AI slop"
+||undercodenews.com^$doc,reason="AI slop"
+||gamer-king.com^$doc,reason="AI slop"
+||financefixer7.com^$doc,reason="AI slop"
+||animecreation.hashnode.dev^$doc,reason="AI slop"
+||helpleft.com^$doc,reason="AI slop"
+||danieleteti.it^$doc,reason="AI slop"
+||toursetlist.com^$doc,reason="AI slop"
+||programmazionepython.it^$doc,reason="AI slop"
+||publit.io^$doc,reason="AI slop"
+||fastercapital.com^$doc,reason="AI slop"
+||8designers.com^$doc,reason="AI slop"
+||bobcares.com^$doc,reason="AI slop"
+||mondoandroid.com^$doc,reason="AI slop"
+||windowsforum.com^$doc,reason="AI slop"
+||netecitalia.com^$doc,reason="AI slop"
+||achivx.com^$doc,reason="AI slop"
+||tuttodigitale.net^$doc,reason="AI slop"
+||wemedia.it^$doc,reason="AI slop"
+||affarifinanza.it^$doc,reason="AI slop"
+||thebatterytips.com^$doc,reason="AI slop"
+||androidguias.com^$doc,reason="AI slop"
+||3d-p.eu^$doc,reason="AI slop"
+||soundproofgeek.com^$doc,reason="AI slop"
+||neuralword.com^$doc,reason="AI slop"
+||pupuweb.com^$doc,reason="AI slop"
+||dn.org^$doc,reason="AI slop"
+||grokipedia.com^$doc,reason="AI slop"
+||playgama.com/blog^$doc,reason="AI slop"
+||askai.glarity.app^$doc,reason="AI slop"
+||exactlyhowlong.com^$doc,reason="AI slop"
+||easytechsolver.com^$doc,reason="AI slop"
+||cronistadiario.com.ar^$doc,reason="AI slop"
+||kalilinuxtutorials.com^$doc,reason="AI slop"
+||forensicosint.com^$doc,reason="AI slop"
+||linuxbash.sh^$doc,reason="AI slop"
+||silverscreennation.com^$doc,reason="AI slop"
+||ilsignificatodi.it^$doc,reason="AI slop"
+||yohomobile.com^$doc,reason="AI slop"
+||laseroffice.it^$doc,reason="AI slop"
+||songmeaningsandfacts.com^$doc,reason="AI slop"
+||mylikeled.com^$doc,reason="AI slop"
+||hyperclapper.com/blog-posts^$doc,reason="AI slop"
+||amateurphotographerguide.com^$doc,reason="AI slop"
+||magiskzip.com^$doc,reason="AI slop"
+||linuxvox.com^$doc,reason="AI slop"
+||cyberpost.co^$doc,reason="AI slop"
+||gameslearningsociety.org^$doc,reason="AI slop"
+||psicologiainsiemelivorno.it^$doc,reason="AI slop"
+||homecleaningstuff.com^$doc,reason="AI slop"
+||techbloat.com^$doc,reason="AI slop"
+||clrn.org^$doc,reason="AI slop"
+||dev.to/keploy^$doc,reason="AI slop"
+||rankingcoach.com^$doc,reason="AI slop"
+||latex-tutorial.com^$doc,reason="AI slop"
+||snowboardinghelp.com^$doc,reason="AI slop"
+||codegenes.net^$doc,reason="AI slop"
+||outofbit.it^$doc,reason="AI slop"
+||comepulire.net^$doc,reason="AI slop"
+||qualcherisposta.it^$doc,reason="AI slop"
+||geekchamp.com^$doc,reason="AI slop"
+||lademeureduparc.fr^$doc,reason="AI slop"
+||visualnovels.com^$doc,reason="AI slop"
+||biggo.com^$doc,reason="AI slop"
+||gizmocleaning.com^$doc,reason="AI slop"
+||weerg.com^$doc,reason="AI slop"
+||w3tutorials.net^$doc,reason="AI slop"
+||printara3d.com^$doc,reason="AI slop"
+||coderscratchpad.com^$doc,reason="AI slop"
+||javaspring.net^$doc,reason="AI slop"
+||funwithlinux.net^$doc,reason="AI slop"
+||itsfoss.gitlab.io^$doc,reason="AI slop"
+||hdauto.it^$doc,reason="AI slop"
+||latuaauto.com^$doc,reason="AI slop"
+||knifeup.com^$doc,reason="AI slop"
+||beacleaner.com^$doc,reason="AI slop"
+||kitchenpluse.com^$doc,reason="AI slop"
+||thekitchenix.com^$doc,reason="AI slop"
+||knifecarehub.com^$doc,reason="AI slop"
+||cleaningbasic.com^$doc,reason="AI slop"
+||walkermetalsmith.com^$doc,reason="AI slop"
+||cleaney.com^$doc,reason="AI slop"
+||imigliore.com^$doc,reason="AI slop"
+||theoriginarchive.com^$doc,reason="AI slop"
+||biblia-viva.com^$doc,reason="AI slop"
+||cursorrules.org^$doc,reason="AI slop"
+||ejemplo.com.ar^$doc,reason="AI slop"
+||dotlinux.net^$doc,reason="AI slop"
+||tecnobits.com^$doc,reason="AI slop"
+||fdaytalk.com^$doc,reason="AI slop"
+||toolerific.ai^$doc,reason="AI slop"
+||toolify.ai^$doc,reason="AI slop"
+||unanswered.io^$doc,reason="AI slop"
+||runtimewire.com^$doc,reason="AI slop"
+||electronics.alibaba.com^$doc,reason="AI slop"
 
-! https://github.com/alvi-se/ai-ublock-blacklist/pull/11
-||abasstoriola.com^$doc
-||gearprobe.com^$doc
-||goalshaven.com^$doc
-||vpnalysis.com^$doc
-||calculatority.com^$doc
-||palabraseficaces.com^$doc
-||speechesonly.com^$doc
-||recipesnmeals.com^$doc
-||motsefficaces.com^$doc
-||nigerianprice.com^$doc
-||checklistoo.com^$doc
-||settingsmag.com^$doc
-||allnetworks.com.ng^$doc
-||thetotalentrepreneurs.com^$doc
-||webincomeplus.com^$doc
-||medium.com/@abasstoriola^$doc
-||diagramlens.com^$doc
-||writtensamples.com^$doc
-||audiojust.com^$doc
-||homestuffmag.com^$doc
-||settingslab.com^$doc
-||wordsatease.com^$doc
-||knowvehicles.com^$doc
-||africanmensclothing.com^$doc
-||offgridever.com^$doc
-||bestpickshub.com^$doc
-||lagoslink.com^$doc
-||speechrepository.com^$doc
-||aichievements.com^$doc
-||lettersoo.com^$doc
-||mithaali.com^$doc
-||messagespedia.com^$doc
-||humoripedia.com^$doc
-||journalingace.com^$doc
-||myemailsamples.com^$doc
+! Reading file ./src/sheets/0.json
+||techsslaash.com^$doc,reason="AI slop"
+||arcarrierpoint.net^$doc,reason="AI slop"
+||techclash.org^$doc,reason="AI slop"
+||tidalwavecarwashes.com^$doc,reason="AI slop"
+||droidkit.org^$doc,reason="AI slop"
+||www.ucatruco.com^$doc,reason="AI slop"
+||taskbarx.org^$doc,reason="AI slop"
+||isaimini.com.in^$doc,reason="AI slop"
+||theproxyium.com^$doc,reason="AI slop"
+||grouplink.com.in^$doc,reason="AI slop"
+||theoceanofpdf.com^$doc,reason="AI slop"
+||www.yatrucoff.com^$doc,reason="AI slop"
+||tidalwavecarwashes.com^$doc,reason="AI slop"
+||woeusb.com^$doc,reason="AI slop"
+||9xflix.vip^$doc,reason="AI slop"
+||dignotech.com^$doc,reason="AI slop"
+||wingetui.com^$doc,reason="AI slop"
+||winsetupfromusb.org^$doc,reason="AI slop"
+||theirishmirror.com^$doc,reason="AI slop"
+||lidnews.com^$doc,reason="AI slop"
+||techsuse.com^$doc,reason="AI slop"
+||mlwbd.com.in^$doc,reason="AI slop"
+||moviesda.com.in^$doc,reason="AI slop"
+||wishes.com.in^$doc,reason="AI slop"
+||newspaperinsider.com^$doc,reason="AI slop"
+||investorweeklynews.com^$doc,reason="AI slop"
+||morningtimenews.com^$doc,reason="AI slop"
+||dailynewswork.com^$doc,reason="AI slop"
+||www.dailydishnews.com^$doc,reason="AI slop"
+||techmarsh.com^$doc,reason="AI slop"
+||skymovies.com.in^$doc,reason="AI slop"
+||veganizoo.com^$doc,reason="AI slop"
+||sevenseventech.com^$doc,reason="AI slop"
+||tutosdescargas.org^$doc,reason="AI slop"
+||newsross.com^$doc,reason="AI slop"
+||newscod.com^$doc,reason="AI slop"
+||techchevy.com^$doc,reason="AI slop"
+||journalnewsinfo.com^$doc,reason="AI slop"
+||ormetech.com^$doc,reason="AI slop"
+||unsentproject.net^$doc,reason="AI slop"
+||mytecharm.com^$doc,reason="AI slop"
+||newsdailysources.com^$doc,reason="AI slop"
+||newsthere.com^$doc,reason="AI slop"
+||Sarkarisangam.net^$doc,reason="AI slop"
+||carmannews.com^$doc,reason="AI slop"
+||www.honestnewsdaily.com^$doc,reason="AI slop"
+||theunsentproject.net^$doc,reason="AI slop"
+||moonvalleynews.com^$doc,reason="AI slop"
+||moviemad.com.in^$doc,reason="AI slop"
+||bioofy.net^$doc,reason="AI slop"
+||aavot.com.in^$doc,reason="AI slop"
+||greennewsdesk.com^$doc,reason="AI slop"
+||theunsentproject.org^$doc,reason="AI slop"
+||dailynewslaw.com^$doc,reason="AI slop"
+||paperearn.net^$doc,reason="AI slop"
+||relatednewsnetwork.com^$doc,reason="AI slop"
+||eaterys101.com^$doc,reason="AI slop"
+||ueldomesquita.com^$doc,reason="AI slop"
+||www.portalnewsletter.com^$doc,reason="AI slop"
+||portalnewsletter.com^$doc,reason="AI slop"
+||jiorockers.com.in^$doc,reason="AI slop"
+||sarkari-ujala.com^$doc,reason="AI slop"
+||infoohub.net^$doc,reason="AI slop"
+||tamilblasters.com.in^$doc,reason="AI slop"
+||uwatchfree.com.in^$doc,reason="AI slop"
+||insurancemedianews.com^$doc,reason="AI slop"
+||vibrancegui.org^$doc,reason="AI slop"
+||notontech.com^$doc,reason="AI slop"
+||isaidubs.com.in^$doc,reason="AI slop"
+||toffeeshare.org^$doc,reason="AI slop"
+||reliablenewsdaily.com^$doc,reason="AI slop"
+||mediumbloggers.com^$doc,reason="AI slop"
+||marketmedianews.com^$doc,reason="AI slop"
+||newsworlddaily.com^$doc,reason="AI slop"
+||khatrimaza.com.in^$doc,reason="AI slop"
+||recordnewswire.com^$doc,reason="AI slop"
+||stelladimokoblog.com^$doc,reason="AI slop"
+||goodbyedpi.com^$doc,reason="AI slop"
+||cookape.org^$doc,reason="AI slop"
+||www.newspapercast.com^$doc,reason="AI slop"
+||sohohindipro.net^$doc,reason="AI slop"
+||webteknohaber.org^$doc,reason="AI slop"
+||vcxsrv.com^$doc,reason="AI slop"
+||hindiyaro.net^$doc,reason="AI slop"
+||techdemis.org^$doc,reason="AI slop"
+||zvideopro.com^$doc,reason="AI slop"
+||mahitechinfo.org^$doc,reason="AI slop"
+||tamilmv.com.in^$doc,reason="AI slop"
+||techhopes.com^$doc,reason="AI slop"
+||instabiostyle.net^$doc,reason="AI slop"
+||Techbigs.co.in^$doc,reason="AI slop"
+||thebusinessnewstips.com^$doc,reason="AI slop"
+||techyhittools.org^$doc,reason="AI slop"
+||afilmywap.com.in^$doc,reason="AI slop"
+||crystaldiskmark.org^$doc,reason="AI slop"
+||apkdone.net^$doc,reason="AI slop"
+||ofilmywap.com.in^$doc,reason="AI slop"
+||grepwin.com^$doc,reason="AI slop"
+||theuploadarticle.com^$doc,reason="AI slop"
+||Jobshankar.net^$doc,reason="AI slop"
+||kuttymoviess.com.in^$doc,reason="AI slop"
+||tegrarcmgui.com^$doc,reason="AI slop"
+||moviesdaa.com.in^$doc,reason="AI slop"
+||buildingbusinessnews.com^$doc,reason="AI slop"
+||hoodsite.info^$doc,reason="AI slop"
+||downloaderic.org^$doc,reason="AI slop"
+||thelindaikejiblog.com^$doc,reason="AI slop"
+||todaypk.com.in^$doc,reason="AI slop"
+||aestheticsymbolslist.org^$doc,reason="AI slop"
+||wiztree.co.uk^$doc,reason="AI slop"
+||klwap.com.in^$doc,reason="AI slop"
+||www.moneynewsweb.com^$doc,reason="AI slop"
+||hogatogaa.net^$doc,reason="AI slop"
+||ssrmovies.com.in^$doc,reason="AI slop"
+||moviesnation.com.in^$doc,reason="AI slop"
+||techgup.org^$doc,reason="AI slop"
+||businessnewstips.com.in^$doc,reason="AI slop"
+||rdxhd.com.in^$doc,reason="AI slop"
+||ueldotech.net^$doc,reason="AI slop"
+||turforiginal.fr^$doc,reason="AI slop"
+||lankacnews.net^$doc,reason="AI slop"
+||movieswood.com.in^$doc,reason="AI slop"
+||filmywap.com.in^$doc,reason="AI slop"
+||mqttexplorer.com^$doc,reason="AI slop"
+||ibommaa.com.in^$doc,reason="AI slop"
+||tamilprint.com.in^$doc,reason="AI slop"
+||moviesming.com.in^$doc,reason="AI slop"
+||swiftrespond.com^$doc,reason="AI slop"
+||dazzcam.org^$doc,reason="AI slop"
+||wolniturf.fr^$doc,reason="AI slop"
+||Biharjobportal.co.in^$doc,reason="AI slop"
+||protrumpnews.net^$doc,reason="AI slop"
+||kongotech.com.in^$doc,reason="AI slop"
+||myflixer.com.in^$doc,reason="AI slop"
+||soundbuttonsworld.net^$doc,reason="AI slop"
+||moviespapa.com.in^$doc,reason="AI slop"
+||Modyukle.org^$doc,reason="AI slop"
+||gerarcpf.org^$doc,reason="AI slop"
+||istaunch.net^$doc,reason="AI slop"
+||theworldfree4u.com^$doc,reason="AI slop"
+||sagethumbs.com^$doc,reason="AI slop"
+||clonehero.org^$doc,reason="AI slop"
+||croxyproxy.com.in^$doc,reason="AI slop"
+||allmacworldz.com^$doc,reason="AI slop"
+||peaceequalizer.com^$doc,reason="AI slop"
+||wbsedcl.com.in^$doc,reason="AI slop"
+||Sasgujarat.com^$doc,reason="AI slop"
+||mynorthwestnews.com^$doc,reason="AI slop"
+||Punjabeducare.in^$doc,reason="AI slop"
+||spotifypremium.com.in^$doc,reason="AI slop"
+||lionapk.org^$doc,reason="AI slop"
+||vizaca.org^$doc,reason="AI slop"
+||lindaikejinews.com^$doc,reason="AI slop"
+||techyperfect.org^$doc,reason="AI slop"
+||technicalmastermind.com.in^$doc,reason="AI slop"
+||paidforarticles.org^$doc,reason="AI slop"
+||theprintablestencils.com^$doc,reason="AI slop"
+||cricinfo.com.in^$doc,reason="AI slop"
+||technukti.net^$doc,reason="AI slop"
+||jharupdate.net^$doc,reason="AI slop"
+||moviezwap.com.in^$doc,reason="AI slop"
+||kolkatafatafatghoshbabu.com^$doc,reason="AI slop"
+||whatsgrouplinks.org^$doc,reason="AI slop"
+||mrmeasurements.com^$doc,reason="AI slop"
+||istaunch.com.in^$doc,reason="AI slop"
+||hdmovie2.com.in^$doc,reason="AI slop"
+||hdmovies4u.com.in^$doc,reason="AI slop"
+||rajkotupdatesnews.org^$doc,reason="AI slop"
+||dotmovie.net^$doc,reason="AI slop"
+||eduuolvera.net^$doc,reason="AI slop"
+||scopearth.com.in^$doc,reason="AI slop"
+||beautifuldp.com^$doc,reason="AI slop"
+||ajiraportalnews.com^$doc,reason="AI slop"
+||mallumv.com.in^$doc,reason="AI slop"
+||searchingforsingles.org^$doc,reason="AI slop"
+||sarkariwardi.org^$doc,reason="AI slop"
+||soap2day.com.in^$doc,reason="AI slop"
+||masnoonduain.com^$doc,reason="AI slop"
+||digitalfact.com.in^$doc,reason="AI slop"
+||allpcworld.com.in^$doc,reason="AI slop"
+||deledresult.in^$doc,reason="AI slop"
+||thefreetricks.in^$doc,reason="AI slop"
+||igfont.org^$doc,reason="AI slop"
+||hindikaro.org^$doc,reason="AI slop"
+||brookbtaube.net^$doc,reason="AI slop"
+||inshot.com.in^$doc,reason="AI slop"
+||How2invest.com.mx^$doc,reason="AI slop"
+||mybestbio.org^$doc,reason="AI slop"
+||technoajeet.net^$doc,reason="AI slop"
+||easytonet.net^$doc,reason="AI slop"
+||istudyinfo.org^$doc,reason="AI slop"
+||techgues.org^$doc,reason="AI slop"
+||caption.com.in^$doc,reason="AI slop"
+||naturerealytr.com^$doc,reason="AI slop"
+||dvdplay.com.in^$doc,reason="AI slop"
+||irishindependentnews.com^$doc,reason="AI slop"
+||stylishdp.com^$doc,reason="AI slop"
+||bekirturf.fr^$doc,reason="AI slop"
+||theexplorevenango.com^$doc,reason="AI slop"
+||aaryaeditz.net^$doc,reason="AI slop"
+||bijoybayanno.org^$doc,reason="AI slop"
+||ludoking.com.in^$doc,reason="AI slop"
+||moviesmod.com.in^$doc,reason="AI slop"
+||minimilitia.com.in^$doc,reason="AI slop"
+||free3dsky.com^$doc,reason="AI slop"
+||technewstop.co.in^$doc,reason="AI slop"
+||istudyinfo.co.in^$doc,reason="AI slop"
+||ytteacher.net^$doc,reason="AI slop"
+||apk48.org^$doc,reason="AI slop"
+||b92sport.com^$doc,reason="AI slop"
+||thebelfasttelegraph.com^$doc,reason="AI slop"
+||kltutors.net^$doc,reason="AI slop"
+||mobilehms.co.in^$doc,reason="AI slop"
+||emptycharacter.net^$doc,reason="AI slop"
+||filmy4waps.com.in^$doc,reason="AI slop"
+||getintomypc.com.in^$doc,reason="AI slop"
+||technewstop.org^$doc,reason="AI slop"
+||thekhaleejtimes.com^$doc,reason="AI slop"
+||technicalmastermind.org^$doc,reason="AI slop"
+||thedepedtambayan.com^$doc,reason="AI slop"
+||girldp.com^$doc,reason="AI slop"
+||friendsdp.com^$doc,reason="AI slop"
+||foxi.com.in^$doc,reason="AI slop"
+||istudyinfo.com.in^$doc,reason="AI slop"
+||gomplayer.net^$doc,reason="AI slop"
+||thehindu.com.in^$doc,reason="AI slop"
+||expertmistry.org^$doc,reason="AI slop"
+||ezectech.co.uk^$doc,reason="AI slop"
+||helphindi.co.in^$doc,reason="AI slop"
+||etcherdownload.com^$doc,reason="AI slop"
+||bebak.org^$doc,reason="AI slop"
+||linustechtips.org^$doc,reason="AI slop"
+||technewztop.com.in^$doc,reason="AI slop"
+||hijabdp.com^$doc,reason="AI slop"
+||unsentproject.org^$doc,reason="AI slop"
+||hindinews.com.in^$doc,reason="AI slop"
+||message.com.in^$doc,reason="AI slop"
+||igetintopc.com.in^$doc,reason="AI slop"
+||yomovie.com.in^$doc,reason="AI slop"
+||lookwhatmomfound.co.uk^$doc,reason="AI slop"
+||wellhealthorganics.com.in^$doc,reason="AI slop"
+||downloaddp.com^$doc,reason="AI slop"
+||arcarrierpoint.org^$doc,reason="AI slop"
+||camerounweb.org^$doc,reason="AI slop"
+||technewztop.news^$doc,reason="AI slop"
+||armyemaillogin.com^$doc,reason="AI slop"
+||metalinjections.com^$doc,reason="AI slop"
+||assamtribune.org^$doc,reason="AI slop"
+||essutumishi.org^$doc,reason="AI slop"
+||xposedmagazine24.com^$doc,reason="AI slop"
+||sakshi.com.in^$doc,reason="AI slop"
+||technicalmasterminds.in^$doc,reason="AI slop"
+||oilcitynews.com^$doc,reason="AI slop"
+||hefkervelt.org^$doc,reason="AI slop"
+||techsslassh.com^$doc,reason="AI slop"
+||tekdost.org^$doc,reason="AI slop"
+||tafcopportal.org^$doc,reason="AI slop"
+||technewstop.co.uk^$doc,reason="AI slop"
+||techbadbatch.com^$doc,reason="AI slop"
+||nsnewsindia.net^$doc,reason="AI slop"
+||rivatunerdown.com^$doc,reason="AI slop"
+||beforeitsnews.com.in^$doc,reason="AI slop"
+||azeplusyukle.org^$doc,reason="AI slop"
+||technicalmastermind.co.in^$doc,reason="AI slop"
+||loudwire.org^$doc,reason="AI slop"
+||techoutages.com^$doc,reason="AI slop"
+||vosizneias.co.uk^$doc,reason="AI slop"
+||thunderstormnews.com^$doc,reason="AI slop"
+||matlablegend.com^$doc,reason="AI slop"
+||thedigitaljournal.org^$doc,reason="AI slop"
+||techktimes.net^$doc,reason="AI slop"
+||chantcourse.fr^$doc,reason="AI slop"
+||leduoduturf.fr^$doc,reason="AI slop"
+||wabetainfonews.com^$doc,reason="AI slop"
+||latestukrainenews.com^$doc,reason="AI slop"
+||turfmagazine.fr^$doc,reason="AI slop"
+||techsslash.org^$doc,reason="AI slop"
+||wheon.org^$doc,reason="AI slop"
+||fizara.com.in^$doc,reason="AI slop"
+||bloghyper.com^$doc,reason="AI slop"
+||rumormillnews.co.uk^$doc,reason="AI slop"
+||ifsc.com.in^$doc,reason="AI slop"
+||techarticles.org^$doc,reason="AI slop"
+||bondinews.com^$doc,reason="AI slop"
+||indexationnews.com^$doc,reason="AI slop"
+||kolkatafatafattips.org^$doc,reason="AI slop"
+||thetechnotricks.com.in^$doc,reason="AI slop"
+||travelwarningnews.com^$doc,reason="AI slop"
+||responsefully.org^$doc,reason="AI slop"
+||iphonephotographyschool.net^$doc,reason="AI slop"
+||unsentproject.online^$doc,reason="AI slop"
+||mastimorning.net^$doc,reason="AI slop"
+||modeditor.org^$doc,reason="AI slop"
+||hamsafarlyrics.org^$doc,reason="AI slop"
+||lightroom.com.in^$doc,reason="AI slop"
+||settinghelp.com^$doc,reason="AI slop"
+||reminimodapk.com.in^$doc,reason="AI slop"
+||alightmotion.com.in^$doc,reason="AI slop"
+||Sarkaricenter.co.in^$doc,reason="AI slop"
+||nicedp.com^$doc,reason="AI slop"
+||coffeemanga.cam^$doc,reason="AI slop"
+||ownsby.com^$doc,reason="AI slop"
+||free4pc.com.in^$doc,reason="AI slop"
+||nicephrase.com^$doc,reason="AI slop"
+||activegrouplinks.org^$doc,reason="AI slop"
+||funkeelife.org^$doc,reason="AI slop"
+||shortcaption.net^$doc,reason="AI slop"
+||iwastesomuchtime.org^$doc,reason="AI slop"
+||scholarshiponline.com.in^$doc,reason="AI slop"
+||oneindia.com.in^$doc,reason="AI slop"
+||iptvsmarterpro.org^$doc,reason="AI slop"
+||shayaricollection.org^$doc,reason="AI slop"
+||onewordcaptions.com^$doc,reason="AI slop"
+||iptvplaylist.org^$doc,reason="AI slop"
+||sarkarieducation.org^$doc,reason="AI slop"
+||sarkariupdate.org^$doc,reason="AI slop"
+||fullform.com.in^$doc,reason="AI slop"
+||uniquecompliment.com^$doc,reason="AI slop"
+||pdfdrives.org^$doc,reason="AI slop"
+||sarkaribharat.org^$doc,reason="AI slop"
+||mummyname.net^$doc,reason="AI slop"
+||lista-iptv.org^$doc,reason="AI slop"
+||catguide101.com^$doc,reason="AI slop"
+||photosly.org^$doc,reason="AI slop"
+||attractivedp.com^$doc,reason="AI slop"
+||myusernamelist.net^$doc,reason="AI slop"
+||Ddlworld.com^$doc,reason="AI slop"
+||nextexamtak.co.in^$doc,reason="AI slop"
+||hindikahani.org^$doc,reason="AI slop"
+||whatsappgrouplink.com.in^$doc,reason="AI slop"
+||thequotes.com.in^$doc,reason="AI slop"
+||windgustnews.com^$doc,reason="AI slop"
+||outdoorproject.co.uk^$doc,reason="AI slop"
+||khanaparateer.co.in^$doc,reason="AI slop"
+||aboutlines.org^$doc,reason="AI slop"
+||statuscrush.com^$doc,reason="AI slop"
+||dpwallpaper.com^$doc,reason="AI slop"
+||listaiptv360.com^$doc,reason="AI slop"
+||beingselfish.org^$doc,reason="AI slop"
+||shortbioideas.com^$doc,reason="AI slop"
+||businessmagazines.com.in^$doc,reason="AI slop"
+||businessdaily.com.in^$doc,reason="AI slop"
+||technewstop.net^$doc,reason="AI slop"
+||nswpolicenews.com^$doc,reason="AI slop"
+||latestroyalnews.com^$doc,reason="AI slop"
+||tropicalcyclonenews.com^$doc,reason="AI slop"
+||kongotech.net^$doc,reason="AI slop"
+||technicalmasterminds.org^$doc,reason="AI slop"
 
-! topnotch.blog
-||cursivealphabet.info^$doc
-||digiprocenter.com^$doc
-||emojimeme.net^$doc
-||fitguideline.com^$doc
-||inmarketingbiz.com^$doc
-||newear.net^$doc
-||oldreddit.info^$doc
-||premiumtechcenter.com^$doc
-||publicasino.com^$doc
-||tabooworld.net^$doc
-||wheongames.net^$doc
+! Reading file ./src/sheets/5.json
+||www.otsnews.co.uk^$doc,reason="AI slop"
+||newspatrolling.com^$doc,reason="AI slop"
+||theukpost.co.uk^$doc,reason="AI slop"
+||www.parmapress24.it^$doc,reason="AI slop"
+||northiowatoday.com^$doc,reason="AI slop"
+||pmldaily.com^$doc,reason="AI slop"
+||canadacrimeindex.com^$doc,reason="AI slop"
+||prophecynewswatch.com^$doc,reason="AI slop"
+||www.indiainputs.com^$doc,reason="AI slop"
+||muddyrivernews.com^$doc,reason="AI slop"
+||aajkitajikhabar.com^$doc,reason="AI slop"
+||tasmaniantimes.com^$doc,reason="AI slop"
+||hudsonweekly.com^$doc,reason="AI slop"
+||consolidatetimes.com^$doc,reason="AI slop"
+||www.hometownstation.com^$doc,reason="AI slop"
+||newswatchtv.com^$doc,reason="AI slop"
+||businesspost.ng^$doc,reason="AI slop"
+||www.colombotelegraph.com^$doc,reason="AI slop"
+||www.theclintoncourier.net^$doc,reason="AI slop"
+||www.takeonedigitalnetwork.com^$doc,reason="AI slop"
+||savedelete.com^$doc,reason="AI slop"
+||dailynewshungary.com^$doc,reason="AI slop"
+||kahawatungu.com^$doc,reason="AI slop"
+||businessoutstanders.com^$doc,reason="AI slop"
+||www.fontmirror.com^$doc,reason="AI slop"
+||www.readability.com^$doc,reason="AI slop"
 
-! editorial@rankwc.com
-! https://rankwc.com/
-||rankwc.com^$doc
-||slotedition.com^$doc
-||thepressmag.com^$doc
-||ranked.ai^$doc
-||aspectratiocalculatorpro.com^$doc
-||grobuzz.co.uk^$doc
-||financeworth.net^$doc
-||businessbbcx.com^$doc
-||ulcuprazol.com^$doc
-||instabiobook.com^$doc
-||tiktak188sgp.com^$doc
-||howhatmagazine.com^$doc
-||wikitimezone.com^$doc
-||usatimesmag.com^$doc
-||nategames.net^$doc
-||sbusinessnews.com^$doc
-||eromeb.com^$doc
-||insuredition.com^$doc
-||tech2sites.com^$doc
-||editorialedition.com^$doc
+! Reading file ./src/sheets/2.json
+||widerweekly.co.uk^$doc,reason="AI slop"
+||boldlynames.com^$doc,reason="AI slop"
+||holylordsprayer.com^$doc,reason="AI slop"
+||goldbuzz.co.uk^$doc,reason="AI slop"
+||blessingspower.com^$doc,reason="AI slop"
+||swiftypuns.com^$doc,reason="AI slop"
+||azjankari.com^$doc,reason="AI slop"
+||crumbllineup.us^$doc,reason="AI slop"
+||foodiejokes.com^$doc,reason="AI slop"
+||bhoomi-rtconline.com^$doc,reason="AI slop"
+||networthexplore.com^$doc,reason="AI slop"
+||popularmarathi.in^$doc,reason="AI slop"
+||nameslections.com^$doc,reason="AI slop"
+||shayaritoyou.com^$doc,reason="AI slop"
+||finitenames.com^$doc,reason="AI slop"
+||punsberry.com^$doc,reason="AI slop"
+||wishpulses.com^$doc,reason="AI slop"
+||niceblessings.com^$doc,reason="AI slop"
+||celebsbiofolio.com^$doc,reason="AI slop"
+||fanzynames.com^$doc,reason="AI slop"
+||mybioshow.com^$doc,reason="AI slop"
+||fozymessages.com^$doc,reason="AI slop"
+||techflee.co.uk^$doc,reason="AI slop"
+||measurevan.com^$doc,reason="AI slop"
+||pentomagazine.com^$doc,reason="AI slop"
+||shayaripower.com^$doc,reason="AI slop"
+||shayaribloom.com^$doc,reason="AI slop"
+||righter.io^$doc,reason="AI slop"
+||hypeprofiles.com^$doc,reason="AI slop"
+||educationalbaba.org^$doc,reason="AI slop"
+||hunkwizards.com^$doc,reason="AI slop"
+||starttostory.com^$doc,reason="AI slop"
+||londonlifemagazine.co.uk^$doc,reason="AI slop"
+||captionsskill.com^$doc,reason="AI slop"
+||creckler.com^$doc,reason="AI slop"
+||funnyknockknockjoke.com^$doc,reason="AI slop"
+||punnyuniverse.com^$doc,reason="AI slop"
+||legendsbios.com^$doc,reason="AI slop"
+||infotopbio.com^$doc,reason="AI slop"
+||gracejabbaribio.com^$doc,reason="AI slop"
+||infobiosphere.com^$doc,reason="AI slop"
+||punnz.com^$doc,reason="AI slop"
+||guestcollab.co.uk^$doc,reason="AI slop"
+||wordstwists.com^$doc,reason="AI slop"
+||craftypuns.com^$doc,reason="AI slop"
+||fulcharmnames.com^$doc,reason="AI slop"
+||photosvibe.in^$doc,reason="AI slop"
+||sgmenulover.org^$doc,reason="AI slop"
+||fantasenamegenerator.com^$doc,reason="AI slop"
+||punsclick.com^$doc,reason="AI slop"
+||celebsglory.com^$doc,reason="AI slop"
+||lordofnames.com^$doc,reason="AI slop"
+||allfunnypuns.com^$doc,reason="AI slop"
+||phlmenus.org^$doc,reason="AI slop"
+||informativevibes.com^$doc,reason="AI slop"
+||aniversarycaption.com^$doc,reason="AI slop"
+||alltimenames.com^$doc,reason="AI slop"
+||pickuplinlove.com^$doc,reason="AI slop"
+||fantomagazines.com^$doc,reason="AI slop"
+||namezorigins.com^$doc,reason="AI slop"
+||grammarapex.com^$doc,reason="AI slop"
+||prayervibe.co.uk^$doc,reason="AI slop"
+||trackmasti.com^$doc,reason="AI slop"
+||wittyrizz.com^$doc,reason="AI slop"
+||goffaw.com^$doc,reason="AI slop"
+||sgmymenu.com^$doc,reason="AI slop"
+||livesrecords.com^$doc,reason="AI slop"
+||bigmagazine.net^$doc,reason="AI slop"
+||liftingmags.com^$doc,reason="AI slop"
+||biojourneyhub.com^$doc,reason="AI slop"
+||biographywise.com^$doc,reason="AI slop"
+||bioinfolabe.com^$doc,reason="AI slop"
+||bioscops.com^$doc,reason="AI slop"
+||onlineinfoes.com^$doc,reason="AI slop"
+||newzcenter.com^$doc,reason="AI slop"
+||trendlandmagazine.com^$doc,reason="AI slop"
+||hunkwhiz.com^$doc,reason="AI slop"
+||biblepulze.com^$doc,reason="AI slop"
+||hindsayari.com^$doc,reason="AI slop"
+||brieflynews.co.uk^$doc,reason="AI slop"
+||lifedetailshub.com^$doc,reason="AI slop"
+||riddlor.com^$doc,reason="AI slop"
+||photosbull.com^$doc,reason="AI slop"
+||lagendtime.com^$doc,reason="AI slop"
+||learninger.in^$doc,reason="AI slop"
+||empirecaption.com^$doc,reason="AI slop"
+||golfreddit.com^$doc,reason="AI slop"
+||biodetailshub.com^$doc,reason="AI slop"
+||betterprayers.com^$doc,reason="AI slop"
+||lexiquester.com^$doc,reason="AI slop"
+||kickyreport.com^$doc,reason="AI slop"
+||legendsbioworld.com^$doc,reason="AI slop"
+||celebblinks.com^$doc,reason="AI slop"
+||celebeinfos.com^$doc,reason="AI slop"
+||celebrityinfolab.com^$doc,reason="AI slop"
+||biographywealth.com^$doc,reason="AI slop"
+||biovaulttech.com^$doc,reason="AI slop"
+||biozooworld.com^$doc,reason="AI slop"
+||biowikivibes.com^$doc,reason="AI slop"
+||networthrises.com^$doc,reason="AI slop"
+||livesinfobook.com^$doc,reason="AI slop"
+||photoscollection.in^$doc,reason="AI slop"
+||networthages.com^$doc,reason="AI slop"
+||sohobio.org^$doc,reason="AI slop"
+||mybestbios.com^$doc,reason="AI slop"
+||photoslink.in^$doc,reason="AI slop"
+||replyswift.org^$doc,reason="AI slop"
+||namescrafter.com^$doc,reason="AI slop"
+||allhindishayari.in^$doc,reason="AI slop"
+||matchplayerstat.co.uk^$doc,reason="AI slop"
+||usacelebzone.com^$doc,reason="AI slop"
+||starswife.com^$doc,reason="AI slop"
+||gksawal.in^$doc,reason="AI slop"
+||celebritybiograph.com^$doc,reason="AI slop"
+||networthaudit.com^$doc,reason="AI slop"
+||wellhealthorganics.net^$doc,reason="AI slop"
+||joinworld2.com^$doc,reason="AI slop"
+||newslinkkshubs.com^$doc,reason="AI slop"
+||legendarynetworth.com^$doc,reason="AI slop"
+||strivecreatives.com^$doc,reason="AI slop"
+||networthvenue.com^$doc,reason="AI slop"
+||mediasprints.com^$doc,reason="AI slop"
+||adilifestyle.com^$doc,reason="AI slop"
+||sportstakedown.com^$doc,reason="AI slop"
+||richlifeinsiders.com^$doc,reason="AI slop"
+||exchangetime24.com^$doc,reason="AI slop"
+||makeovera.com^$doc,reason="AI slop"
+||kamalasohonie.com^$doc,reason="AI slop"
+||digitalworldstyle.org^$doc,reason="AI slop"
 
-! https://github.com/alvi-se/ai-ublock-blacklist/issues/21
-! https://www.facebook.com/groups/124910653034839/
-! This Facebook group is a goldmine for this repo
-||lookwhatmomfound.org^$doc
+! Reading file ./src/sheets/1.json
+||shayariyan.com^$doc,reason="AI slop"
+||funylifee.in^$doc,reason="AI slop"
+||instabiolist.in^$doc,reason="AI slop"
+||mybestdp.com^$doc,reason="AI slop"
+||buscadorrdeestatus.com^$doc,reason="AI slop"
+||marathiquote.in^$doc,reason="AI slop"
+||photosweek.in^$doc,reason="AI slop"
+||marathipremi.in^$doc,reason="AI slop"
+||ankithindishayari.in^$doc,reason="AI slop"
+||photoswaly.in^$doc,reason="AI slop"
+||instabio.co.in^$doc,reason="AI slop"
+||prohindishayari.com^$doc,reason="AI slop"
+||educationmessage.com^$doc,reason="AI slop"
+||shayari2u.com^$doc,reason="AI slop"
+||piyaarishayari.com^$doc,reason="AI slop"
+||birthdaywishinmarathi.com^$doc,reason="AI slop"
+||bangla-caption.blog^$doc,reason="AI slop"
+||theytrishi.com^$doc,reason="AI slop"
+||semakan-str.my^$doc,reason="AI slop"
+||2lineshayari.com^$doc,reason="AI slop"
+||sgrestaurantmenu.org^$doc,reason="AI slop"
+||attitude-yari.com^$doc,reason="AI slop"
+||waahshayari.com^$doc,reason="AI slop"
+||surahyaseeenpdf.com^$doc,reason="AI slop"
+||mewingemoji.com^$doc,reason="AI slop"
+||emotionwheel.co.uk^$doc,reason="AI slop"
+||thehdhub4u.com^$doc,reason="AI slop"
+||ibommamoviess.com^$doc,reason="AI slop"
+||protechpost.com^$doc,reason="AI slop"
+||techpromagazine.co.uk^$doc,reason="AI slop"
+||prousamagazine.com^$doc,reason="AI slop"
+||usatimenetworks.com^$doc,reason="AI slop"
+||techktime.co.uk^$doc,reason="AI slop"
+||usaaitrend.co.uk^$doc,reason="AI slop"
+||protimeusa.com^$doc,reason="AI slop"
+||fastlivemagazine.com^$doc,reason="AI slop"
+||todaypronews.com^$doc,reason="AI slop"
+||usalitenetwork.com^$doc,reason="AI slop"
+||protechpost.com^$doc,reason="AI slop"
+||usaprotime.com^$doc,reason="AI slop"
 
-! https://github.com/alvi-se/ai-ublock-blacklist/issues/22
-! https://docs.google.com/spreadsheets/d/1zKJCjtuDbDFEj6pGHApRfnKCs8wrlXB5644KE35fQHk/edit?gid=0#gid=0
-||techsslaash.com^$doc
-||arcarrierpoint.net^$doc
-||techclash.org^$doc
-||tidalwavecarwashes.com^$doc
-||droidkit.org^$doc
-||www.ucatruco.com^$doc
-||taskbarx.org^$doc
-||isaimini.com.in^$doc
-||theproxyium.com^$doc
-||grouplink.com.in^$doc
-||theoceanofpdf.com^$doc
-||www.yatrucoff.com^$doc
-||tidalwavecarwashes.com^$doc
-||woeusb.com^$doc
-||9xflix.vip^$doc
-||dignotech.com^$doc
-||wingetui.com^$doc
-||winsetupfromusb.org^$doc
-||theirishmirror.com^$doc
-||lidnews.com^$doc
-||techsuse.com^$doc
-||mlwbd.com.in^$doc
-||moviesda.com.in^$doc
-||wishes.com.in^$doc
-||newspaperinsider.com^$doc
-||investorweeklynews.com^$doc
-||morningtimenews.com^$doc
-||dailynewswork.com^$doc
-||www.dailydishnews.com^$doc
-||techmarsh.com^$doc
-||skymovies.com.in^$doc
-||veganizoo.com^$doc
-||sevenseventech.com^$doc
-||tutosdescargas.org^$doc
-||newsross.com^$doc
-||newscod.com^$doc
-||techchevy.com^$doc
-||journalnewsinfo.com^$doc
-||ormetech.com^$doc
-||unsentproject.net^$doc
-||mytecharm.com^$doc
-||newsdailysources.com^$doc
-||newsthere.com^$doc
-||Sarkarisangam.net^$doc
-||carmannews.com^$doc
-||www.honestnewsdaily.com^$doc
-||theunsentproject.net^$doc
-||moonvalleynews.com^$doc
-||moviemad.com.in^$doc
-||bioofy.net^$doc
-||aavot.com.in^$doc
-||greennewsdesk.com^$doc
-||theunsentproject.org^$doc
-||dailynewslaw.com^$doc
-||paperearn.net^$doc
-||relatednewsnetwork.com^$doc
-||eaterys101.com^$doc
-||ueldomesquita.com^$doc
-||www.portalnewsletter.com^$doc
-||portalnewsletter.com^$doc
-||jiorockers.com.in^$doc
-||sarkari-ujala.com^$doc
-||infoohub.net^$doc
-||tamilblasters.com.in^$doc
-||uwatchfree.com.in^$doc
-||insurancemedianews.com^$doc
-||vibrancegui.org^$doc
-||notontech.com^$doc
-||isaidubs.com.in^$doc
-||toffeeshare.org^$doc
-||reliablenewsdaily.com^$doc
-||mediumbloggers.com^$doc
-||marketmedianews.com^$doc
-||newsworlddaily.com^$doc
-||khatrimaza.com.in^$doc
-||recordnewswire.com^$doc
-||stelladimokoblog.com^$doc
-||goodbyedpi.com^$doc
-||cookape.org^$doc
-||www.newspapercast.com^$doc
-||sohohindipro.net^$doc
-||webteknohaber.org^$doc
-||vcxsrv.com^$doc
-||hindiyaro.net^$doc
-||techdemis.org^$doc
-||zvideopro.com^$doc
-||mahitechinfo.org^$doc
-||tamilmv.com.in^$doc
-||techhopes.com^$doc
-||instabiostyle.net^$doc
-||Techbigs.co.in^$doc
-||thebusinessnewstips.com^$doc
-||techyhittools.org^$doc
-||afilmywap.com.in^$doc
-||crystaldiskmark.org^$doc
-||apkdone.net^$doc
-||ofilmywap.com.in^$doc
-||grepwin.com^$doc
-||theuploadarticle.com^$doc
-||Jobshankar.net^$doc
-||kuttymoviess.com.in^$doc
-||tegrarcmgui.com^$doc
-||moviesdaa.com.in^$doc
-||buildingbusinessnews.com^$doc
-||hoodsite.info^$doc
-||downloaderic.org^$doc
-||thelindaikejiblog.com^$doc
-||todaypk.com.in^$doc
-||aestheticsymbolslist.org^$doc
-||wiztree.co.uk^$doc
-||klwap.com.in^$doc
-||www.moneynewsweb.com^$doc
-||hogatogaa.net^$doc
-||ssrmovies.com.in^$doc
-||moviesnation.com.in^$doc
-||techgup.org^$doc
-||businessnewstips.com.in^$doc
-||rdxhd.com.in^$doc
-||ueldotech.net^$doc
-||turforiginal.fr^$doc
-||lankacnews.net^$doc
-||movieswood.com.in^$doc
-||filmywap.com.in^$doc
-||mqttexplorer.com^$doc
-||ibommaa.com.in^$doc
-||tamilprint.com.in^$doc
-||moviesming.com.in^$doc
-||swiftrespond.com^$doc
-||dazzcam.org^$doc
-||wolniturf.fr^$doc
-||Biharjobportal.co.in^$doc
-||protrumpnews.net^$doc
-||kongotech.com.in^$doc
-||myflixer.com.in^$doc
-||soundbuttonsworld.net^$doc
-||moviespapa.com.in^$doc
-||Modyukle.org^$doc
-||gerarcpf.org^$doc
-||istaunch.net^$doc
-||theworldfree4u.com^$doc
-||sagethumbs.com^$doc
-||clonehero.org^$doc
-||croxyproxy.com.in^$doc
-||allmacworldz.com^$doc
-||peaceequalizer.com^$doc
-||wbsedcl.com.in^$doc
-||Sasgujarat.com^$doc
-||mynorthwestnews.com^$doc
-||Punjabeducare.in^$doc
-||spotifypremium.com.in^$doc
-||lionapk.org^$doc
-||vizaca.org^$doc
-||lindaikejinews.com^$doc
-||techyperfect.org^$doc
-||technicalmastermind.com.in^$doc
-||paidforarticles.org^$doc
-||theprintablestencils.com^$doc
-||cricinfo.com.in^$doc
-||technukti.net^$doc
-||jharupdate.net^$doc
-||moviezwap.com.in^$doc
-||kolkatafatafatghoshbabu.com^$doc
-||whatsgrouplinks.org^$doc
-||mrmeasurements.com^$doc
-||istaunch.com.in^$doc
-||hdmovie2.com.in^$doc
-||hdmovies4u.com.in^$doc
-||rajkotupdatesnews.org^$doc
-||dotmovie.net^$doc
-||eduuolvera.net^$doc
-||scopearth.com.in^$doc
-||beautifuldp.com^$doc
-||ajiraportalnews.com^$doc
-||mallumv.com.in^$doc
-||searchingforsingles.org^$doc
-||sarkariwardi.org^$doc
-||soap2day.com.in^$doc
-||masnoonduain.com^$doc
-||digitalfact.com.in^$doc
-||allpcworld.com.in^$doc
-||deledresult.in^$doc
-||thefreetricks.in^$doc
-||igfont.org^$doc
-||hindikaro.org^$doc
-||brookbtaube.net^$doc
-||inshot.com.in^$doc
-||How2invest.com.mx^$doc
-||mybestbio.org^$doc
-||technoajeet.net^$doc
-||easytonet.net^$doc
-||istudyinfo.org^$doc
-||techgues.org^$doc
-||caption.com.in^$doc
-||naturerealytr.com^$doc
-||dvdplay.com.in^$doc
-||irishindependentnews.com^$doc
-||stylishdp.com^$doc
-||bekirturf.fr^$doc
-||theexplorevenango.com^$doc
-||aaryaeditz.net^$doc
-||bijoybayanno.org^$doc
-||ludoking.com.in^$doc
-||moviesmod.com.in^$doc
-||minimilitia.com.in^$doc
-||free3dsky.com^$doc
-||technewstop.co.in^$doc
-||istudyinfo.co.in^$doc
-||ytteacher.net^$doc
-||apk48.org^$doc
-||b92sport.com^$doc
-||thebelfasttelegraph.com^$doc
-||kltutors.net^$doc
-||mobilehms.co.in^$doc
-||emptycharacter.net^$doc
-||filmy4waps.com.in^$doc
-||getintomypc.com.in^$doc
-||technewstop.org^$doc
-||thekhaleejtimes.com^$doc
-||technicalmastermind.org^$doc
-||thedepedtambayan.com^$doc
-||girldp.com^$doc
-||friendsdp.com^$doc
-||foxi.com.in^$doc
-||istudyinfo.com.in^$doc
-||gomplayer.net^$doc
-||thehindu.com.in^$doc
-||expertmistry.org^$doc
-||ezectech.co.uk^$doc
-||helphindi.co.in^$doc
-||etcherdownload.com^$doc
-||bebak.org^$doc
-||linustechtips.org^$doc
-||technewztop.com.in^$doc
-||hijabdp.com^$doc
-||unsentproject.org^$doc
-||hindinews.com.in^$doc
-||message.com.in^$doc
-||igetintopc.com.in^$doc
-||yomovie.com.in^$doc
-||lookwhatmomfound.co.uk^$doc
-||wellhealthorganics.com.in^$doc
-||downloaddp.com^$doc
-||arcarrierpoint.org^$doc
-||camerounweb.org^$doc
-||technewztop.news^$doc
-||armyemaillogin.com^$doc
-||metalinjections.com^$doc
-||assamtribune.org^$doc
-||essutumishi.org^$doc
-||xposedmagazine24.com^$doc
-||sakshi.com.in^$doc
-||technicalmasterminds.in^$doc
-||oilcitynews.com^$doc
-||hefkervelt.org^$doc
-||techsslassh.com^$doc
-||tekdost.org^$doc
-||tafcopportal.org^$doc
-||technewstop.co.uk^$doc
-||techbadbatch.com^$doc
-||nsnewsindia.net^$doc
-||rivatunerdown.com^$doc
-||beforeitsnews.com.in^$doc
-||azeplusyukle.org^$doc
-||technicalmastermind.co.in^$doc
-||loudwire.org^$doc
-||techoutages.com^$doc
-||vosizneias.co.uk^$doc
-||thunderstormnews.com^$doc
-||matlablegend.com^$doc
-||thedigitaljournal.org^$doc
-||techktimes.net^$doc
-||chantcourse.fr^$doc
-||leduoduturf.fr^$doc
-||wabetainfonews.com^$doc
-||latestukrainenews.com^$doc
-||turfmagazine.fr^$doc
-||techsslash.org^$doc
-||wheon.org^$doc
-||fizara.com.in^$doc
-||bloghyper.com^$doc
-||rumormillnews.co.uk^$doc
-||ifsc.com.in^$doc
-||techarticles.org^$doc
-||bondinews.com^$doc
-||indexationnews.com^$doc
-||kolkatafatafattips.org^$doc
-||thetechnotricks.com.in^$doc
-||travelwarningnews.com^$doc
-||responsefully.org^$doc
-||iphonephotographyschool.net^$doc
-||unsentproject.online^$doc
-||mastimorning.net^$doc
-||modeditor.org^$doc
-||hamsafarlyrics.org^$doc
-||lightroom.com.in^$doc
-||settinghelp.com^$doc
-||reminimodapk.com.in^$doc
-||alightmotion.com.in^$doc
-||Sarkaricenter.co.in^$doc
-||nicedp.com^$doc
-||coffeemanga.cam^$doc
-||ownsby.com^$doc
-||free4pc.com.in^$doc
-||nicephrase.com^$doc
-||activegrouplinks.org^$doc
-||funkeelife.org^$doc
-||shortcaption.net^$doc
-||iwastesomuchtime.org^$doc
-||scholarshiponline.com.in^$doc
-||oneindia.com.in^$doc
-||iptvsmarterpro.org^$doc
-||shayaricollection.org^$doc
-||onewordcaptions.com^$doc
-||iptvplaylist.org^$doc
-||sarkarieducation.org^$doc
-||sarkariupdate.org^$doc
-||fullform.com.in^$doc
-||uniquecompliment.com^$doc
-||pdfdrives.org^$doc
-||sarkaribharat.org^$doc
-||mummyname.net^$doc
-||lista-iptv.org^$doc
-||catguide101.com^$doc
-||photosly.org^$doc
-||attractivedp.com^$doc
-||myusernamelist.net^$doc
-||Ddlworld.com^$doc
-||nextexamtak.co.in^$doc
-||hindikahani.org^$doc
-||whatsappgrouplink.com.in^$doc
-||thequotes.com.in^$doc
-||windgustnews.com^$doc
-||outdoorproject.co.uk^$doc
-||khanaparateer.co.in^$doc
-||aboutlines.org^$doc
-||statuscrush.com^$doc
-||dpwallpaper.com^$doc
-||listaiptv360.com^$doc
-||beingselfish.org^$doc
-||shortbioideas.com^$doc
-||businessmagazines.com.in^$doc
-||businessdaily.com.in^$doc
-||technewstop.net^$doc
-||nswpolicenews.com^$doc
-||latestroyalnews.com^$doc
-||tropicalcyclonenews.com^$doc
-||kongotech.net^$doc
-||technicalmasterminds.org^$doc
+! Reading file ./src/sheets/4.json
+||ventsmagazine.co.uk^$doc,reason="AI slop"
+||londondaily.news^$doc,reason="AI slop"
+||primeinsider.co.uk^$doc,reason="AI slop"
+||interiorredoux.com^$doc,reason="AI slop"
+||openpr.com^$doc,reason="AI slop"
+||nerdbot.com^$doc,reason="AI slop"
+||cordless.io^$doc,reason="AI slop"
+||londontechinsights.co.uk^$doc,reason="AI slop"
+||addmagazine.co.uk^$doc,reason="AI slop"
+||techbullion.com^$doc,reason="AI slop"
+||bishopwcmartin.com^$doc,reason="AI slop"
+||fourmagazine.co.uk^$doc,reason="AI slop"
+||dotmagazine.co.uk^$doc,reason="AI slop"
+||rubblemagazine.co.uk^$doc,reason="AI slop"
+||spreadmyfiles.com^$doc,reason="AI slop"
+||theeuropetimes.co.uk^$doc,reason="AI slop"
+||mybeautifuladventures.com^$doc,reason="AI slop"
+||heightmag.com^$doc,reason="AI slop"
+||uploadarticle.com^$doc,reason="AI slop"
+||gorod.it.com^$doc,reason="AI slop"
+||onetech1.com^$doc,reason="AI slop"
+||breakingac.com^$doc,reason="AI slop"
+||ocnjdaily.com^$doc,reason="AI slop"
+||northpennnow.com^$doc,reason="AI slop"
+||seaislenews.com^$doc,reason="AI slop"
+||downbeach.com^$doc,reason="AI slop"
+||theactionelite.com^$doc,reason="AI slop"
+||goodmenproject.com^$doc,reason="AI slop"
+||westernbusiness.co.uk^$doc,reason="AI slop"
+||exploratoryglory.com^$doc,reason="AI slop"
+||daily.uk.com^$doc,reason="AI slop"
+||livetranslatehub.com^$doc,reason="AI slop"
+||myflexbot.co.uk^$doc,reason="AI slop"
+||individualsmagazine.com^$doc,reason="AI slop"
+||usablogbullion.com^$doc,reason="AI slop"
+||techreels.co.uk^$doc,reason="AI slop"
+||sfmcompileclub.org^$doc,reason="AI slop"
+||thebaddiehub.uk^$doc,reason="AI slop"
+||influencersgonewildcom.com^$doc,reason="AI slop"
+||celebritymagazine.co.uk^$doc,reason="AI slop"
+||blogbuz.co.uk^$doc,reason="AI slop"
+||megamagazine.co.uk^$doc,reason="AI slop"
+||voguevocal.com^$doc,reason="AI slop"
+||itsreleased.co.uk^$doc,reason="AI slop"
+||easybib.co.uk^$doc,reason="AI slop"
+||theusacorner.com^$doc,reason="AI slop"
+||thecollectivenouns.com^$doc,reason="AI slop"
+||newscooper.co.uk^$doc,reason="AI slop"
+||ventsmagazine.com^$doc,reason="AI slop"
+||techgarcon.com^$doc,reason="AI slop"
+||southwestfareway.com^$doc,reason="AI slop"
+||newsprovider.co.uk^$doc,reason="AI slop"
+||iotavalley.com^$doc,reason="AI slop"
+||puremagazine.co.uk^$doc,reason="AI slop"
+||bigwritehook.co.uk^$doc,reason="AI slop"
+||urbansplatter.com^$doc,reason="AI slop"
+||muchata.com.in^$doc,reason="AI slop"
+||1word4pics.com^$doc,reason="AI slop"
+||blogstrove.com^$doc,reason="AI slop"
+||themysterymagazine.co.uk^$doc,reason="AI slop"
+||blogbuzznews.org^$doc,reason="AI slop"
+||theitradercoin.com^$doc,reason="AI slop"
+||moonvalleynews.org^$doc,reason="AI slop"
+||thewheon.com^$doc,reason="AI slop"
+||2amagazine.com^$doc,reason="AI slop"
+||pressmagazine.co.uk^$doc,reason="AI slop"
+||theinscribermag.com^$doc,reason="AI slop"
+||techblaster.co.uk^$doc,reason="AI slop"
+||earntuffer.com^$doc,reason="AI slop"
+||moralstory.org^$doc,reason="AI slop"
+||thebigger.com^$doc,reason="AI slop"
+||moranalytics.com^$doc,reason="AI slop"
+||techhuda.com^$doc,reason="AI slop"
+||stephilareine.com^$doc,reason="AI slop"
+||everytalkin.co.uk^$doc,reason="AI slop"
+||iocmkt.com^$doc,reason="AI slop"
+||pinstopin.com^$doc,reason="AI slop"
+||optincontacts.com^$doc,reason="AI slop"
+||venuecincinnati.com^$doc,reason="AI slop"
+||sbcodez.com^$doc,reason="AI slop"
+||businessoutstanders.com^$doc,reason="AI slop"
+||thenewordermagazine.com^$doc,reason="AI slop"
+||xiaopan.co^$doc,reason="AI slop"
+||neonjs.com^$doc,reason="AI slop"
+||thewheon.com^$doc,reason="AI slop"
+||thevyvymanga.com^$doc,reason="AI slop"
+||sashmira.com^$doc,reason="AI slop"
+||managementworksmedia.com^$doc,reason="AI slop"
+||eman-network.com^$doc,reason="AI slop"
+||notostechnologies.com^$doc,reason="AI slop"
+||southwestfareway.com^$doc,reason="AI slop"
+||easygrader.net^$doc,reason="AI slop"
+||imocan.com^$doc,reason="AI slop"
+||classprayer.com^$doc,reason="AI slop"
+||cedarmi.com^$doc,reason="AI slop"
+||stromberry.com^$doc,reason="AI slop"
+||magazinesbreak.co.uk^$doc,reason="AI slop"
+||habitadvisors.com^$doc,reason="AI slop"
+||partyprott.com^$doc,reason="AI slop"
+||techimaging.co.uk^$doc,reason="AI slop"
+||timebusinessnews.com^$doc,reason="AI slop"
+||hooyam.com^$doc,reason="AI slop"
+||techinfobusiness.com^$doc,reason="AI slop"
+||speromagazine.com^$doc,reason="AI slop"
+||technotraps.com^$doc,reason="AI slop"
+||tygiadola.net^$doc,reason="AI slop"
+||tubegalore.uk^$doc,reason="AI slop"
+||wilddiscs.com^$doc,reason="AI slop"
+||gyansora.com^$doc,reason="AI slop"
+||walkermagazine.com^$doc,reason="AI slop"
+||thetechnotricks.net^$doc,reason="AI slop"
+||matingpress.org^$doc,reason="AI slop"
+||bsglife.com^$doc,reason="AI slop"
+||ziskmagazine.com^$doc,reason="AI slop"
+||growingupwell.org^$doc,reason="AI slop"
+||reelsmedia.co.uk^$doc,reason="AI slop"
+||streameast.org.uk^$doc,reason="AI slop"
+||anoboy.baby^$doc,reason="AI slop"
+||coopermagazine.co.uk^$doc,reason="AI slop"
+||mygroundbiz.co.uk^$doc,reason="AI slop"
+||baddiehub.ca^$doc,reason="AI slop"
+||mangabuddy.org.uk^$doc,reason="AI slop"
+||sulasok.blog^$doc,reason="AI slop"
+||asianpinay.pro^$doc,reason="AI slop"
+||disboard.co.uk^$doc,reason="AI slop"
+||totalstationplaza.com^$doc,reason="AI slop"
+||cdkeyshere.com^$doc,reason="AI slop"
+||mangabuddy.blog^$doc,reason="AI slop"
+||influencersgonewild.co.uk^$doc,reason="AI slop"
+||newsdipper.co.uk^$doc,reason="AI slop"
+||bartowfirst.com^$doc,reason="AI slop"
+||unsentproject.net^$doc,reason="AI slop"
+||helinika.com^$doc,reason="AI slop"
+||nazthrift.com^$doc,reason="AI slop"
+||tensemagazine.com^$doc,reason="AI slop"
+||elamatters.com^$doc,reason="AI slop"
+||hackerella.com^$doc,reason="AI slop"
+||gomyfinance.org^$doc,reason="AI slop"
+||usatimemagazine.co.uk^$doc,reason="AI slop"
+||timestech.co.uk^$doc,reason="AI slop"
+||savvydispatches.com^$doc,reason="AI slop"
+||imagesplatform.com^$doc,reason="AI slop"
+||justweighingstuff.com^$doc,reason="AI slop"
+||fungroupsnames.com^$doc,reason="AI slop"
+||rizzlineshub.com^$doc,reason="AI slop"
+||namesspark.com^$doc,reason="AI slop"
+||nnaleb.com^$doc,reason="AI slop"
+||blogmagazines.co.uk^$doc,reason="AI slop"
+||sfmcompile.co.uk^$doc,reason="AI slop"
+||gmru.co.uk^$doc,reason="AI slop"
+||roastmedia.co.uk^$doc,reason="AI slop"
+||av-tub.com^$doc,reason="AI slop"
+||vistamagazine.com^$doc,reason="AI slop"
+||kulfiy.com^$doc,reason="AI slop"
+||calibermag.net^$doc,reason="AI slop"
+||timelymagazine.co.uk^$doc,reason="AI slop"
+||digimagazine.co.uk^$doc,reason="AI slop"
+||pinayflix.com.in^$doc,reason="AI slop"
+||epos-bihar.com^$doc,reason="AI slop"
+||innerpreneur.blog^$doc,reason="AI slop"
+||dirtyships.org^$doc,reason="AI slop"
+||cafelam.com^$doc,reason="AI slop"
+||2sistersgarlic.com^$doc,reason="AI slop"
+||fitcoding.com^$doc,reason="AI slop"
+||rizzapedia.com^$doc,reason="AI slop"
+||trendoxygen.com^$doc,reason="AI slop"
+||eveningchronicle.uk^$doc,reason="AI slop"
+||legacynyc.com^$doc,reason="AI slop"
+||projectleadersmagazine.com^$doc,reason="AI slop"
+||solutionforever.com^$doc,reason="AI slop"
+||mistyinfo.blog^$doc,reason="AI slop"
+||digitoont.com^$doc,reason="AI slop"
+||inflact.co.uk^$doc,reason="AI slop"
+||readingpals.org^$doc,reason="AI slop"
+||hocmuseum.com^$doc,reason="AI slop"
+||techbetime.com^$doc,reason="AI slop"
+||devsdash.com^$doc,reason="AI slop"
+||spurtranker.com^$doc,reason="AI slop"
+||draftmag.org^$doc,reason="AI slop"
+||copperchips.com^$doc,reason="AI slop"
+||screengamma.com^$doc,reason="AI slop"
+||beginwithjava.com^$doc,reason="AI slop"
+||magazinecontent.co.uk^$doc,reason="AI slop"
+||buzzblog.co.uk^$doc,reason="AI slop"
+||25pr.com^$doc,reason="AI slop"
+||blogroom.co.uk^$doc,reason="AI slop"
+||baddiehub.uk^$doc,reason="AI slop"
+||rallynorth.net^$doc,reason="AI slop"
+||coinverting.com^$doc,reason="AI slop"
+||techdae.co.uk^$doc,reason="AI slop"
+||mixedinsider.com^$doc,reason="AI slop"
+||bsuperb.com^$doc,reason="AI slop"
+||aiyifan.co.uk^$doc,reason="AI slop"
+||makonitech.com^$doc,reason="AI slop"
+||flatforks.com^$doc,reason="AI slop"
+||rdtzone.com^$doc,reason="AI slop"
+||uprytr.com^$doc,reason="AI slop"
+||discovercraze.co.uk^$doc,reason="AI slop"
+||simpcitysu.com^$doc,reason="AI slop"
+||duzzbuzz.com^$doc,reason="AI slop"
+||vizaca.co.uk^$doc,reason="AI slop"
+||technologycrunch.co.uk^$doc,reason="AI slop"
+||lotology.co.uk^$doc,reason="AI slop"
+||www-schoology.com^$doc,reason="AI slop"
+||avtube.org^$doc,reason="AI slop"
+||bmtimes.co.uk^$doc,reason="AI slop"
+||nairaland.co.uk^$doc,reason="AI slop"
+||hypackels.com^$doc,reason="AI slop"
+||apkek.org^$doc,reason="AI slop"
+||iconicblogs.co.uk^$doc,reason="AI slop"
+||techblaster.co.uk^$doc,reason="AI slop"
+||mypascoconnect.co.uk^$doc,reason="AI slop"
+||namesbluff.com^$doc,reason="AI slop"
+||loopermagazine.co.uk^$doc,reason="AI slop"
+||borkwoodblog.com^$doc,reason="AI slop"
+||websauna.org^$doc,reason="AI slop"
+||simpcity.co.uk^$doc,reason="AI slop"
+||worthexplainer.com^$doc,reason="AI slop"
+||estatehouzz.com^$doc,reason="AI slop"
+||heavenhouzz.com^$doc,reason="AI slop"
+||lolbeans.co.uk^$doc,reason="AI slop"
+||dodbuzz.co.uk^$doc,reason="AI slop"
+||everscroll.org^$doc,reason="AI slop"
+||eventspro.org^$doc,reason="AI slop"
+||newstap.co.uk^$doc,reason="AI slop"
+||onionplay.co.uk^$doc,reason="AI slop"
+||techtime.com.in^$doc,reason="AI slop"
+||themorningtimes.co.uk^$doc,reason="AI slop"
+||photosqn.com^$doc,reason="AI slop"
+||servicesexplainer.com^$doc,reason="AI slop"
+||trillionblog.com^$doc,reason="AI slop"
+||m4uhd.co.uk^$doc,reason="AI slop"
+||jojoygta5.co.uk^$doc,reason="AI slop"
+||buzzzfeed.co.uk^$doc,reason="AI slop"
+||ibusinessday.co.uk^$doc,reason="AI slop"
+||m4ufree.co.uk^$doc,reason="AI slop"
+||shoebooties.com^$doc,reason="AI slop"
+||venisonmagazine.com^$doc,reason="AI slop"
+||techlearner.co.uk^$doc,reason="AI slop"
+||espressoblog.org^$doc,reason="AI slop"
+||rexsdeli.com^$doc,reason="AI slop"
+||fobie.org^$doc,reason="AI slop"
+||norvasen.com^$doc,reason="AI slop"
+||heavenclick.com^$doc,reason="AI slop"
+||trekmag.co.uk^$doc,reason="AI slop"
+||techymagazine.co.uk^$doc,reason="AI slop"
+||smoothstacklawsuit.co.uk^$doc,reason="AI slop"
+||manuscriptgrooming.com^$doc,reason="AI slop"
+||infinityelse.co.uk^$doc,reason="AI slop"
+||hsnime.co.uk^$doc,reason="AI slop"
+||flaremagazine.co.uk^$doc,reason="AI slop"
+||basicallybrit.com^$doc,reason="AI slop"
+||tgtube.co.uk^$doc,reason="AI slop"
+||cyberkannadig.com^$doc,reason="AI slop"
+||dramatale.com^$doc,reason="AI slop"
+||titfees.org^$doc,reason="AI slop"
+||blunturi.org^$doc,reason="AI slop"
+||techiwall.com^$doc,reason="AI slop"
+||greencric.com^$doc,reason="AI slop"
+||picuki.ca^$doc,reason="AI slop"
+||techlevelbusiness.com^$doc,reason="AI slop"
+||guestmagazines.co.uk^$doc,reason="AI slop"
+||techannouncer.com^$doc,reason="AI slop"
+||iocmkt.com.in^$doc,reason="AI slop"
+||theexpotab.com^$doc,reason="AI slop"
+||technotricks.com.in^$doc,reason="AI slop"
+||redandwhitemags.com^$doc,reason="AI slop"
+||how2invest.mx^$doc,reason="AI slop"
+||indiacarez.com^$doc,reason="AI slop"
+||tcl.news^$doc,reason="AI slop"
+||arcarrierpoint.net^$doc,reason="AI slop"
+||vamonde.com^$doc,reason="AI slop"
+||ziplinq.com^$doc,reason="AI slop"
+||crispme.com^$doc,reason="AI slop"
+||healthke.com^$doc,reason="AI slop"
+||exportingofamerica.com^$doc,reason="AI slop"
+||threadswire.com^$doc,reason="AI slop"
+||runpost.com.in^$doc,reason="AI slop"
+||howinsights.com^$doc,reason="AI slop"
+||papermag.org^$doc,reason="AI slop"
+||fabulousboobies.com^$doc,reason="AI slop"
+||magazinepro.co.uk^$doc,reason="AI slop"
+||brookbtaube.com^$doc,reason="AI slop"
+||digisimhub.com^$doc,reason="AI slop"
+||dropshipinsight.com^$doc,reason="AI slop"
+||evolvefeed.com^$doc,reason="AI slop"
+||heraldspost.com^$doc,reason="AI slop"
+||intelnook.com^$doc,reason="AI slop"
+||kingymab.co.uk^$doc,reason="AI slop"
+||lynndailyitem.com^$doc,reason="AI slop"
+||multimindblog.com^$doc,reason="AI slop"
+||newsgenius.co.uk^$doc,reason="AI slop"
+||spicemastery.com^$doc,reason="AI slop"
+||suffarankers.com^$doc,reason="AI slop"
+||techbombers.com^$doc,reason="AI slop"
+||techinflation.com^$doc,reason="AI slop"
+||technicalsmind.com^$doc,reason="AI slop"
+||usdigitalmagazine.com^$doc,reason="AI slop"
+||zobuz.com^$doc,reason="AI slop"
+||techmagazines.net^$doc,reason="AI slop"
+||mxmenu.net^$doc,reason="AI slop"
+||bicimag.com^$doc,reason="AI slop"
+||buzfeed.co.uk^$doc,reason="AI slop"
+||elephantstages.com^$doc,reason="AI slop"
+||getusaupdates.com^$doc,reason="AI slop"
+||howtweet.co.uk^$doc,reason="AI slop"
+||wordiply.uk^$doc,reason="AI slop"
+||techktimes.co.uk^$doc,reason="AI slop"
+||techsslaash.com^$doc,reason="AI slop"
+||thefriskytimes.com^$doc,reason="AI slop"
+||vbusiness.co.uk^$doc,reason="AI slop"
+||jnmpost.com^$doc,reason="AI slop"
+||bestmessage.in^$doc,reason="AI slop"
+||brandedpoetry.com^$doc,reason="AI slop"
+||kongotech.org^$doc,reason="AI slop"
+||tanzohub.today^$doc,reason="AI slop"
+||how2invest.com.mx^$doc,reason="AI slop"
+||masan.co.uk^$doc,reason="AI slop"
+||trendbrizz.com^$doc,reason="AI slop"
+||thebroadtrade.com^$doc,reason="AI slop"
+||digitalnewsalerts.org^$doc,reason="AI slop"
+||abcmagazine.org^$doc,reason="AI slop"
+||beforeitnews.co.uk^$doc,reason="AI slop"
+||pixwox.co.uk^$doc,reason="AI slop"
+||abusinessventure.com^$doc,reason="AI slop"
+||baddiehub.org.uk^$doc,reason="AI slop"
+||cavegreen.us^$doc,reason="AI slop"
+||baddiehub.blog^$doc,reason="AI slop"
+||maccablog.com^$doc,reason="AI slop"
+||truepeoplesearch.blog^$doc,reason="AI slop"
+||discovercraze.com^$doc,reason="AI slop"
+||mygroundbiz.co.uk^$doc,reason="AI slop"
+||baddiehub.ca^$doc,reason="AI slop"
+||cookape.com.in^$doc,reason="AI slop"
+||blogangle.org^$doc,reason="AI slop"
+||omgflix.co.uk^$doc,reason="AI slop"
+||geeksaroundworld.com^$doc,reason="AI slop"
+||interestingfacts.org^$doc,reason="AI slop"
+||spacecoastdaily.co.uk^$doc,reason="AI slop"
+||hogatoga.com.in^$doc,reason="AI slop"
+||trendingcelebritys.com^$doc,reason="AI slop"
+||technewztop.org^$doc,reason="AI slop"
+||veganovtrichy.com^$doc,reason="AI slop"
+||tgtube.us^$doc,reason="AI slop"
+||reogma.com^$doc,reason="AI slop"
+||msnblogs.co.uk^$doc,reason="AI slop"
+||baddiehub.bond^$doc,reason="AI slop"
+||thecelebrays.com^$doc,reason="AI slop"
+||rollyvortex.com^$doc,reason="AI slop"
+||crispme.co.uk^$doc,reason="AI slop"
+||wrenable.com^$doc,reason="AI slop"
+||thundern.com^$doc,reason="AI slop"
+||nationaltoday.co.uk^$doc,reason="AI slop"
+||speedyshort.org^$doc,reason="AI slop"
+||cyberpulseltd.co.uk^$doc,reason="AI slop"
+||picnob.uk^$doc,reason="AI slop"
+||tamilprint2.co.uk^$doc,reason="AI slop"
+||allinternetchicks.com^$doc,reason="AI slop"
+||techvanguards.com^$doc,reason="AI slop"
+||vibelinker.co.uk^$doc,reason="AI slop"
+||blogbois.co.uk^$doc,reason="AI slop"
+||vyvymangaa.co.uk^$doc,reason="AI slop"
+||luv-trise.net^$doc,reason="AI slop"
+||wellhealthalert.com^$doc,reason="AI slop"
+||brookbtaubebox.com^$doc,reason="AI slop"
+||businesssky.io^$doc,reason="AI slop"
+||speakmagazine.co.uk^$doc,reason="AI slop"
+||digicsol-system.com^$doc,reason="AI slop"
+||calandrando.com^$doc,reason="AI slop"
+||breakingbanner.com^$doc,reason="AI slop"
+||basicadvise.co.uk^$doc,reason="AI slop"
+||thinkbomall.com^$doc,reason="AI slop"
+||techlokesh.org^$doc,reason="AI slop"
+||forbesradar.co.uk^$doc,reason="AI slop"
+||trustwino.com^$doc,reason="AI slop"
+||seotakeaways.com^$doc,reason="AI slop"
+||maccablog.co.uk^$doc,reason="AI slop"
+||forbesinsider.co.uk^$doc,reason="AI slop"
+||businesslisting.blog^$doc,reason="AI slop"
+||problogschool.com^$doc,reason="AI slop"
+||msnbusiness.co.uk^$doc,reason="AI slop"
+||flixhq.uk^$doc,reason="AI slop"
+||digitad.info^$doc,reason="AI slop"
+||crunchnews.org^$doc,reason="AI slop"
+||businesspossible.co.uk^$doc,reason="AI slop"
+||bioscopey.com^$doc,reason="AI slop"
+||alertecelebrites.fr^$doc,reason="AI slop"
+||devtuc.com^$doc,reason="AI slop"
+||menuaustralia.com^$doc,reason="AI slop"
+||fixhq.org^$doc,reason="AI slop"
+||jinxmanga.co.uk^$doc,reason="AI slop"
+||howuknews.co.uk^$doc,reason="AI slop"
+||usapointnetwork.com^$doc,reason="AI slop"
+||frmenu.org^$doc,reason="AI slop"
+||tmsimregistration.com^$doc,reason="AI slop"
+||upbent.com^$doc,reason="AI slop"
+||studyheals.com^$doc,reason="AI slop"
+||betsays.com^$doc,reason="AI slop"
+||hbtinsider.com^$doc,reason="AI slop"
+||lunchmenualert.com^$doc,reason="AI slop"
+||7networth.com^$doc,reason="AI slop"
+||bistrovista.com^$doc,reason="AI slop"
+||1xify.com^$doc,reason="AI slop"
+||digitaalz.com^$doc,reason="AI slop"
+||mealtop.co.uk^$doc,reason="AI slop"
+||apexbeasts.com^$doc,reason="AI slop"
+||thetrendzguruji.me^$doc,reason="AI slop"
+||currentpackages.com^$doc,reason="AI slop"
+||sgmenuprices.com^$doc,reason="AI slop"
+||mycubatrip.com^$doc,reason="AI slop"
+||mxmenu.org^$doc,reason="AI slop"
+||bikutuda.com^$doc,reason="AI slop"
+||blookt.net^$doc,reason="AI slop"
+||rubmd.net^$doc,reason="AI slop"
+||menualerteg.com^$doc,reason="AI slop"
+||techhaumea.com^$doc,reason="AI slop"
+||richcelebritiesnetworth.com^$doc,reason="AI slop"
+||differencewise.com^$doc,reason="AI slop"
+||poetryaddiction.com^$doc,reason="AI slop"
+||prixdesmenus.com^$doc,reason="AI slop"
+||pricealertbd.com^$doc,reason="AI slop"
+||bighomesinfo.com^$doc,reason="AI slop"
+||learnforsuccess.co.uk^$doc,reason="AI slop"
+||thriveglobal.co.uk^$doc,reason="AI slop"
+||technewztop.com.in^$doc,reason="AI slop"
+||webteknohaber.org^$doc,reason="AI slop"
+||ytrishi.org^$doc,reason="AI slop"
+||techgup.org^$doc,reason="AI slop"
+||biharjobportal.co.in^$doc,reason="AI slop"
+||digitalagemagazine.com^$doc,reason="AI slop"
+||stellarwhirl.org^$doc,reason="AI slop"
+||incrediblewave.com^$doc,reason="AI slop"
+||techsparkr.com^$doc,reason="AI slop"
+||theradamm.com^$doc,reason="AI slop"
+||thenewztalkies.com^$doc,reason="AI slop"
+||aiotechnical.com.in^$doc,reason="AI slop"
+||hindiyaro.net^$doc,reason="AI slop"
+||deepcyclenews.co.uk^$doc,reason="AI slop"
+||private-delights.org^$doc,reason="AI slop"
+||theglobeandmail.co.uk^$doc,reason="AI slop"
+||playblooket.co.uk^$doc,reason="AI slop"
+||scareplay.com^$doc,reason="AI slop"
+||jures.co.uk^$doc,reason="AI slop"
+||maxxfour.net^$doc,reason="AI slop"
+||themixmoz.com^$doc,reason="AI slop"
+||bblogs.uk^$doc,reason="AI slop"
+||fintechszoom.com^$doc,reason="AI slop"
+||thetechgues.com^$doc,reason="AI slop"
+||bloghives.com^$doc,reason="AI slop"
+||nytimer.co.uk^$doc,reason="AI slop"
+||baddiehub.link^$doc,reason="AI slop"
+||diatm.com^$doc,reason="AI slop"
+||livemint.uk^$doc,reason="AI slop"
+||imginn.co.uk^$doc,reason="AI slop"
+||winnoise.net^$doc,reason="AI slop"
+||jboutique.co^$doc,reason="AI slop"
+||howinsights.co.uk^$doc,reason="AI slop"
+||bigmagazinenews.com^$doc,reason="AI slop"
+||blooketcode.net^$doc,reason="AI slop"
+||ferretstyle.com^$doc,reason="AI slop"
+||techuknews.com^$doc,reason="AI slop"
+||foxfaster.com^$doc,reason="AI slop"
+||globalexpressinfo.com^$doc,reason="AI slop"
+||fingerlakes1.co.uk^$doc,reason="AI slop"
+||ventspeak.com^$doc,reason="AI slop"
+||xannytech.co.uk^$doc,reason="AI slop"
+||wordletoday.in^$doc,reason="AI slop"
+||bigmagazinepro.com^$doc,reason="AI slop"
+||washingtonbreeze.com^$doc,reason="AI slop"
+||thrillrise.com^$doc,reason="AI slop"
+||blogblower.com^$doc,reason="AI slop"
+||americanrepost.com^$doc,reason="AI slop"
+||newsjotechgeek.com^$doc,reason="AI slop"
+||menproject.co.uk^$doc,reason="AI slop"
+||wordleadvice.com^$doc,reason="AI slop"
+||seokingsclub.com^$doc,reason="AI slop"
+||techprimex.com^$doc,reason="AI slop"
+||businessesplans.co.uk^$doc,reason="AI slop"
+||baddie-hub.uk^$doc,reason="AI slop"
+||allnewztalkies.com^$doc,reason="AI slop"
+||ocnjdaily.co.uk^$doc,reason="AI slop"
+||blogengine.co.uk^$doc,reason="AI slop"
+||globesimregistration.net^$doc,reason="AI slop"
+||myvyvymanga.com^$doc,reason="AI slop"
+||aio-technical.com^$doc,reason="AI slop"
+||todayoutlook.co.uk^$doc,reason="AI slop"
+||creativeter.com^$doc,reason="AI slop"
+||maasgracve.com^$doc,reason="AI slop"
+||journalmatrixs.com^$doc,reason="AI slop"
+||contextoanswertoday.com^$doc,reason="AI slop"
+||croesoffice.org^$doc,reason="AI slop"
+||techdeck.com.in^$doc,reason="AI slop"
+||brooktaube.org^$doc,reason="AI slop"
+||dondodson.com^$doc,reason="AI slop"
+||techbards.org^$doc,reason="AI slop"
+||intechpro.co.uk^$doc,reason="AI slop"
+||urbanswall.com^$doc,reason="AI slop"
+||techsquick.com^$doc,reason="AI slop"
+||aaryaeditz.org^$doc,reason="AI slop"
+||akedowarriors.com.au^$doc,reason="AI slop"
+||ntdesigns.com.au^$doc,reason="AI slop"
+||ideanestle.com^$doc,reason="AI slop"
+||worldwids.com^$doc,reason="AI slop"
+||inspiresprout.com^$doc,reason="AI slop"
+||blogaroo.org^$doc,reason="AI slop"
+||techdenser.com^$doc,reason="AI slop"
+||viralzee.com^$doc,reason="AI slop"
+||techiboomb.com^$doc,reason="AI slop"
+||finbusines.com^$doc,reason="AI slop"
+||techipes.com^$doc,reason="AI slop"
+||wiki247.org^$doc,reason="AI slop"
+||digitaljournel.com^$doc,reason="AI slop"
+||usnowadays.com^$doc,reason="AI slop"
+||outlookblogs.com^$doc,reason="AI slop"
+||deepcyclenews.co.uk^$doc,reason="AI slop"
+||private-delights.org^$doc,reason="AI slop"
+||techwaqj.com^$doc,reason="AI slop"
+||mazrms.com^$doc,reason="AI slop"
+||altumw.com^$doc,reason="AI slop"
+||anexuz.com^$doc,reason="AI slop"
+||techtrending.co.uk^$doc,reason="AI slop"
+||spiderhoods.ltd^$doc,reason="AI slop"
+||depomin82.co.uk^$doc,reason="AI slop"
+||techarchived.com^$doc,reason="AI slop"
+||techcraigslist.com^$doc,reason="AI slop"
+||retrobowl.co.uk^$doc,reason="AI slop"
+||planetutech.com^$doc,reason="AI slop"
+||apnew.co.uk^$doc,reason="AI slop"
+||tubewellscreenss.com^$doc,reason="AI slop"
+||storytellershat.com^$doc,reason="AI slop"
+||relevantcodes.com^$doc,reason="AI slop"
+||tirpse.com^$doc,reason="AI slop"
+||websitesone.com^$doc,reason="AI slop"
+||neclumi.com^$doc,reason="AI slop"
+||police-writers.com^$doc,reason="AI slop"
+||thegloworm.com^$doc,reason="AI slop"
+||rideable.com.in^$doc,reason="AI slop"
+||discoversmagazine.com^$doc,reason="AI slop"
+||ezyzip.co.uk^$doc,reason="AI slop"
+||ventoxweekly.com^$doc,reason="AI slop"
+||admodito.co.uk^$doc,reason="AI slop"
+||sonicshappyhour.com^$doc,reason="AI slop"
+||1883magazine.co.uk^$doc,reason="AI slop"
+||sethbtaubehub.com^$doc,reason="AI slop"
+||magzinely.com^$doc,reason="AI slop"
+||usaprotrend.com^$doc,reason="AI slop"
+||gravityinternetnet.co.uk^$doc,reason="AI slop"
+||todayoutlook.co.uk^$doc,reason="AI slop"
+||decorunits.com^$doc,reason="AI slop"
+||promagazinehub.com^$doc,reason="AI slop"
+||msmagazine.co.uk^$doc,reason="AI slop"
+||aaryaeditz.org^$doc,reason="AI slop"
+||newzify.org^$doc,reason="AI slop"
+||businessmanga.co.uk^$doc,reason="AI slop"
+||techboostlab.com^$doc,reason="AI slop"
+||adminsights.co.uk^$doc,reason="AI slop"
+||mhinsights.co.uk^$doc,reason="AI slop"
+||finsplore.com^$doc,reason="AI slop"
+||nyweeklymsn.com.in^$doc,reason="AI slop"
+||pondershort.com.in^$doc,reason="AI slop"
+||xvif.com.in^$doc,reason="AI slop"
+||nyweekly.co.uk^$doc,reason="AI slop"
+||themsntimes.com^$doc,reason="AI slop"
+||theshopingtimes.com^$doc,reason="AI slop"
+||nbcjournals.com^$doc,reason="AI slop"
+||newschecker.co.uk^$doc,reason="AI slop"
+||jojoygta5.org^$doc,reason="AI slop"
+||cooprat.com^$doc,reason="AI slop"
+||nytcrossword.blog^$doc,reason="AI slop"
+||theverge.com.in^$doc,reason="AI slop"
+||thefluxtech.com^$doc,reason="AI slop"
+||ventsmaga.com^$doc,reason="AI slop"
+||usabusinesshub.blog^$doc,reason="AI slop"
+||williegary.co.uk^$doc,reason="AI slop"
+||dallasyocum.co.uk^$doc,reason="AI slop"
+||luxpascal.com^$doc,reason="AI slop"
+||andreaskeete.co.uk^$doc,reason="AI slop"
+||usalivetrend.com^$doc,reason="AI slop"
+||thenewswire.co.uk^$doc,reason="AI slop"
+||usainfo.co.uk^$doc,reason="AI slop"
+||99-maths.com^$doc,reason="AI slop"
+||businessbond.net^$doc,reason="AI slop"
+||crypto30xcom.com^$doc,reason="AI slop"
+||techlokesh.org^$doc,reason="AI slop"
+||aaryaeditz.org^$doc,reason="AI slop"
+||blogkey.co.uk^$doc,reason="AI slop"
+||bhulekhbhoomi.com^$doc,reason="AI slop"
+||hindiqoutes.com^$doc,reason="AI slop"
+||biharbhumilandrecord.com^$doc,reason="AI slop"
+||apnakhataedhartirajasthan.com^$doc,reason="AI slop"
+||mpbhulekhrcms.com^$doc,reason="AI slop"
+||ssoidrajasthanlogin.com^$doc,reason="AI slop"
+||startupsofindia.com^$doc,reason="AI slop"
+||primenymedia.com^$doc,reason="AI slop"
+||medianextusa.com^$doc,reason="AI slop"
+||salaryslip.org^$doc,reason="AI slop"
+||ladli-behna-yojana.com^$doc,reason="AI slop"
+||husbandname.org^$doc,reason="AI slop"
+||filmyflycom.com^$doc,reason="AI slop"
+||vibnology.com^$doc,reason="AI slop"
+||biharportalonline.com^$doc,reason="AI slop"
+||thebioinfo.com^$doc,reason="AI slop"
+||scoopwheels.com^$doc,reason="AI slop"
+||thereaderstone.com^$doc,reason="AI slop"
+||theunipost.com^$doc,reason="AI slop"
+||thedigilocker.in^$doc,reason="AI slop"
+||sarkareeportal.com^$doc,reason="AI slop"
+||kedaiori.com^$doc,reason="AI slop"
+||thezoomwire.com^$doc,reason="AI slop"
+||baldockvets.com^$doc,reason="AI slop"
+||rajkotupdatesnewsreport.com^$doc,reason="AI slop"
+||yourssstory.com^$doc,reason="AI slop"
+||stockdalecolemanforjudge.com^$doc,reason="AI slop"
+||magazinespros.com^$doc,reason="AI slop"
+||coreusnews.com^$doc,reason="AI slop"
+||msnpro.co.uk^$doc,reason="AI slop"
+||guidejunction.co.uk^$doc,reason="AI slop"
+||ncrchronicle.com^$doc,reason="AI slop"
+||unimarsh.com^$doc,reason="AI slop"
+||theprimeport.com^$doc,reason="AI slop"
+||scooptoop.com^$doc,reason="AI slop"
+||myipscannerpro.com^$doc,reason="AI slop"
+||norcow.com^$doc,reason="AI slop"
+||startupvirals.com^$doc,reason="AI slop"
+||automobileinfoz.com^$doc,reason="AI slop"
+||eindiawire.com^$doc,reason="AI slop"
+||glamourglom.com^$doc,reason="AI slop"
+||nexerup.com^$doc,reason="AI slop"
+||sportsvirals.com^$doc,reason="AI slop"
+||timebuzinessnews.com^$doc,reason="AI slop"
+||dailybizhunt.com^$doc,reason="AI slop"
+||texanstimes.com^$doc,reason="AI slop"
+||rumorster.com^$doc,reason="AI slop"
+||magazinesmega.com^$doc,reason="AI slop"
+||scratchwake.com^$doc,reason="AI slop"
+||bravixo.com^$doc,reason="AI slop"
+||thewiresolution.com^$doc,reason="AI slop"
+||chicagonewsupdate.com^$doc,reason="AI slop"
+||usaacemedia.com^$doc,reason="AI slop"
+||iplworldcup.com^$doc,reason="AI slop"
+||thenewznation.com^$doc,reason="AI slop"
+||stylishword.com^$doc,reason="AI slop"
+||doofliix.com^$doc,reason="AI slop"
+||pedrovazpaulo.net^$doc,reason="AI slop"
+||socialhubin.com^$doc,reason="AI slop"
+||billionfire.com^$doc,reason="AI slop"
+||bistrover.com^$doc,reason="AI slop"
+||famous-parenting.com^$doc,reason="AI slop"
+||vatonlinecalculator.co.uk^$doc,reason="AI slop"
+||cubanribs.com^$doc,reason="AI slop"
+||pmawasgraminlist.co^$doc,reason="AI slop"
+||sumosearch.io^$doc,reason="AI slop"
+||openhoursguru.com^$doc,reason="AI slop"
+||spiritmeans.com^$doc,reason="AI slop"
+||washingtongreek.co.uk^$doc,reason="AI slop"
+||contacthelp.co.uk^$doc,reason="AI slop"
+||hamrosolarllc.com^$doc,reason="AI slop"
+||qaastechnology.us^$doc,reason="AI slop"
+||futuremagazine.co.uk^$doc,reason="AI slop"
+||basicknowledge.co.uk^$doc,reason="AI slop"
+||soujiyi.net^$doc,reason="AI slop"
+||unfite.net^$doc,reason="AI slop"
+||klwap.com.in^$doc,reason="AI slop"
+||naturerealytr.com^$doc,reason="AI slop"
+||techgues.org^$doc,reason="AI slop"
+||wbsedcl.com.in^$doc,reason="AI slop"
+||depomin82.org^$doc,reason="AI slop"
+||yearbook360.org^$doc,reason="AI slop"
+||albergado.com^$doc,reason="AI slop"
+||premiumbusinesshub.com^$doc,reason="AI slop"
+||magque.org^$doc,reason="AI slop"
+||blooklet.net^$doc,reason="AI slop"
+||crypto30x.us^$doc,reason="AI slop"
+||thesun.blog^$doc,reason="AI slop"
+||evolvetofuture.com^$doc,reason="AI slop"
+||articleforward.com^$doc,reason="AI slop"
+||beebom.org^$doc,reason="AI slop"
+||londonexpress.org^$doc,reason="AI slop"
+||crispme.net^$doc,reason="AI slop"
+||mashablestory.com^$doc,reason="AI slop"
+||torontotimes.org^$doc,reason="AI slop"
+||expressinternal.com^$doc,reason="AI slop"
+||discoverthrill.co.uk^$doc,reason="AI slop"
+||chicagodaily.org^$doc,reason="AI slop"
+||flaremagazines.co.uk^$doc,reason="AI slop"
+||londondaily.org^$doc,reason="AI slop"
+||seofigure.com^$doc,reason="AI slop"
+||theappkod.com^$doc,reason="AI slop"
+||businessradar.co.uk^$doc,reason="AI slop"
+||centernewshub.com^$doc,reason="AI slop"
+||newsface.co.uk^$doc,reason="AI slop"
+||tsvgcet.pro^$doc,reason="AI slop"
+||ralcolor.net^$doc,reason="AI slop"
+||tvinsider.co.uk^$doc,reason="AI slop"
+||vital-mag-net-blog.com^$doc,reason="AI slop"
+||themagazinezone.com^$doc,reason="AI slop"
+||atfboru.co.uk^$doc,reason="AI slop"
+||interlandtime.com^$doc,reason="AI slop"
+||techu.blog^$doc,reason="AI slop"
+||ventsmagalogue.co.uk^$doc,reason="AI slop"
+||newspapertime.co.uk^$doc,reason="AI slop"
+||nvidia-aktie.de^$doc,reason="AI slop"
+||vstoriginal.com^$doc,reason="AI slop"
+||cytocom.com^$doc,reason="AI slop"
+||geeksgyan.com^$doc,reason="AI slop"
+||thebeverlyadams.com^$doc,reason="AI slop"
+||kntosa.com^$doc,reason="AI slop"
+||chatiel.com^$doc,reason="AI slop"
+||angerole.com^$doc,reason="AI slop"
+||turdwords.com^$doc,reason="AI slop"
+||theflexshow.com^$doc,reason="AI slop"
+||clickup.com.in^$doc,reason="AI slop"
+||kcrealestatemagazine.com^$doc,reason="AI slop"
+||runningpost.com.in^$doc,reason="AI slop"
+||falmyhit.com^$doc,reason="AI slop"
+||photosgreet.com^$doc,reason="AI slop"
+||ncedcloud.co.uk^$doc,reason="AI slop"
+||msnwire.co.uk^$doc,reason="AI slop"
+||wepbound.net^$doc,reason="AI slop"
+||magazinenow.co.uk^$doc,reason="AI slop"
+||authenticnews.co.uk^$doc,reason="AI slop"
+||thecobox.org^$doc,reason="AI slop"
+||fintechzooms.org^$doc,reason="AI slop"
+||runningposts.com^$doc,reason="AI slop"
+||spinupbusiness.com^$doc,reason="AI slop"
+||ventsgrow.com^$doc,reason="AI slop"
+||deoda.pro^$doc,reason="AI slop"
+||cryptolazz.com^$doc,reason="AI slop"
+||stufferdnb.org^$doc,reason="AI slop"
+||getbreaknews.com^$doc,reason="AI slop"
+||trendyblogging.com^$doc,reason="AI slop"
+||papermanga.com^$doc,reason="AI slop"
+||worldtrend.blog^$doc,reason="AI slop"
+||livehint.blog^$doc,reason="AI slop"
+||theblogverge.com^$doc,reason="AI slop"
+||wegmans.co.uk^$doc,reason="AI slop"
+||classcharts.org.uk^$doc,reason="AI slop"
+||iganony.org.uk^$doc,reason="AI slop"
+||voyageny.co.uk^$doc,reason="AI slop"
+||tempindoors.com^$doc,reason="AI slop"
+||thevitalmag.net^$doc,reason="AI slop"
+||mirrornewz.com^$doc,reason="AI slop"
+||brightnewz.com^$doc,reason="AI slop"
+||techifuture.co.uk^$doc,reason="AI slop"
+||techimillion.com^$doc,reason="AI slop"
+||dreamteamvisions.com^$doc,reason="AI slop"
+||skycryptpro.com^$doc,reason="AI slop"
+||noodlemagazineo.com^$doc,reason="AI slop"
+||wemagazine.co.uk^$doc,reason="AI slop"
+||punjabeducare.co.uk^$doc,reason="AI slop"
+||newslogicalshout.com^$doc,reason="AI slop"
+||proxiyum.org^$doc,reason="AI slop"
+||alvarezautosales.com^$doc,reason="AI slop"
+||watdongmoonlek.com^$doc,reason="AI slop"
+||mixtvnow.net^$doc,reason="AI slop"
+||bigtechoro.org^$doc,reason="AI slop"
+||cyberkannadig.net^$doc,reason="AI slop"
+||theztec100.com^$doc,reason="AI slop"
+||manhwa18.co.uk^$doc,reason="AI slop"
+||eurobuzz.co.uk^$doc,reason="AI slop"
+||entrepreneurera.co.uk^$doc,reason="AI slop"
+||sparksweekly.com^$doc,reason="AI slop"
+||urbansplatter.org^$doc,reason="AI slop"
+||techbullion.org.uk^$doc,reason="AI slop"
+||theworldfree4u.com^$doc,reason="AI slop"
+||pressmagazine.org^$doc,reason="AI slop"
+||heardle70s.co.uk^$doc,reason="AI slop"
+||publicmagazine.co.uk^$doc,reason="AI slop"
+||dailyfusion.co.uk^$doc,reason="AI slop"
+||zvideopro.com^$doc,reason="AI slop"
+||thefutureupdate.com^$doc,reason="AI slop"
+||wordlehinttoday.blog^$doc,reason="AI slop"
+||canvaartworks.com^$doc,reason="AI slop"
+||buzztum.org^$doc,reason="AI slop"
+||hitlmila.com^$doc,reason="AI slop"
+||lillienu.net^$doc,reason="AI slop"
+||quickmagazine.co.uk^$doc,reason="AI slop"
+||examplemagazine.co.uk^$doc,reason="AI slop"
+||comicfanzine.co.uk^$doc,reason="AI slop"
+||thecoastnews.co.uk^$doc,reason="AI slop"
+||veestrit.org^$doc,reason="AI slop"
+||techvision.com.in^$doc,reason="AI slop"
+||lionswire.blog^$doc,reason="AI slop"
+||newslogictech.com^$doc,reason="AI slop"
+||techplustime.com^$doc,reason="AI slop"
+||techdecktrick.com^$doc,reason="AI slop"
+||crackstreams.com.in^$doc,reason="AI slop"
+||gimkithost.co.uk^$doc,reason="AI slop"
+||unsentproject.co.uk^$doc,reason="AI slop"
+||techpioneer.co.uk^$doc,reason="AI slop"
+||glowmagazine.co.uk^$doc,reason="AI slop"
+||msnnewz.com^$doc,reason="AI slop"
+||dainikshikshapro.com^$doc,reason="AI slop"
+||startrend.co.uk^$doc,reason="AI slop"
+||itechgues.com^$doc,reason="AI slop"
+||msagears.com^$doc,reason="AI slop"
+||repoindustry.com^$doc,reason="AI slop"
+||missionies.com^$doc,reason="AI slop"
+||boldnews.co.uk^$doc,reason="AI slop"
+||dirtyships.org^$doc,reason="AI slop"
+||viprow.pro^$doc,reason="AI slop"
+||digitalhub4geeks.net^$doc,reason="AI slop"
+||megacaching.org^$doc,reason="AI slop"
+||themp4moviez.com^$doc,reason="AI slop"
+||showbizztoday-com.co.uk^$doc,reason="AI slop"
+||usaviralnews.com^$doc,reason="AI slop"
+||techweekly.com.in^$doc,reason="AI slop"
+||exploratoryglory.com^$doc,reason="AI slop"
+||techbullion.uk^$doc,reason="AI slop"
+||hdhub4unit.com^$doc,reason="AI slop"
+||adsypwhb3.com^$doc,reason="AI slop"
+||bctimes.co.uk^$doc,reason="AI slop"
+||timelens.co.uk^$doc,reason="AI slop"
+||classicnews.co.uk^$doc,reason="AI slop"
+||techfelts.co.uk^$doc,reason="AI slop"
+||businesseshubs.com^$doc,reason="AI slop"
+||knowledge.com.in^$doc,reason="AI slop"
+||socialbizmagazine.co.uk^$doc,reason="AI slop"
+||muzzmagazine.co.uk^$doc,reason="AI slop"
+||pondershort.org^$doc,reason="AI slop"
+||britainwrites.co.uk^$doc,reason="AI slop"
+||blogstech.co.uk^$doc,reason="AI slop"
+||fappeningblog.uk^$doc,reason="AI slop"
+||erothot.org^$doc,reason="AI slop"
+||fintechzoomcom.pro^$doc,reason="AI slop"
+||vital-mag-net-blog.blog^$doc,reason="AI slop"
+||wpdevshed.co.uk^$doc,reason="AI slop"
+||ucatruco.com^$doc,reason="AI slop"
+||ontpress.co.uk^$doc,reason="AI slop"
+||symbolab.co.uk^$doc,reason="AI slop"
+||techmagazinepro.co.uk^$doc,reason="AI slop"
+||usmagazinepro.co.uk^$doc,reason="AI slop"
+||versegrace.com^$doc,reason="AI slop"
+||grammarglides.com^$doc,reason="AI slop"
+||gigglenames.com^$doc,reason="AI slop"
+||oxfordenglishlang.com^$doc,reason="AI slop"
+||grammarcove.com^$doc,reason="AI slop"
+||captionfinity.com^$doc,reason="AI slop"
+||phrasespulse.com^$doc,reason="AI slop"
+||recipevilla.com^$doc,reason="AI slop"
+||dadaboudi.com^$doc,reason="AI slop"
+||astheticflower.com^$doc,reason="AI slop"
+||inglishe.com^$doc,reason="AI slop"
+||menupriceast.com^$doc,reason="AI slop"
+||uniabhimanyu.com^$doc,reason="AI slop"
+||quoteshaze.com^$doc,reason="AI slop"
+||sparklemorning.com^$doc,reason="AI slop"
+||thebankify.com^$doc,reason="AI slop"
+||ravguide.com^$doc,reason="AI slop"
+||charmfulnames.com^$doc,reason="AI slop"
+||primenamespot.com^$doc,reason="AI slop"
+||namesvista.com^$doc,reason="AI slop"
+||nomenly.com^$doc,reason="AI slop"
+||finanzerr.com^$doc,reason="AI slop"
+||headlessgenius.com^$doc,reason="AI slop"
+||slangsandnames.com^$doc,reason="AI slop"
+||quotescloud.org^$doc,reason="AI slop"
+||sgmenus.org^$doc,reason="AI slop"
+||journalelite.com^$doc,reason="AI slop"
+||celebworthusa.com^$doc,reason="AI slop"
+||thetechnotricks.com^$doc,reason="AI slop"
+||idvisahub.com^$doc,reason="AI slop"
+||radamm.net^$doc,reason="AI slop"
+||truedynamicindia.com^$doc,reason="AI slop"
+||thecaribloop.com^$doc,reason="AI slop"
+||rare-fiedtech.com^$doc,reason="AI slop"
+||fzkidd.com.in^$doc,reason="AI slop"
+||mdisk.com.in^$doc,reason="AI slop"
+||playmyworld.co.uk^$doc,reason="AI slop"
+||yandexgamesresources.com^$doc,reason="AI slop"
+||bolly4upro.com^$doc,reason="AI slop"
+||rabbitweb.org^$doc,reason="AI slop"
+||unsentprojects.com^$doc,reason="AI slop"
+||thesmallbusinesstime.co.uk^$doc,reason="AI slop"
+||objectprofile.com^$doc,reason="AI slop"
+||webdesignpostfalls.com^$doc,reason="AI slop"
+||fin-techzoom.com^$doc,reason="AI slop"
+||webdesignpostfalls.com^$doc,reason="AI slop"
+||recifest.com.au^$doc,reason="AI slop"
+||techyapple.co.uk^$doc,reason="AI slop"
+||gnhust.uk^$doc,reason="AI slop"
+||hqfix.co.uk^$doc,reason="AI slop"
+||peerji.com^$doc,reason="AI slop"
+||bloggershub.org^$doc,reason="AI slop"
+||zobuz.co.uk^$doc,reason="AI slop"
+||veganovtrichy.net^$doc,reason="AI slop"
+||thetechnotricks.in^$doc,reason="AI slop"
+||techmininghub.co.uk^$doc,reason="AI slop"
+||mopoga.uk^$doc,reason="AI slop"
+||buzzhatch.co.uk^$doc,reason="AI slop"
+||dignotech.com^$doc,reason="AI slop"
+||lidnews.com^$doc,reason="AI slop"
+||techsuse.com^$doc,reason="AI slop"
+||newspaperinsider.com^$doc,reason="AI slop"
+||investorweeklynews.com^$doc,reason="AI slop"
+||dailynewswork.com^$doc,reason="AI slop"
+||rockbandnews.com^$doc,reason="AI slop"
+||techmarsh.com^$doc,reason="AI slop"
+||dailydishnews.com^$doc,reason="AI slop"
+||newsross.com^$doc,reason="AI slop"
+||morningtimenews.com^$doc,reason="AI slop"
+||sevenseventech.com^$doc,reason="AI slop"
+||newscod.com^$doc,reason="AI slop"
+||journalnewsinfo.com^$doc,reason="AI slop"
+||ormetech.com^$doc,reason="AI slop"
+||mytecharm.com^$doc,reason="AI slop"
+||newsdailysources.com^$doc,reason="AI slop"
+||techchevy.com^$doc,reason="AI slop"
+||newsthere.com^$doc,reason="AI slop"
+||carmannews.com^$doc,reason="AI slop"
+||moonvalleynews.com^$doc,reason="AI slop"
+||honestnewsdaily.com^$doc,reason="AI slop"
+||greennewsdesk.com^$doc,reason="AI slop"
+||relatednewsnetwork.com^$doc,reason="AI slop"
+||dailynewslaw.com^$doc,reason="AI slop"
+||portalnewsletter.com^$doc,reason="AI slop"
+||notontech.com^$doc,reason="AI slop"
+||reliablenewsdaily.com^$doc,reason="AI slop"
+||techslassh.com^$doc,reason="AI slop"
+||marketmedianews.com^$doc,reason="AI slop"
+||recordnewswire.com^$doc,reason="AI slop"
+||newsworlddaily.com^$doc,reason="AI slop"
+||mediumbloggers.com^$doc,reason="AI slop"
+||newspapercast.com^$doc,reason="AI slop"
+||techhopes.com^$doc,reason="AI slop"
+||technicalways.com^$doc,reason="AI slop"
+||stocksmarkettips.com^$doc,reason="AI slop"
+||buildingbusinessnews.com^$doc,reason="AI slop"
+||moneynewsweb.com^$doc,reason="AI slop"
+||economicweeklynews.com^$doc,reason="AI slop"
+||myclassnews.com^$doc,reason="AI slop"
+||bolly4you.net^$doc,reason="AI slop"
+||betterthisworldcom.com^$doc,reason="AI slop"
+||cozovmoni.net^$doc,reason="AI slop"
+||rainmakerless.org^$doc,reason="AI slop"
+||chandiapk.net^$doc,reason="AI slop"
+||hd4hub4u.net^$doc,reason="AI slop"
+||techleez.net^$doc,reason="AI slop"
+||hdhun4u.com^$doc,reason="AI slop"
+||springhillmedgroup.net^$doc,reason="AI slop"
+||animedekho.org^$doc,reason="AI slop"
+||nice1010fun.com^$doc,reason="AI slop"
+||charfen.co.uk^$doc,reason="AI slop"
+||kingcomix.us^$doc,reason="AI slop"
+||utdplug.me.uk^$doc,reason="AI slop"
+||techhuda.com^$doc,reason="AI slop"
+||delightlacto.com^$doc,reason="AI slop"
+||tuambia.co.uk^$doc,reason="AI slop"
+||soldmagazine.co.uk^$doc,reason="AI slop"
+||mytecharm.org^$doc,reason="AI slop"
+||knowworld.co.uk^$doc,reason="AI slop"
+||breakinsight.co.uk^$doc,reason="AI slop"
+||businessoutside.co.uk^$doc,reason="AI slop"
+||celebjournal.co.uk^$doc,reason="AI slop"
+||lifesiters.com^$doc,reason="AI slop"
+||blogbuzznews.com^$doc,reason="AI slop"
+||delightlacto.com^$doc,reason="AI slop"
+||techhuda.com^$doc,reason="AI slop"
+||sfm-compile.com^$doc,reason="AI slop"
+||climbblaster.co.uk^$doc,reason="AI slop"
+||magazinepure.co.uk^$doc,reason="AI slop"
+||aaryaeditz.us^$doc,reason="AI slop"
+||happymistry.net^$doc,reason="AI slop"
+||mahitechinfo.pro^$doc,reason="AI slop"
+||techdecktrick.com^$doc,reason="AI slop"
+||slideinsights.com^$doc,reason="AI slop"
+||runposts.org^$doc,reason="AI slop"
+||ucatruco.org^$doc,reason="AI slop"
+||webgege.net^$doc,reason="AI slop"
+||needmetals.com^$doc,reason="AI slop"
+||rankguruji.net^$doc,reason="AI slop"
+||thetechkeyboard.com^$doc,reason="AI slop"
+||techsmotherboard.com^$doc,reason="AI slop"
+||techyrams.com^$doc,reason="AI slop"
+||thetoopa.com^$doc,reason="AI slop"
+||businesstycoon.io^$doc,reason="AI slop"
+||theincestflix.com^$doc,reason="AI slop"
+||markmagazine.co.uk^$doc,reason="AI slop"
+||smoothiepussit.com^$doc,reason="AI slop"
+||teckjbcom.com^$doc,reason="AI slop"
+||utdplug.co.uk^$doc,reason="AI slop"
+||learnspreadsheet.com^$doc,reason="AI slop"
+||theridgelinereport.com^$doc,reason="AI slop"
+||howeyindustries.com^$doc,reason="AI slop"
+||thejujutsukaisenread.com^$doc,reason="AI slop"
+||instander-official.com^$doc,reason="AI slop"
+||psbios.com^$doc,reason="AI slop"
+||gtasanandreasapk.org^$doc,reason="AI slop"
+||shayaristan.net^$doc,reason="AI slop"
+||sosomodapks.com^$doc,reason="AI slop"
+||ditosimregistration.net^$doc,reason="AI slop"
+||winkapkgeek.com^$doc,reason="AI slop"
+||cheeziousmenu.com^$doc,reason="AI slop"
+||taradownloader.com^$doc,reason="AI slop"
+||whatnetworksph.com^$doc,reason="AI slop"
+||nytsudoku.net^$doc,reason="AI slop"
+||sbhinter.com^$doc,reason="AI slop"
+||cinemanaios.org^$doc,reason="AI slop"
+||inat-box-apk.com.tr^$doc,reason="AI slop"
+||vegassweeps.io^$doc,reason="AI slop"
+||symbolbio.com^$doc,reason="AI slop"
+||itscouriertracking.com^$doc,reason="AI slop"
+||applicationformat.net^$doc,reason="AI slop"
+||teraboxpro.com^$doc,reason="AI slop"
+||groupsorlinky.com^$doc,reason="AI slop"
+||goodwilloutlets.net^$doc,reason="AI slop"
+||myphmenu.org^$doc,reason="AI slop"
+||proinshots.com^$doc,reason="AI slop"
+||sgmenuz.com^$doc,reason="AI slop"
+||pixelabapk.com^$doc,reason="AI slop"
+||carsimult.com^$doc,reason="AI slop"
+||namemeup.com^$doc,reason="AI slop"
+||universalnamegenerator.com^$doc,reason="AI slop"
+||paintpulse.co.uk^$doc,reason="AI slop"
+||celebhusband.com^$doc,reason="AI slop"
+||dudemods.com^$doc,reason="AI slop"
+||gepcoebill.pk^$doc,reason="AI slop"
+||scmapk.com^$doc,reason="AI slop"
+||travelsbird.com^$doc,reason="AI slop"
+||hitvofficial.com^$doc,reason="AI slop"
+||lightroomapks.org^$doc,reason="AI slop"
+||thecarxstreetpro.com^$doc,reason="AI slop"
+||punspromax.com^$doc,reason="AI slop"
+||rareteamnames.com^$doc,reason="AI slop"
+||fairmoore.co.uk^$doc,reason="AI slop"
+||literary-techniques.com^$doc,reason="AI slop"
+||lescobillpay.pk^$doc,reason="AI slop"
+||technewsinfoo.com^$doc,reason="AI slop"
+||philippinesmenu.com^$doc,reason="AI slop"
+||captionsbuzz.com^$doc,reason="AI slop"
+||carstale.com^$doc,reason="AI slop"
+||idstatuscheck.com^$doc,reason="AI slop"
+||anniversaryjourney.com^$doc,reason="AI slop"
+||rantiethnicity.com^$doc,reason="AI slop"
+||celebviki.net^$doc,reason="AI slop"
+||alightmotionmodpro.com^$doc,reason="AI slop"
+||duereply.com^$doc,reason="AI slop"
+||menusalert.org^$doc,reason="AI slop"
+||sinfuldeedsbio.com^$doc,reason="AI slop"
+||drpoetry.com^$doc,reason="AI slop"
+||animalsymbo.com^$doc,reason="AI slop"
+||luaghter.com^$doc,reason="AI slop"
+||philhealth.cc^$doc,reason="AI slop"
+||alightmotionmapk.com^$doc,reason="AI slop"
+||sgmenusprice.net^$doc,reason="AI slop"
+||wishesbirthdays.com^$doc,reason="AI slop"
+||elrutificadorchile.cl^$doc,reason="AI slop"
+||emiratestatusid.com^$doc,reason="AI slop"
+||bioviki.com^$doc,reason="AI slop"
+||whatsmb.com^$doc,reason="AI slop"
+||menuphl.org^$doc,reason="AI slop"
+||readjujutsukaisenmanga.net^$doc,reason="AI slop"
+||baseballes.com^$doc,reason="AI slop"
+||pickuplinebuzz.com^$doc,reason="AI slop"
+||michaelleva.com^$doc,reason="AI slop"
+||whatsjt.com^$doc,reason="AI slop"
+||celebsafairs.net^$doc,reason="AI slop"
+||infotoptrend.com^$doc,reason="AI slop"
+||zaraatofficial.com^$doc,reason="AI slop"
+||fashionsquill.com^$doc,reason="AI slop"
+||celeagenews.com^$doc,reason="AI slop"
+||legendlifes.com^$doc,reason="AI slop"
+||whatsgolden.com^$doc,reason="AI slop"
+||volleyballblaze.com^$doc,reason="AI slop"
+||wealthyhack.com^$doc,reason="AI slop"
+||bionetworthzone.com^$doc,reason="AI slop"
+||starsfaith.com^$doc,reason="AI slop"
+||copyenglish.com^$doc,reason="AI slop"
+||pikupline.net^$doc,reason="AI slop"
+||wherepulse.com^$doc,reason="AI slop"
+||inshotspot.com^$doc,reason="AI slop"
+||techlivo.com^$doc,reason="AI slop"
+||smartlyreply.com^$doc,reason="AI slop"
+||sparktime.co.uk^$doc,reason="AI slop"
+||pickleballopinion.com^$doc,reason="AI slop"
+||stonesmentor.com^$doc,reason="AI slop"
+||flappymagazine.com^$doc,reason="AI slop"
+||vnrom.cc^$doc,reason="AI slop"
+||animalsweeble.net^$doc,reason="AI slop"
+||englishmasterypro.net^$doc,reason="AI slop"
+||ventmagazines.co.uk^$doc,reason="AI slop"
+||subwaysurferapk.net^$doc,reason="AI slop"
+||tchtrends.net^$doc,reason="AI slop"
+||infobiofusion.net^$doc,reason="AI slop"
+||abpoetry.com^$doc,reason="AI slop"
+||thenoobgamerz.com^$doc,reason="AI slop"
+||knowledgemandi.com^$doc,reason="AI slop"
+||starshistory.com^$doc,reason="AI slop"
+||infospiritual.com^$doc,reason="AI slop"
+||talkspeaker.net^$doc,reason="AI slop"
+||jbms360.com^$doc,reason="AI slop"
+||beingselfish.net^$doc,reason="AI slop"
+||snap-insta.net^$doc,reason="AI slop"
+||celebritiezclub.com^$doc,reason="AI slop"
+||simpcity.org.uk^$doc,reason="AI slop"
+||chromewebextensions.com^$doc,reason="AI slop"
+||starbeliefs.com^$doc,reason="AI slop"
+||enfopedia.com^$doc,reason="AI slop"
+||shaladarpans.net^$doc,reason="AI slop"
+||mummyname.com^$doc,reason="AI slop"
+||englishsunglish.com^$doc,reason="AI slop"
+||husbandinfo.com^$doc,reason="AI slop"
+||celebhatelove.com^$doc,reason="AI slop"
+||knowillegal.com^$doc,reason="AI slop"
+||kenyasihami.com^$doc,reason="AI slop"
+||bytevarsity.net^$doc,reason="AI slop"
+||zamenu.net^$doc,reason="AI slop"
+||bioinfoworld.net^$doc,reason="AI slop"
+||shayriinurdu.net^$doc,reason="AI slop"
+||englishlush.net^$doc,reason="AI slop"
+||newsxrocks.com^$doc,reason="AI slop"
+||thebriefmagazine.com^$doc,reason="AI slop"
+||gotechlingo.net^$doc,reason="AI slop"
+||sparkstale.net^$doc,reason="AI slop"
+||baddieshuh.com^$doc,reason="AI slop"
+||travelpackpro.net^$doc,reason="AI slop"
+||quotesology.com^$doc,reason="AI slop"
+||atozpoetry.net^$doc,reason="AI slop"
+||terabapp.com^$doc,reason="AI slop"
+||asenquavc.com^$doc,reason="AI slop"
+||techycubs.net^$doc,reason="AI slop"
+||techysparkel.net^$doc,reason="AI slop"
+||captionpulse.net^$doc,reason="AI slop"
+||thetechinsider.co.uk^$doc,reason="AI slop"
+||earthnatures.net^$doc,reason="AI slop"
+||toptechsinfo.net^$doc,reason="AI slop"
+||synonymate.net^$doc,reason="AI slop"
+||techtendspro.net^$doc,reason="AI slop"
+||mostlytrend.com^$doc,reason="AI slop"
+||captionsbyte.com^$doc,reason="AI slop"
+||hexawings.net^$doc,reason="AI slop"
+||techinfoes.com^$doc,reason="AI slop"
+||organicblog.co.uk^$doc,reason="AI slop"
+||mastimorning.pro^$doc,reason="AI slop"
+||crystalsvista.net^$doc,reason="AI slop"
+||muskaanhindi.org^$doc,reason="AI slop"
+||celebrebuzz.com^$doc,reason="AI slop"
+||applebemenu.com^$doc,reason="AI slop"
+||thefunnypuns.com^$doc,reason="AI slop"
+||croudmomentum.com^$doc,reason="AI slop"
+||reptileguided.com^$doc,reason="AI slop"
+||dunkin-donut.net^$doc,reason="AI slop"
+||menupricesus.com^$doc,reason="AI slop"
+||dimensionsscript.com^$doc,reason="AI slop"
+||wishhes.com^$doc,reason="AI slop"
+||networthsparks.com^$doc,reason="AI slop"
+||ajankari.com^$doc,reason="AI slop"
+||quicklymagazine.co.uk^$doc,reason="AI slop"
+||forbesnetwork.co.uk^$doc,reason="AI slop"
+||pkr4app.com^$doc,reason="AI slop"
+||greblovz2004.org^$doc,reason="AI slop"
+||zv2earning.com^$doc,reason="AI slop"
+||technefi.net^$doc,reason="AI slop"
+||cricketgateway.org^$doc,reason="AI slop"
+||gazettedupmu2.co.uk^$doc,reason="AI slop"
+||viralapks.com^$doc,reason="AI slop"
+||bulbulnepal.org^$doc,reason="AI slop"
+||ymovieshd.org^$doc,reason="AI slop"
+||cozovmoni.net^$doc,reason="AI slop"
+||zetop.org^$doc,reason="AI slop"
+||youpak.net^$doc,reason="AI slop"
+||messiturf100.com^$doc,reason="AI slop"
+||9xfilix.net^$doc,reason="AI slop"
+||4gagnants.com^$doc,reason="AI slop"
+||donpmu.com^$doc,reason="AI slop"
+||powerturf.org^$doc,reason="AI slop"
+||freebookspot.org/^$doc,reason="AI slop"
+||mathgames67.org^$doc,reason="AI slop"
+||titfees.net^$doc,reason="AI slop"
+||poetryaddiction.net^$doc,reason="AI slop"
+||gazettepmu2.com^$doc,reason="AI slop"
+||sansar24.org^$doc,reason="AI slop"
+||wolni-turf.com^$doc,reason="AI slop"
+||kappacoursepmu.net^$doc,reason="AI slop"
+||myliberla.org^$doc,reason="AI slop"
+||nice1010fun.com^$doc,reason="AI slop"
+||filiereturf.com^$doc,reason="AI slop"
+||pkr2earn.com^$doc,reason="AI slop"
+||technefi.org^$doc,reason="AI slop"
+||stmoro.net/^$doc,reason="AI slop"
+||ultimatestatusbar.com^$doc,reason="AI slop"
+||maryturf.com^$doc,reason="AI slop"
+||turfmillionnaire.org^$doc,reason="AI slop"
+||pmumaroc.com^$doc,reason="AI slop"
+||toptierce.com^$doc,reason="AI slop"
+||kappacourse-gagnant.com^$doc,reason="AI slop"
+||turf-universel.com^$doc,reason="AI slop"
+||rassakowska.com^$doc,reason="AI slop"
+||pronologiqueturf.com^$doc,reason="AI slop"
+||gazettepmu.com^$doc,reason="AI slop"
+||monadetcourse.com^$doc,reason="AI slop"
+||hiidude.net^$doc,reason="AI slop"
+||bekirturf.org^$doc,reason="AI slop"
+||thesoundstourcom.net^$doc,reason="AI slop"
+||ifreechat.net^$doc,reason="AI slop"
+||cplemaire.org^$doc,reason="AI slop"
+||olaturf.org^$doc,reason="AI slop"
+||universelturf.com^$doc,reason="AI slop"
+||lillycourse.com^$doc,reason="AI slop"
+||mygreenbucksnet.com^$doc,reason="AI slop"
+||pronoverite.net^$doc,reason="AI slop"
+||unfgaming.org^$doc,reason="AI slop"
+||africpronostic.com^$doc,reason="AI slop"
+||boss-turf.com^$doc,reason="AI slop"
+||kappacourse.co.uk^$doc,reason="AI slop"
+||leblogdewolni.com^$doc,reason="AI slop"
+||marsturf.com^$doc,reason="AI slop"
+||hdhun4u.com^$doc,reason="AI slop"
+||kapacourse.net^$doc,reason="AI slop"
+||arcenturfgagnant.net^$doc,reason="AI slop"
+||abdellatifturf.com^$doc,reason="AI slop"
+||rdxhd.org^$doc,reason="AI slop"
+||cplemaire-pmu.com^$doc,reason="AI slop"
+||hipposturf.org^$doc,reason="AI slop"
+||radarturf.org^$doc,reason="AI slop"
+||theboringmagazinecom.com^$doc,reason="AI slop"
+||blogsternationcom.com^$doc,reason="AI slop"
+||cplemaire-lavoyeuse.com^$doc,reason="AI slop"
+||sumosearch.net^$doc,reason="AI slop"
+||kappaturf.net^$doc,reason="AI slop"
+||akanzaturf.com^$doc,reason="AI slop"
+||geniduturf.org^$doc,reason="AI slop"
+||pacoturf-40.com^$doc,reason="AI slop"
+||eanduturfburkina.com^$doc,reason="AI slop"
+||chantcourse.org^$doc,reason="AI slop"
+||mundo3dprint.net^$doc,reason="AI slop"
+||worldwidesciencestories.co.uk^$doc,reason="AI slop"
+||thelitenews.org^$doc,reason="AI slop"
+||fideleturf.co.uk^$doc,reason="AI slop"
+||warrenbraithwaite.com^$doc,reason="AI slop"
+||pepperboy.today^$doc,reason="AI slop"
+||estoturfturf.net^$doc,reason="AI slop"
+||tuambia-alimentos.com^$doc,reason="AI slop"
+||jephteturf.net^$doc,reason="AI slop"
+||mimyturf.org^$doc,reason="AI slop"
+||usaenlinea.net^$doc,reason="AI slop"
+||parivra.com^$doc,reason="AI slop"
+||techleez.net^$doc,reason="AI slop"
+||zecommentaires.com^$doc,reason="AI slop"
+||elanduturfpmu.com^$doc,reason="AI slop"
+||stmoro.co.uk^$doc,reason="AI slop"
+||chandiapk.net^$doc,reason="AI slop"
+||shiinabr.co.uk^$doc,reason="AI slop"
+||consolidatetimes.com^$doc,reason="AI slop"
+||consolidatetimes.com^$doc,reason="AI slop"
+||turffr.net^$doc,reason="AI slop"
+||casacourses.net^$doc,reason="AI slop"
+||j2earn.net^$doc,reason="AI slop"
+||planetecourse.net^$doc,reason="AI slop"
+||ordretrio.com^$doc,reason="AI slop"
+||ytrishiin.com^$doc,reason="AI slop"
+||parivraivip.com^$doc,reason="AI slop"
+||apkipl.net/^$doc,reason="AI slop"
+||force-turf.com^$doc,reason="AI slop"
+||dataroma.net^$doc,reason="AI slop"
+||bigtechoro.org^$doc,reason="AI slop"
+||comeapk.org/^$doc,reason="AI slop"
+||animedekho.org^$doc,reason="AI slop"
+||storino2day.org^$doc,reason="AI slop"
+||pmumondial.com^$doc,reason="AI slop"
+||miroir-pmu.com^$doc,reason="AI slop"
+||weekturfjournal.com^$doc,reason="AI slop"
+||clairekittle.com^$doc,reason="AI slop"
+||thedailytribute.com^$doc,reason="AI slop"
+||mygreenbucks.com.co^$doc,reason="AI slop"
+||theboringmagazine.net^$doc,reason="AI slop"
+||poetryvalley.com^$doc,reason="AI slop"
+||tunwin365.org^$doc,reason="AI slop"
+||bluesushisakegrill.net^$doc,reason="AI slop"
+||redwingnews.com^$doc,reason="AI slop"
+||pronoverite.org^$doc,reason="AI slop"
+||manhuasy.org^$doc,reason="AI slop"
+||messiturf100.org^$doc,reason="AI slop"
+||freefollowersnet.com^$doc,reason="AI slop"
+||whiitelist.com^$doc,reason="AI slop"
+||genycourses.net^$doc,reason="AI slop"
+||good-hippique.com^$doc,reason="AI slop"
+||cplemairepmu.com^$doc,reason="AI slop"
+||gazettedupmu-2.com^$doc,reason="AI slop"
+||estoturfvip.com^$doc,reason="AI slop"
+||lenscourse.com^$doc,reason="AI slop"
+||thetechcofounder.com^$doc,reason="AI slop"
+||zc2earning.org^$doc,reason="AI slop"
+||metapressnews.com^$doc,reason="AI slop"
+||thetravellino.net^$doc,reason="AI slop"
+||stmoro.org/^$doc,reason="AI slop"
+||homedecorchamp.com^$doc,reason="AI slop"
+||viralapks.org/^$doc,reason="AI slop"
+||aavotcom.com^$doc,reason="AI slop"
+||bolly4you.net^$doc,reason="AI slop"
+||hkrnl.com^$doc,reason="AI slop"
+||tabletwritings.org^$doc,reason="AI slop"
+||silvertakipci.net^$doc,reason="AI slop"
+||morbagh.net^$doc,reason="AI slop"
+||hippoturf.org^$doc,reason="AI slop"
+||buffalocourse.com^$doc,reason="AI slop"
+||honestdoor.org^$doc,reason="AI slop"
+||turforiginal.com^$doc,reason="AI slop"
+||grammarglow.com^$doc,reason="AI slop"
+||semakan-mykid.my^$doc,reason="AI slop"
+||pajskkpm.my^$doc,reason="AI slop"
+||zaxbysmenus.com^$doc,reason="AI slop"
+||baddies-hub.com^$doc,reason="AI slop"
+||iotimes.co.uk^$doc,reason="AI slop"
+||ukrtime.co.ua^$doc,reason="AI slop"
+||hamariweb.co.uk^$doc,reason="AI slop"
+||modern-family.tv^$doc,reason="AI slop"
+||beziddi.com^$doc,reason="AI slop"
+||tidingsmedia.org^$doc,reason="AI slop"
+||thepillmagazine.com^$doc,reason="AI slop"
+||ke4rx.org^$doc,reason="AI slop"
+||icsehub.com^$doc,reason="AI slop"
+||thithtoolwin.com^$doc,reason="AI slop"
+||study4sure.com^$doc,reason="AI slop"
+||viaeurasia.org^$doc,reason="AI slop"
+||bestoftci.com^$doc,reason="AI slop"
+||dar-care.com^$doc,reason="AI slop"
+||temple-publications.com^$doc,reason="AI slop"
+||yooooga.com^$doc,reason="AI slop"
+||theblup.com^$doc,reason="AI slop"
+||thebookseditora.com^$doc,reason="AI slop"
+||tadworld.com^$doc,reason="AI slop"
+||designviva.com^$doc,reason="AI slop"
+||dailyodyssey.co.uk^$doc,reason="AI slop"
+||imperfeed.com^$doc,reason="AI slop"
+||mysdmcsso.us^$doc,reason="AI slop"
+||eshikshakosh.com.co^$doc,reason="AI slop"
+||newsross.org^$doc,reason="AI slop"
+||www-wellhealthorganic.com^$doc,reason="AI slop"
+||thekakupress.com^$doc,reason="AI slop"
+||knowledgearrow.com^$doc,reason="AI slop"
+||moon10.com.co^$doc,reason="AI slop"
+||therome.co.uk^$doc,reason="AI slop"
+||hoseasons.org.uk^$doc,reason="AI slop"
+||touchcric.org.uk^$doc,reason="AI slop"
+||gravityinternetnet.com.co^$doc,reason="AI slop"
+||tribune.co.com^$doc,reason="AI slop"
+||qiuzziz.com.co^$doc,reason="AI slop"
+||thesmallbusinesstimes.com.co^$doc,reason="AI slop"
+||vixencom.com^$doc,reason="AI slop"
+||thewheonx.com^$doc,reason="AI slop"
+||thelyricsbaazaar.com^$doc,reason="AI slop"
+||runpost.com.co^$doc,reason="AI slop"
+||theimagefap.com^$doc,reason="AI slop"
+||theutdplug.co.uk^$doc,reason="AI slop"
+||fappeningblog.com.co^$doc,reason="AI slop"
+||adriaenglish.com^$doc,reason="AI slop"
+||aaryaeditzorg.com^$doc,reason="AI slop"
+||wheonx.com.co^$doc,reason="AI slop"
+||eromecom.co^$doc,reason="AI slop"
+||thetechlein.com^$doc,reason="AI slop"
+||mahitechinfo.co.uk^$doc,reason="AI slop"
+||dailynewsconsumer.org^$doc,reason="AI slop"
+||joinmyquiz.com.co^$doc,reason="AI slop"
+||wheon.com^$doc,reason="AI slop"
+||newspure.co.uk^$doc,reason="AI slop"
+||economicweeklynews.org^$doc,reason="AI slop"
+||buildingbusinessnews.org^$doc,reason="AI slop"
+||newztalkies.com^$doc,reason="AI slop"
+||techgues.com^$doc,reason="AI slop"
+||thetechnorozen.com^$doc,reason="AI slop"
+||carsdestiny.com^$doc,reason="AI slop"
+||visitblog.co.uk^$doc,reason="AI slop"
+||contacthelp.co.uk^$doc,reason="AI slop"
+||nexthome.blog^$doc,reason="AI slop"
+||hamrosolarllc.com^$doc,reason="AI slop"
+||ancientartz.com.co^$doc,reason="AI slop"
+||techsslash.com.co^$doc,reason="AI slop"
+||realerome.com^$doc,reason="AI slop"
+||mistyinfo.com.co^$doc,reason="AI slop"
+||washingtonglamour.com^$doc,reason="AI slop"
+||teckjb.com.co^$doc,reason="AI slop"
+||veganovtrichy.com.co^$doc,reason="AI slop"
+||rockbandnews.org^$doc,reason="AI slop"
+||lidnews.org^$doc,reason="AI slop"
+||proxyium.com.co^$doc,reason="AI slop"
+||influencersgonewild.ltd^$doc,reason="AI slop"
+||pinayflix.com.co^$doc,reason="AI slop"
+||themakeboth.com^$doc,reason="AI slop"
+||theteckjb.com^$doc,reason="AI slop"
+||thepinayflix.com^$doc,reason="AI slop"
+||cryptonewzhub.com.co^$doc,reason="AI slop"
+||thebaddiehub.blog^$doc,reason="AI slop"
+||theknowledgearrow.com^$doc,reason="AI slop"
+||mixmoz.com^$doc,reason="AI slop"
+||theaavot.com^$doc,reason="AI slop"
+||cashstark.com.co^$doc,reason="AI slop"
+||tamilprint.com.co^$doc,reason="AI slop"
+||thesfmcompile.com^$doc,reason="AI slop"
+||theinflact.com^$doc,reason="AI slop"
+||theibomma1.com^$doc,reason="AI slop"
+||inventstech.com^$doc,reason="AI slop"
+||paidforarticles.com.co^$doc,reason="AI slop"
+||usavyvymanga.com^$doc,reason="AI slop"
+||theyeshivaworld.com.co^$doc,reason="AI slop"
+||uploadarticle.com.co^$doc,reason="AI slop"
+||themangabuddy.com^$doc,reason="AI slop"
+||mcdfoofforthoughts.com.co^$doc,reason="AI slop"
+||wheonx.org^$doc,reason="AI slop"
+||techmarsh.blog^$doc,reason="AI slop"
+||newscod.blog^$doc,reason="AI slop"
+||theapkek.com^$doc,reason="AI slop"
+||thetechnotricks.com.co^$doc,reason="AI slop"
+||thedignotech.com^$doc,reason="AI slop"
+||earntuffer.com.co^$doc,reason="AI slop"
+||investorweeklynews.com.co^$doc,reason="AI slop"
+||instafest.org^$doc,reason="AI slop"
+||technewztop.com.co^$doc,reason="AI slop"
+||thetechcrusader.com^$doc,reason="AI slop"
+||theunfite.com^$doc,reason="AI slop"
+||thelookwhatmomfound.com^$doc,reason="AI slop"
+||thepkr2earn.com^$doc,reason="AI slop"
+||theyatrucoff.com^$doc,reason="AI slop"
+||tamilprint.org.uk^$doc,reason="AI slop"
+||theucatruco.com^$doc,reason="AI slop"
+||theinfluencersgonewild.co.uk^$doc,reason="AI slop"
+||themegapersonal.com^$doc,reason="AI slop"
+||kuthira.com.co^$doc,reason="AI slop"
+||ukpunting.org.uk^$doc,reason="AI slop"
+||thegadgetfreeks.com^$doc,reason="AI slop"
+||acknowledgement.com.co^$doc,reason="AI slop"
+||loveshayari.co.uk^$doc,reason="AI slop"
+||themegapersonal.com^$doc,reason="AI slop"
+||bronceblass.org^$doc,reason="AI slop"
+||thesevenseventech.com^$doc,reason="AI slop"
+||thelakewoodscoop.co.uk^$doc,reason="AI slop"
+||matzav.co.uk^$doc,reason="AI slop"
+||davidicke.org^$doc,reason="AI slop"
+||asianpinay.co.uk^$doc,reason="AI slop"
+||vyvymanga.com^$doc,reason="AI slop"
+||erome.uk.com^$doc,reason="AI slop"
+||thedigitalconnectmag.com^$doc,reason="AI slop"
+||www-usanewscity.com^$doc,reason="AI slop"
+||theokhatrimaza.com^$doc,reason="AI slop"
+||thetechjb.com^$doc,reason="AI slop"
+||theistudyinfo.com^$doc,reason="AI slop"
+||influencersgonewild.us.com^$doc,reason="AI slop"
+||imagefap.ca^$doc,reason="AI slop"
+||thetechsslaash.com^$doc,reason="AI slop"
+||the7starhd.com^$doc,reason="AI slop"
+||hawkecentre.com.au^$doc,reason="AI slop"
+||influencersgoneswild.com^$doc,reason="AI slop"
+||thetipsygypsies.net^$doc,reason="AI slop"
+||tododisca.co.uk^$doc,reason="AI slop"
+||literoticahub.it.com^$doc,reason="AI slop"
+||thehrwp.com^$doc,reason="AI slop"
+||techtorreto.com^$doc,reason="AI slop"
+||techysoftwares.com^$doc,reason="AI slop"
+||techysgpu.com^$doc,reason="AI slop"
+||thetechkeyboard.com^$doc,reason="AI slop"
+||techsmotherboard.com^$doc,reason="AI slop"
+||techyrams.com^$doc,reason="AI slop"
+||techscamera.com^$doc,reason="AI slop"
+||techycameras.com^$doc,reason="AI slop"
+||nhentaineff.com^$doc,reason="AI slop"
+||quicklymagazine.co.uk^$doc,reason="AI slop"
+||nowaiotechnical.com^$doc,reason="AI slop"
+||themindfulmirror.com^$doc,reason="AI slop"
+||glenechogolf.com^$doc,reason="AI slop"
+||chas6d.com^$doc,reason="AI slop"
+||fintechzoom-io.co.uk^$doc,reason="AI slop"
+||money6x-com.us^$doc,reason="AI slop"
+||nbascores.co.uk^$doc,reason="AI slop"
+||diskmagik.com^$doc,reason="AI slop"
+||ecomagazine.co.uk^$doc,reason="AI slop"
+||newsbro.co.uk^$doc,reason="AI slop"
+||dsnews.co.uk^$doc,reason="AI slop"
+||booleandreams.com^$doc,reason="AI slop"
+||worldlifemag.com^$doc,reason="AI slop"
+||worldusmagazine.com^$doc,reason="AI slop"
+||worldachieva.com^$doc,reason="AI slop"
+||markiseteppe.com^$doc,reason="AI slop"
+||ndmag.co.uk^$doc,reason="AI slop"
+||timewarptaskus.com^$doc,reason="AI slop"
+||simplicityitself.io^$doc,reason="AI slop"
+||aitrender.co.uk^$doc,reason="AI slop"
+||thesparkshop.blog^$doc,reason="AI slop"
+||terrazonet.com^$doc,reason="AI slop"
+||made-magazine.com^$doc,reason="AI slop"
+||kistodaynews.com^$doc,reason="AI slop"
+||usa-publications.com^$doc,reason="AI slop"
+||runninglip.com^$doc,reason="AI slop"
+||influencersgonewilds.pro^$doc,reason="AI slop"
+||baddiehub1.com^$doc,reason="AI slop"
+||influencersgonewildx.com^$doc,reason="AI slop"
+||thescribblespot.com^$doc,reason="AI slop"
+||influencersgonewildcom.com^$doc,reason="AI slop"
+||sotwecom.com^$doc,reason="AI slop"
+||motherlesscok.com^$doc,reason="AI slop"
+||wheonhealthnews.com^$doc,reason="AI slop"
+||technology.me.uk^$doc,reason="AI slop"
+||nodlemagazine.org^$doc,reason="AI slop"
+||hassdesign.com^$doc,reason="AI slop"
+||the-batoto.com^$doc,reason="AI slop"
+||socialpostbd.com^$doc,reason="AI slop"
+||coolattitudecaptions.com^$doc,reason="AI slop"
+||english-shayari.com^$doc,reason="AI slop"
+||shayarizuban.com^$doc,reason="AI slop"
+||islamicstatuses.com^$doc,reason="AI slop"
+||wikilifeng.com^$doc,reason="AI slop"
+||topinsures.com^$doc,reason="AI slop"
+||banglayinfo.com^$doc,reason="AI slop"
+||groupslinky.com^$doc,reason="AI slop"
+||sonekabhav.in^$doc,reason="AI slop"
+||thecoffeehorizon.com^$doc,reason="AI slop"
+||spotimax.com^$doc,reason="AI slop"
+||biblicalgo.com^$doc,reason="AI slop"
+||ajkeridea.com^$doc,reason="AI slop"
+||nidblog.com^$doc,reason="AI slop"
+||prices-live.net^$doc,reason="AI slop"
+||takainkam.com^$doc,reason="AI slop"
+||mobilesmarkets.com^$doc,reason="AI slop"
+||snipywify.com^$doc,reason="AI slop"
+||playhop.org^$doc,reason="AI slop"
+||barishkabhogi.in^$doc,reason="AI slop"
+||jojoyminecraft.com^$doc,reason="AI slop"
+||brbn.in^$doc,reason="AI slop"
+||techprowourld.com^$doc,reason="AI slop"
+||usatimemag.com^$doc,reason="AI slop"
+||usalitemagazine.com^$doc,reason="AI slop"
+||workupjobz.com^$doc,reason="AI slop"
+||fordwave.com^$doc,reason="AI slop"
+||vucrex.com^$doc,reason="AI slop"
+||techkou.net^$doc,reason="AI slop"
+||modskinlol.org^$doc,reason="AI slop"
+||mobzel.com^$doc,reason="AI slop"
+||tempetoes.com^$doc,reason="AI slop"
+||blockshowasia.com^$doc,reason="AI slop"
+||techpp.co.uk^$doc,reason="AI slop"
+||morey-editions.com^$doc,reason="AI slop"
+||rupimavi.com^$doc,reason="AI slop"
+||themangabuddy.org^$doc,reason="AI slop"
+||theshaderoom.blog^$doc,reason="AI slop"
+||ellendewittrealestate.blog^$doc,reason="AI slop"
+||dgmnews.io^$doc,reason="AI slop"
+||pet5ardas.com^$doc,reason="AI slop"
+||digitalconnectsmag.com^$doc,reason="AI slop"
+||thenoodlesmagazine.com^$doc,reason="AI slop"
+||techysoftwares.com^$doc,reason="AI slop"
+||techysgpu.com^$doc,reason="AI slop"
+||techyrams.com^$doc,reason="AI slop"
+||techscamera.com^$doc,reason="AI slop"
+||techycameras.com^$doc,reason="AI slop"
+||whitelightsriot.com^$doc,reason="AI slop"
+||usasmooths.com^$doc,reason="AI slop"
+||nhentaineff.com^$doc,reason="AI slop"
+||carsnletters.com^$doc,reason="AI slop"
+||braflix.org.uk^$doc,reason="AI slop"
+||buzzinsider.co.uk^$doc,reason="AI slop"
+||missav.org.uk^$doc,reason="AI slop"
+||deltanative.com^$doc,reason="AI slop"
+||pantagonar.com^$doc,reason="AI slop"
+||blessrise.com^$doc,reason="AI slop"
+||mytecharm.org^$doc,reason="AI slop"
+||celebvalues.com^$doc,reason="AI slop"
+||miegacoanmenu.com^$doc,reason="AI slop"
+||menupriceslists.com^$doc,reason="AI slop"
+||yg-marley.com^$doc,reason="AI slop"
+||jujutsu-infinitecodes.com^$doc,reason="AI slop"
+||ricepurity-tests.com^$doc,reason="AI slop"
+||captification.com^$doc,reason="AI slop"
+||techhopes.blog^$doc,reason="AI slop"
+||letterboxedanswers.today^$doc,reason="AI slop"
+||wendys-menuwithprices.com^$doc,reason="AI slop"
+||theapplebmenupricesus.com^$doc,reason="AI slop"
+||despeisekartes.org^$doc,reason="AI slop"
+||ymcqs.com^$doc,reason="AI slop"
+||foodlion-weeklyad.store^$doc,reason="AI slop"
+||blessinghubs.com^$doc,reason="AI slop"
+||bigwigbios.com^$doc,reason="AI slop"
+||techsfixs.com^$doc,reason="AI slop"
+||semakan-mykid.my^$doc,reason="AI slop"
+||pajskkpm.my^$doc,reason="AI slop"
+||sara2025.my^$doc,reason="AI slop"
+||poslajutracking.my^$doc,reason="AI slop"
+||phmenusking.org^$doc,reason="AI slop"
+||menuindia.com^$doc,reason="AI slop"
+||buffstreams.org.uk^$doc,reason="AI slop"
+||cinevez.in^$doc,reason="AI slop"
+||somoymedia.com^$doc,reason="AI slop"
+||paragraphsbd.com^$doc,reason="AI slop"
+||ok-jatt.com^$doc,reason="AI slop"
+||filmy4wap.pro^$doc,reason="AI slop"
+||slimchickensmenu.com^$doc,reason="AI slop"
+||blooketjoin.uk^$doc,reason="AI slop"
+||cyberkannadig.in^$doc,reason="AI slop"
+||calculattr.in^$doc,reason="AI slop"
+||guicloud.org^$doc,reason="AI slop"
+||damkotoaj.com^$doc,reason="AI slop"
+||banglahunter.com^$doc,reason="AI slop"
+||naztricks.com^$doc,reason="AI slop"
+||hkrnl.in^$doc,reason="AI slop"
+||gyaanduniya.in^$doc,reason="AI slop"
+||kakupress.me^$doc,reason="AI slop"
+||redgifs.org.uk^$doc,reason="AI slop"
+||eromes.app^$doc,reason="AI slop"
+||imhentai.co.uk^$doc,reason="AI slop"
+||eroasmr.org^$doc,reason="AI slop"
+||exploreclarion.co.uk^$doc,reason="AI slop"
+||skinprest.com^$doc,reason="AI slop"
+||tikcotechs.com^$doc,reason="AI slop"
+||tymoffs.com^$doc,reason="AI slop"
+||jdeconomics.com^$doc,reason="AI slop"
+||vysatc.com^$doc,reason="AI slop"
+||guidemagazine.co.uk^$doc,reason="AI slop"
+||doms2cents.net^$doc,reason="AI slop"
+||themotivatedlines.com^$doc,reason="AI slop"
+||timemag.co.uk^$doc,reason="AI slop"
+||anytimesmagazine.com^$doc,reason="AI slop"
+||hdhub4u.us.com^$doc,reason="AI slop"
+||thematchstats.com^$doc,reason="AI slop"
+||weebtoonxyz.com^$doc,reason="AI slop"
+||matchstats.org^$doc,reason="AI slop"
+||isaiminily.com^$doc,reason="AI slop"
+||kemono.us.com^$doc,reason="AI slop"
+||tuambia.us^$doc,reason="AI slop"
+||gimkit.cc^$doc,reason="AI slop"
+||kemonoparty.org^$doc,reason="AI slop"
+||estoturf.net^$doc,reason="AI slop"
+||manhwaxyz.net^$doc,reason="AI slop"
+||midtaper.net^$doc,reason="AI slop"
+||manytoon.co.uk^$doc,reason="AI slop"
+||webtoonxyz.org^$doc,reason="AI slop"
+||timenewsmag.com^$doc,reason="AI slop"
+||webtoonxyz.co.uk^$doc,reason="AI slop"
+||waytob.com^$doc,reason="AI slop"
+||deccanherald.co.uk^$doc,reason="AI slop"
+||silicon-insider.com.in^$doc,reason="AI slop"
+||hackercyber.com^$doc,reason="AI slop"
+||jewelsgalaxywholesale.com^$doc,reason="AI slop"
+||acubi.us^$doc,reason="AI slop"
+||erothto.com^$doc,reason="AI slop"
+||techhiscox.com^$doc,reason="AI slop"
+||lamagazine.co.uk^$doc,reason="AI slop"
+||trucofax.io^$doc,reason="AI slop"
+||lightue.com^$doc,reason="AI slop"
+||epicplacesss.com^$doc,reason="AI slop"
+||truyentiki.com^$doc,reason="AI slop"
+||javalava.org^$doc,reason="AI slop"
+||mobmunch.com^$doc,reason="AI slop"
+||allurelane.com^$doc,reason="AI slop"
+||uknewspulse.co.uk^$doc,reason="AI slop"
+||buzblog.co.uk^$doc,reason="AI slop"
+||uknewspulse.co.uk^$doc,reason="AI slop"
+||buzblog.co.uk^$doc,reason="AI slop"
+||zoeperry.co.uk^$doc,reason="AI slop"
+||awomoscow.com^$doc,reason="AI slop"
+||contestshub.com^$doc,reason="AI slop"
+||verse-mag.com^$doc,reason="AI slop"
+||rawmags.com^$doc,reason="AI slop"
+||astrologycosmos.com^$doc,reason="AI slop"
+||psdgold.com^$doc,reason="AI slop"
+||thebookswarm.com^$doc,reason="AI slop"
+||thenewcub.com^$doc,reason="AI slop"
+||uticamn.com^$doc,reason="AI slop"
+||svtemplates.com^$doc,reason="AI slop"
+||qisa.org^$doc,reason="AI slop"
+||windowtothebeauty.com^$doc,reason="AI slop"
+||postplace.co.uk^$doc,reason="AI slop"
+||technicalinterest.com^$doc,reason="AI slop"
+||uknewstap.co.uk^$doc,reason="AI slop"
+||picsandprose.com^$doc,reason="AI slop"
+||theblooket.blog^$doc,reason="AI slop"
+||baddiehub.lt^$doc,reason="AI slop"
+||warframemarket.co.uk^$doc,reason="AI slop"
+||erone.co.uk^$doc,reason="AI slop"
+||psbios.co.uk^$doc,reason="AI slop"
+||mp4moviez.co.uk^$doc,reason="AI slop"
+||techduffer.uk^$doc,reason="AI slop"
+||eruditemeetup.co.uk^$doc,reason="AI slop"
+||organizeblogs.com^$doc,reason="AI slop"
+||addmagazine.co.uk^$doc,reason="AI slop"
+||really-haunted.com^$doc,reason="AI slop"
+||tributemosthaunted.co.uk^$doc,reason="AI slop"
+||pinayflix.co.uk^$doc,reason="AI slop"
+||startupblog.co.uk^$doc,reason="AI slop"
+||mmsbee.co.uk^$doc,reason="AI slop"
+||celebvogue.com^$doc,reason="AI slop"
 
+! Reading file ./src/sheets/3.json
+||mozydash.com^$doc,reason="AI slop"
+||banglcaption.com^$doc,reason="AI slop"
+||thelitechauffeurs.co.uk^$doc,reason="AI slop"
+||networthhumor.com^$doc,reason="AI slop"
+||yomexio.com^$doc,reason="AI slop"
+||blessingroute.com^$doc,reason="AI slop"
+||starbritannica.com^$doc,reason="AI slop"
+||grammarrush.com^$doc,reason="AI slop"
+||shineblessing.com^$doc,reason="AI slop"
+||horizonlegends.com^$doc,reason="AI slop"
+||restpirestilosaperto.com^$doc,reason="AI slop"
+||instagramnamestyle.co.in^$doc,reason="AI slop"
+||photosbulk.co.in^$doc,reason="AI slop"
+||buonanotteimmagine.it^$doc,reason="AI slop"
+||captionwali.com^$doc,reason="AI slop"
+||socialpostbd.com^$doc,reason="AI slop"
+||english-shayari.com^$doc,reason="AI slop"
+||attitudeurdupoetry.com^$doc,reason="AI slop"
+||photozdp.com^$doc,reason="AI slop"
+||topinsures.com^$doc,reason="AI slop"
+||pxcollections.co.in^$doc,reason="AI slop"
+||marathiloveshayari.com^$doc,reason="AI slop"
+||shayaritou.com^$doc,reason="AI slop"
+||coolattitudecaptions.com^$doc,reason="AI slop"
+||hindishershayari.com^$doc,reason="AI slop"
+||shayari999.in^$doc,reason="AI slop"
+||carupdatebd.com^$doc,reason="AI slop"
+||photosfinite.com^$doc,reason="AI slop"
+||shayari4life.com^$doc,reason="AI slop"
+||allshayarii.in^$doc,reason="AI slop"
+||islamicstatuses.com^$doc,reason="AI slop"
+||brbn.in^$doc,reason="AI slop"
+||pakurdupoetry.com^$doc,reason="AI slop"
+||banglacaption.co^$doc,reason="AI slop"
+||wikilifeng.com^$doc,reason="AI slop"
+||shayarifellow.com^$doc,reason="AI slop"
+||bangladisha.com^$doc,reason="AI slop"
+||mehndimood.com^$doc,reason="AI slop"
+||shayarizuban.com^$doc,reason="AI slop"
+||attitudeshayariz.com^$doc,reason="AI slop"
+||happigreet.com^$doc,reason="AI slop"
+||photosbhai.com^$doc,reason="AI slop"
+||bresprayer.com^$doc,reason="AI slop"
+||attitudeshayarilove.com^$doc,reason="AI slop"
+||prefectprobio.com^$doc,reason="AI slop"
+||tophindikahaniyan.com^$doc,reason="AI slop"
+||banglayinfo.com^$doc,reason="AI slop"
+||sonekabhav.in^$doc,reason="AI slop"
+||faithfulpoetry.com^$doc,reason="AI slop"
+||groupslinky.com^$doc,reason="AI slop"
+||khelatoday.com^$doc,reason="AI slop"
+||captionnotes.com^$doc,reason="AI slop"
+||ajkeridea.com^$doc,reason="AI slop"
+||indianshayari.net^$doc,reason="AI slop"
+||tglinkhub.com^$doc,reason="AI slop"
+||couriertrackings.com^$doc,reason="AI slop"
+||mobilesmarkets.com^$doc,reason="AI slop"
+||levelattitudecaptions.com^$doc,reason="AI slop"
+||richlistzone.com^$doc,reason="AI slop"
+||prices-live.net^$doc,reason="AI slop"
+||snipywify.com^$doc,reason="AI slop"
+||takainkam.com^$doc,reason="AI slop"
+||spotimax.com^$doc,reason="AI slop"
+||kingattitudcaptions.com^$doc,reason="AI slop"
+||barishkabhogi.in^$doc,reason="AI slop"
+||biblicalgo.com^$doc,reason="AI slop"
+||playhop.org^$doc,reason="AI slop"
+||nidblog.com^$doc,reason="AI slop"
+||jojoyminecraft.com^$doc,reason="AI slop"
+||techprowourld.com^$doc,reason="AI slop"
+||usatimemag.com^$doc,reason="AI slop"
+||fordwave.com^$doc,reason="AI slop"
 
-! https://docs.google.com/spreadsheets/d/1KxRaKaqPMvNXwhe1biUMqEvENZlzB8-FOaU55UIj6-U/edit?gid=0#gid=0
-||shayariyan.com^$doc
-||funylifee.in^$doc
-||instabiolist.in^$doc
-||mybestdp.com^$doc
-||buscadorrdeestatus.com^$doc
-||marathiquote.in^$doc
-||photosweek.in^$doc
-||marathipremi.in^$doc
-||ankithindishayari.in^$doc
-||photoswaly.in^$doc
-||instabio.co.in^$doc
-||prohindishayari.com^$doc
-||educationmessage.com^$doc
-||shayari2u.com^$doc
-||piyaarishayari.com^$doc
-||birthdaywishinmarathi.com^$doc
-||bangla-caption.blog^$doc
-||theytrishi.com^$doc
-||semakan-str.my^$doc
-||2lineshayari.com^$doc
-||sgrestaurantmenu.org^$doc
-||attitude-yari.com^$doc
-||waahshayari.com^$doc
-||surahyaseeenpdf.com^$doc
-||mewingemoji.com^$doc
-||emotionwheel.co.uk^$doc
-||thehdhub4u.com^$doc
-||ibommamoviess.com^$doc
-||protechpost.com^$doc
-||techpromagazine.co.uk^$doc
-||prousamagazine.com^$doc
-||usatimenetworks.com^$doc
-||techktime.co.uk^$doc
-||usaaitrend.co.uk^$doc
-||protimeusa.com^$doc
-||fastlivemagazine.com^$doc
-||todaypronews.com^$doc
-||usalitenetwork.com^$doc
-||protechpost.com^$doc
-||usaprotime.com^$doc
+! Reading file ./src/grouped/argentinian.json
+||9geishas.com.ar^$doc,reason="AI slop"
+||aberturasalemanas.com.ar^$doc,reason="AI slop"
+||ambrosibicicletas.com.ar^$doc,reason="AI slop"
+||aquehorajuegaboca.com.ar^$doc,reason="AI slop"
+||armatucv.com.ar^$doc,reason="AI slop"
+||aspenbienesraices.com.ar^$doc,reason="AI slop"
+||basadoenhechosreales.com.ar^$doc,reason="AI slop"
+||bateriascea.com.ar^$doc,reason="AI slop"
+||beautyperfumerias.com.ar^$doc,reason="AI slop"
+||bucaneroshop.com.ar^$doc,reason="AI slop"
+||buloneradasilva.com.ar^$doc,reason="AI slop"
+||capello.com.ar^$doc,reason="AI slop"
+||cerrajeriasanluis.com.ar^$doc,reason="AI slop"
+||ciclolandiamotos.com.ar^$doc,reason="AI slop"
+||cienxcieninox.com.ar^$doc,reason="AI slop"
+||citygame.com.ar^$doc,reason="AI slop"
+||clemhelados.com.ar^$doc,reason="AI slop"
+||colegiodepsicologossj.com.ar^$doc,reason="AI slop"
+||cooplalonja.com.ar^$doc,reason="AI slop"
+||corralonpremium.com.ar^$doc,reason="AI slop"
+||cotilloncotyland.com.ar^$doc,reason="AI slop"
+||criptomonedashoy.com.ar^$doc,reason="AI slop"
+||descarregacesped.com.ar^$doc,reason="AI slop"
+||drisolacirugiaplastica.com.ar^$doc,reason="AI slop"
+||elbodegondelnautico.com.ar^$doc,reason="AI slop"
+||enpocaspalabras.com.ar^$doc,reason="AI slop"
+||farmacialincoln.com.ar^$doc,reason="AI slop"
+||feppadel.com.ar^$doc,reason="AI slop"
+||ferrariclubarg.com.ar^$doc,reason="AI slop"
+||fishcompany.com.ar^$doc,reason="AI slop"
+||fnhockey.com.ar^$doc,reason="AI slop"
+||fulltimemotos.com.ar^$doc,reason="AI slop"
+||geazingueria.com.ar^$doc,reason="AI slop"
+||geriatricobelgrano.com.ar^$doc,reason="AI slop"
+||graficamazzini.com.ar^$doc,reason="AI slop"
+||gtm.com.ar^$doc,reason="AI slop"
+||guiadearbolado.com.ar^$doc,reason="AI slop"
+||hotelcrismalu.com.ar^$doc,reason="AI slop"
+||hotelpremier.com.ar^$doc,reason="AI slop"
+||hotelvip.com.ar^$doc,reason="AI slop"
+||iccsi.com.ar^$doc,reason="AI slop"
+||iglesiadelpilar.com.ar^$doc,reason="AI slop"
+||interbike.com.ar^$doc,reason="AI slop"
+||joyerianobel.com.ar^$doc,reason="AI slop"
+||jugandoando.com.ar^$doc,reason="AI slop"
+||kaboomeventos.com.ar^$doc,reason="AI slop"
+||kayakautovaciable.com.ar^$doc,reason="AI slop"
+||la-pantalla.com.ar^$doc,reason="AI slop"
+||laelectronicaonline.com.ar^$doc,reason="AI slop"
+||lafabricacuero.com.ar^$doc,reason="AI slop"
+||librerialatijera.com.ar^$doc,reason="AI slop"
+||libreriatecnicaweb.com.ar^$doc,reason="AI slop"
+||liebrecapital.com.ar^$doc,reason="AI slop"
+||lorosyguacamayos.com.ar^$doc,reason="AI slop"
+||maderal.com.ar^$doc,reason="AI slop"
+||makeblock.com.ar^$doc,reason="AI slop"
+||mascofans.com.ar^$doc,reason="AI slop"
+||maximavelocidad.com.ar^$doc,reason="AI slop"
+||mimundoporelmundo.com.ar^$doc,reason="AI slop"
+||mobidoc.com.ar^$doc,reason="AI slop"
+||montescojeans.com.ar^$doc,reason="AI slop"
+||mudanzasyfletes2001.com.ar^$doc,reason="AI slop"
+||mundoanime.com.ar^$doc,reason="AI slop"
+||mysqlya.com.ar^$doc,reason="AI slop"
+||nemesautoelevadores.com.ar^$doc,reason="AI slop"
+||newsmatic.com.ar^$doc,reason="AI slop"
+||nogalmaderas.com.ar^$doc,reason="AI slop"
+||ofertaeducativasr.com.ar^$doc,reason="AI slop"
+||opticanaranjo.com.ar^$doc,reason="AI slop"
+||ortodonciajunin.com.ar^$doc,reason="AI slop"
+||paduamateriales.com.ar^$doc,reason="AI slop"
+||panaderiasanfrancisco.com.ar^$doc,reason="AI slop"
+||parqueflandria.com.ar^$doc,reason="AI slop"
+||parroquiadelcarmenvcp.com.ar^$doc,reason="AI slop"
+||partidoverde.com.ar^$doc,reason="AI slop"
+||pianospuch.com.ar^$doc,reason="AI slop"
+||polisantafe.com.ar^$doc,reason="AI slop"
+||pulkrolimpieza.com.ar^$doc,reason="AI slop"
+||radiofmtotal.com.ar^$doc,reason="AI slop"
+||repuestostv.com.ar^$doc,reason="AI slop"
+||rodantes.com.ar^$doc,reason="AI slop"
+||saacupuntura.com.ar^$doc,reason="AI slop"
+||securitygps.com.ar^$doc,reason="AI slop"
+||servernet.com.ar^$doc,reason="AI slop"
+||tajmahalresto.com.ar^$doc,reason="AI slop"
+||todocalculadoras.com.ar^$doc,reason="AI slop"
+||urbanococinaamericana.com.ar^$doc,reason="AI slop"
+||vanessa-mae.com.ar^$doc,reason="AI slop"
+||viegener.com.ar^$doc,reason="AI slop"
+||ypfelcruce.com.ar^$doc,reason="AI slop"
+||saludymovimiento.com.ar^$doc,reason="AI slop"
+||broccolino.com.ar^$doc,reason="AI slop"
+||green-life.com.ar^$doc,reason="AI slop"
+||libreriafan.com.ar^$doc,reason="AI slop"
+||radiotaxisyremises.com.ar^$doc,reason="AI slop"
+||yogacongreso.com.ar^$doc,reason="AI slop"
+||solaringenieria.com.ar^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/topnotch.json
+||cursivealphabet.info^$doc,reason="AI slop"
+||digiprocenter.com^$doc,reason="AI slop"
+||emojimeme.net^$doc,reason="AI slop"
+||fitguideline.com^$doc,reason="AI slop"
+||inmarketingbiz.com^$doc,reason="AI slop"
+||newear.net^$doc,reason="AI slop"
+||oldreddit.info^$doc,reason="AI slop"
+||premiumtechcenter.com^$doc,reason="AI slop"
+||publicasino.com^$doc,reason="AI slop"
+||tabooworld.net^$doc,reason="AI slop"
+||wheongames.net^$doc,reason="AI slop"
 
-! https://www.facebook.com/groups/increasedadr/posts/1214485440744016/
-||Magazineflash.com^$doc
-||yesitfirm.com^$doc
-||creatorpunch.com^$doc
-||adveraio.com^$doc
-||Bispalerts.weeb.pk^$doc
-||Newzire.co.uk^$doc
-||thesportie.com^$doc
-||worldbirdslife.com^$doc
-||Twastia.com.au^$doc
-||Swipnews.co.uk^$doc
-||Newsengine.net^$doc
-||Aelftech.com^$doc
-||Businessnewstips.com^$doc
-||magentoservicegonzay.com.au^$doc
+! Reading file ./src/grouped/medium.json
+||medium.com/@emmaw4430^$doc,reason="AI slop"
+||medium.com/@teamcode20233^$doc,reason="AI slop"
+||medium.com/@TechSavvyScribe^$doc,reason="AI slop"
+||medium.com/@aidenjodrriley^$doc,reason="AI slop"
+||medium.com/@Victor.Ahmad^$doc,reason="AI slop"
+||medium.com/@chetan.akarte^$doc,reason="AI slop"
+||medium.com/@raphaelrat_62823^$doc,reason="AI slop"
+||medium.com/@hamidrezadeveloper^$doc,reason="AI slop"
+||medium.com/@samra.sajjad0001^$doc,reason="AI slop"
+||medium.com/@ravipatel.it^$doc,reason="AI slop"
+||medium.com/coinmonks^$doc,reason="AI slop"
+||medium.com/@stevrogers721^$doc,reason="AI slop"
+||medium.com/@cosmicray001^$doc,reason="AI slop"
+||medium.com/@banerjeesamarjit9^$doc,reason="AI slop"
+||medium.com/@natid9628^$doc,reason="AI slop"
+||medium.com/@danielgebre978^$doc,reason="AI slop"
+||medium.com/@stackarchitect^$doc,reason="AI slop"
+||medium.com/@theopinionatedev^$doc,reason="AI slop"
+||medium.com/@syntaxSavage^$doc,reason="AI slop"
+||hmnshudhmn24.medium.com^$doc,reason="AI slop"
+||medium.com/@ooikrish13^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/fb_post.json
+||Magazineflash.com^$doc,reason="AI slop"
+||yesitfirm.com^$doc,reason="AI slop"
+||creatorpunch.com^$doc,reason="AI slop"
+||adveraio.com^$doc,reason="AI slop"
+||Bispalerts.weeb.pk^$doc,reason="AI slop"
+||Newzire.co.uk^$doc,reason="AI slop"
+||thesportie.com^$doc,reason="AI slop"
+||worldbirdslife.com^$doc,reason="AI slop"
+||Twastia.com.au^$doc,reason="AI slop"
+||Swipnews.co.uk^$doc,reason="AI slop"
+||Newsengine.net^$doc,reason="AI slop"
+||Aelftech.com^$doc,reason="AI slop"
+||Businessnewstips.com^$doc,reason="AI slop"
+||magentoservicegonzay.com.au^$doc,reason="AI slop"
 
-! https://docs.google.com/spreadsheets/d/12p7JjN_fslQG7Zk9RDtRc0k6ZWfBvVgRJUhA_I-XvH0/edit?gid=0#gid=0
-||widerweekly.co.uk^$doc
-||boldlynames.com^$doc
-||holylordsprayer.com^$doc
-||goldbuzz.co.uk^$doc
-||blessingspower.com^$doc
-||swiftypuns.com^$doc
-||azjankari.com^$doc
-||crumbllineup.us^$doc
-||foodiejokes.com^$doc
-||bhoomi-rtconline.com^$doc
-||networthexplore.com^$doc
-||popularmarathi.in^$doc
-||nameslections.com^$doc
-||shayaritoyou.com^$doc
-||finitenames.com^$doc
-||punsberry.com^$doc
-||wishpulses.com^$doc
-||niceblessings.com^$doc
-||celebsbiofolio.com^$doc
-||fanzynames.com^$doc
-||mybioshow.com^$doc
-||fozymessages.com^$doc
-||techflee.co.uk^$doc
-||measurevan.com^$doc
-||pentomagazine.com^$doc
-||shayaripower.com^$doc
-||shayaribloom.com^$doc
-||righter.io^$doc
-||hypeprofiles.com^$doc
-||educationalbaba.org^$doc
-||hunkwizards.com^$doc
-||starttostory.com^$doc
-||londonlifemagazine.co.uk^$doc
-||captionsskill.com^$doc
-||creckler.com^$doc
-||funnyknockknockjoke.com^$doc
-||punnyuniverse.com^$doc
-||legendsbios.com^$doc
-||infotopbio.com^$doc
-||gracejabbaribio.com^$doc
-||infobiosphere.com^$doc
-||punnz.com^$doc
-||guestcollab.co.uk^$doc
-||wordstwists.com^$doc
-||craftypuns.com^$doc
-||fulcharmnames.com^$doc
-||photosvibe.in^$doc
-||sgmenulover.org^$doc
-||fantasenamegenerator.com^$doc
-||punsclick.com^$doc
-||celebsglory.com^$doc
-||lordofnames.com^$doc
-||allfunnypuns.com^$doc
-||phlmenus.org^$doc
-||informativevibes.com^$doc
-||aniversarycaption.com^$doc
-||alltimenames.com^$doc
-||pickuplinlove.com^$doc
-||fantomagazines.com^$doc
-||namezorigins.com^$doc
-||grammarapex.com^$doc
-||prayervibe.co.uk^$doc
-||trackmasti.com^$doc
-||wittyrizz.com^$doc
-||goffaw.com^$doc
-||sgmymenu.com^$doc
-||livesrecords.com^$doc
-||bigmagazine.net^$doc
-||liftingmags.com^$doc
-||biojourneyhub.com^$doc
-||biographywise.com^$doc
-||bioinfolabe.com^$doc
-||bioscops.com^$doc
-||onlineinfoes.com^$doc
-||newzcenter.com^$doc
-||trendlandmagazine.com^$doc
-||hunkwhiz.com^$doc
-||biblepulze.com^$doc
-||hindsayari.com^$doc
-||brieflynews.co.uk^$doc
-||lifedetailshub.com^$doc
-||riddlor.com^$doc
-||photosbull.com^$doc
-||lagendtime.com^$doc
-||learninger.in^$doc
-||empirecaption.com^$doc
-||golfreddit.com^$doc
-||biodetailshub.com^$doc
-||betterprayers.com^$doc
-||lexiquester.com^$doc
-||kickyreport.com^$doc
-||legendsbioworld.com^$doc
-||celebblinks.com^$doc
-||celebeinfos.com^$doc
-||celebrityinfolab.com^$doc
-||biographywealth.com^$doc
-||biovaulttech.com^$doc
-||biozooworld.com^$doc
-||biowikivibes.com^$doc
-||networthrises.com^$doc
-||livesinfobook.com^$doc
-||photoscollection.in^$doc
-||networthages.com^$doc
-||sohobio.org^$doc
-||mybestbios.com^$doc
-||photoslink.in^$doc
-||replyswift.org^$doc
-||namescrafter.com^$doc
-||allhindishayari.in^$doc
-||matchplayerstat.co.uk^$doc
-||usacelebzone.com^$doc
-||starswife.com^$doc
-||gksawal.in^$doc
-||celebritybiograph.com^$doc
-||networthaudit.com^$doc
-||wellhealthorganics.net^$doc
-||joinworld2.com^$doc
-||newslinkkshubs.com^$doc
-||legendarynetworth.com^$doc
-||strivecreatives.com^$doc
-||networthvenue.com^$doc
-||mediasprints.com^$doc
-||adilifestyle.com^$doc
-||sportstakedown.com^$doc
-||richlifeinsiders.com^$doc
-||exchangetime24.com^$doc
-||makeovera.com^$doc
-||kamalasohonie.com^$doc
-||digitalworldstyle.org^$doc
+! Reading file ./src/grouped/facebook.json
+||lookwhatmomfound.org^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/verypdf.json
+||veryutils.com^$doc,reason="AI slop"
+||verypdf.com^$doc,reason="AI slop"
+||verydoc.com^$doc,reason="AI slop"
+||verydrm.com^$doc,reason="AI slop"
+||eepdf.com^$doc,reason="AI slop"
+||imagepdf.com^$doc,reason="AI slop"
+||impdf.com^$doc,reason="AI slop"
+||undopdf.com^$doc,reason="AI slop"
+||crackpdf.com^$doc,reason="AI slop"
 
-! https://docs.google.com/spreadsheets/d/12NxlT5cBX5m-PwnriDIO8oi2SzvjaJEZD--8bouih5I/edit?gid=0#gid=0
-||mozydash.com^$doc
-||banglcaption.com^$doc
-||thelitechauffeurs.co.uk^$doc
-||networthhumor.com^$doc
-||yomexio.com^$doc
-||blessingroute.com^$doc
-||starbritannica.com^$doc
-||grammarrush.com^$doc
-||shineblessing.com^$doc
-||horizonlegends.com^$doc
-||restpirestilosaperto.com^$doc
-||instagramnamestyle.co.in^$doc
-||photosbulk.co.in^$doc
-||buonanotteimmagine.it^$doc
-||captionwali.com^$doc
-||socialpostbd.com^$doc
-||english-shayari.com^$doc
-||attitudeurdupoetry.com^$doc
-||photozdp.com^$doc
-||topinsures.com^$doc
-||pxcollections.co.in^$doc
-||marathiloveshayari.com^$doc
-||shayaritou.com^$doc
-||coolattitudecaptions.com^$doc
-||hindishershayari.com^$doc
-||shayari999.in^$doc
-||carupdatebd.com^$doc
-||photosfinite.com^$doc
-||shayari4life.com^$doc
-||allshayarii.in^$doc
-||islamicstatuses.com^$doc
-||brbn.in^$doc
-||pakurdupoetry.com^$doc
-||banglacaption.co^$doc
-||wikilifeng.com^$doc
-||shayarifellow.com^$doc
-||bangladisha.com^$doc
-||mehndimood.com^$doc
-||shayarizuban.com^$doc
-||attitudeshayariz.com^$doc
-||happigreet.com^$doc
-||photosbhai.com^$doc
-||bresprayer.com^$doc
-||attitudeshayarilove.com^$doc
-||prefectprobio.com^$doc
-||tophindikahaniyan.com^$doc
-||banglayinfo.com^$doc
-||sonekabhav.in^$doc
-||faithfulpoetry.com^$doc
-||groupslinky.com^$doc
-||khelatoday.com^$doc
-||captionnotes.com^$doc
-||ajkeridea.com^$doc
-||indianshayari.net^$doc
-||tglinkhub.com^$doc
-||couriertrackings.com^$doc
-||mobilesmarkets.com^$doc
-||levelattitudecaptions.com^$doc
-||richlistzone.com^$doc
-||prices-live.net^$doc
-||snipywify.com^$doc
-||takainkam.com^$doc
-||spotimax.com^$doc
-||kingattitudcaptions.com^$doc
-||barishkabhogi.in^$doc
-||biblicalgo.com^$doc
-||playhop.org^$doc
-||nidblog.com^$doc
-||jojoyminecraft.com^$doc
-||techprowourld.com^$doc
-||usatimemag.com^$doc
-||fordwave.com^$doc
+! Reading file ./src/grouped/dimaronmedia.json
+||abasstoriola.com^$doc,reason="AI slop"
+||gearprobe.com^$doc,reason="AI slop"
+||goalshaven.com^$doc,reason="AI slop"
+||vpnalysis.com^$doc,reason="AI slop"
+||calculatority.com^$doc,reason="AI slop"
+||palabraseficaces.com^$doc,reason="AI slop"
+||speechesonly.com^$doc,reason="AI slop"
+||recipesnmeals.com^$doc,reason="AI slop"
+||motsefficaces.com^$doc,reason="AI slop"
+||nigerianprice.com^$doc,reason="AI slop"
+||checklistoo.com^$doc,reason="AI slop"
+||settingsmag.com^$doc,reason="AI slop"
+||allnetworks.com.ng^$doc,reason="AI slop"
+||thetotalentrepreneurs.com^$doc,reason="AI slop"
+||webincomeplus.com^$doc,reason="AI slop"
+||medium.com/@abasstoriola^$doc,reason="AI slop"
+||diagramlens.com^$doc,reason="AI slop"
+||writtensamples.com^$doc,reason="AI slop"
+||audiojust.com^$doc,reason="AI slop"
+||homestuffmag.com^$doc,reason="AI slop"
+||settingslab.com^$doc,reason="AI slop"
+||wordsatease.com^$doc,reason="AI slop"
+||knowvehicles.com^$doc,reason="AI slop"
+||africanmensclothing.com^$doc,reason="AI slop"
+||offgridever.com^$doc,reason="AI slop"
+||bestpickshub.com^$doc,reason="AI slop"
+||lagoslink.com^$doc,reason="AI slop"
+||speechrepository.com^$doc,reason="AI slop"
+||aichievements.com^$doc,reason="AI slop"
+||lettersoo.com^$doc,reason="AI slop"
+||mithaali.com^$doc,reason="AI slop"
+||messagespedia.com^$doc,reason="AI slop"
+||humoripedia.com^$doc,reason="AI slop"
+||journalingace.com^$doc,reason="AI slop"
+||myemailsamples.com^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/rankwc.json
+||rankwc.com^$doc,reason="AI slop"
+||slotedition.com^$doc,reason="AI slop"
+||thepressmag.com^$doc,reason="AI slop"
+||ranked.ai^$doc,reason="AI slop"
+||aspectratiocalculatorpro.com^$doc,reason="AI slop"
+||grobuzz.co.uk^$doc,reason="AI slop"
+||financeworth.net^$doc,reason="AI slop"
+||businessbbcx.com^$doc,reason="AI slop"
+||ulcuprazol.com^$doc,reason="AI slop"
+||instabiobook.com^$doc,reason="AI slop"
+||tiktak188sgp.com^$doc,reason="AI slop"
+||howhatmagazine.com^$doc,reason="AI slop"
+||wikitimezone.com^$doc,reason="AI slop"
+||usatimesmag.com^$doc,reason="AI slop"
+||nategames.net^$doc,reason="AI slop"
+||sbusinessnews.com^$doc,reason="AI slop"
+||eromeb.com^$doc,reason="AI slop"
+||insuredition.com^$doc,reason="AI slop"
+||tech2sites.com^$doc,reason="AI slop"
+||editorialedition.com^$doc,reason="AI slop"
 
-! https://docs.google.com/spreadsheets/d/1Q-BH0GdUzHlNq1tDJjdlH6bVbS4XYwR78Ru1tyHPiis/edit?gid=0#gid=0
-||ventsmagazine.co.uk^$doc
-||londondaily.news^$doc
-||primeinsider.co.uk^$doc
-||interiorredoux.com^$doc
-||openpr.com^$doc
-||nerdbot.com^$doc
-||cordless.io^$doc
-||londontechinsights.co.uk^$doc
-||addmagazine.co.uk^$doc
-||techbullion.com^$doc
-||bishopwcmartin.com^$doc
-||fourmagazine.co.uk^$doc
-||dotmagazine.co.uk^$doc
-||rubblemagazine.co.uk^$doc
-||spreadmyfiles.com^$doc
-||theeuropetimes.co.uk^$doc
-||mybeautifuladventures.com^$doc
-||heightmag.com^$doc
-||uploadarticle.com^$doc
-||gorod.it.com^$doc
-||onetech1.com^$doc
-||breakingac.com^$doc
-||ocnjdaily.com^$doc
-||northpennnow.com^$doc
-||seaislenews.com^$doc
-||downbeach.com^$doc
-||theactionelite.com^$doc
-||goodmenproject.com^$doc
-||westernbusiness.co.uk^$doc
-||exploratoryglory.com^$doc
-||daily.uk.com^$doc
-||livetranslatehub.com^$doc
-||myflexbot.co.uk^$doc
-||individualsmagazine.com^$doc
-||usablogbullion.com^$doc
-||techreels.co.uk^$doc
-||sfmcompileclub.org^$doc
-||thebaddiehub.uk^$doc
-||influencersgonewildcom.com^$doc
-||celebritymagazine.co.uk^$doc
-||blogbuz.co.uk^$doc
-||megamagazine.co.uk^$doc
-||voguevocal.com^$doc
-||itsreleased.co.uk^$doc
-||easybib.co.uk^$doc
-||theusacorner.com^$doc
-||thecollectivenouns.com^$doc
-||newscooper.co.uk^$doc
-||ventsmagazine.com^$doc
-||techgarcon.com^$doc
-||southwestfareway.com^$doc
-||newsprovider.co.uk^$doc
-||iotavalley.com^$doc
-||puremagazine.co.uk^$doc
-||bigwritehook.co.uk^$doc
-||urbansplatter.com^$doc
-||muchata.com.in^$doc
-||1word4pics.com^$doc
-||blogstrove.com^$doc
-||themysterymagazine.co.uk^$doc
-||blogbuzznews.org^$doc
-||theitradercoin.com^$doc
-||moonvalleynews.org^$doc
-||thewheon.com^$doc
-||2amagazine.com^$doc
-||pressmagazine.co.uk^$doc
-||theinscribermag.com^$doc
-||techblaster.co.uk^$doc
-||earntuffer.com^$doc
-||moralstory.org^$doc
-||thebigger.com^$doc
-||moranalytics.com^$doc
-||techhuda.com^$doc
-||stephilareine.com^$doc
-||everytalkin.co.uk^$doc
-||iocmkt.com^$doc
-||pinstopin.com^$doc
-||optincontacts.com^$doc
-||venuecincinnati.com^$doc
-||sbcodez.com^$doc
-||businessoutstanders.com^$doc
-||thenewordermagazine.com^$doc
-||xiaopan.co^$doc
-||neonjs.com^$doc
-||thewheon.com^$doc
-||thevyvymanga.com^$doc
-||sashmira.com^$doc
-||managementworksmedia.com^$doc
-||eman-network.com^$doc
-||notostechnologies.com^$doc
-||southwestfareway.com^$doc
-||easygrader.net^$doc
-||imocan.com^$doc
-||classprayer.com^$doc
-||cedarmi.com^$doc
-||stromberry.com^$doc
-||magazinesbreak.co.uk^$doc
-||habitadvisors.com^$doc
-||partyprott.com^$doc
-||techimaging.co.uk^$doc
-||timebusinessnews.com^$doc
-||hooyam.com^$doc
-||techinfobusiness.com^$doc
-||speromagazine.com^$doc
-||technotraps.com^$doc
-||tygiadola.net^$doc
-||tubegalore.uk^$doc
-||wilddiscs.com^$doc
-||gyansora.com^$doc
-||walkermagazine.com^$doc
-||thetechnotricks.net^$doc
-||matingpress.org^$doc
-||bsglife.com^$doc
-||ziskmagazine.com^$doc
-||growingupwell.org^$doc
-||reelsmedia.co.uk^$doc
-||streameast.org.uk^$doc
-||anoboy.baby^$doc
-||coopermagazine.co.uk^$doc
-||mygroundbiz.co.uk^$doc
-||baddiehub.ca^$doc
-||mangabuddy.org.uk^$doc
-||sulasok.blog^$doc
-||asianpinay.pro^$doc
-||disboard.co.uk^$doc
-||totalstationplaza.com^$doc
-||cdkeyshere.com^$doc
-||mangabuddy.blog^$doc
-||influencersgonewild.co.uk^$doc
-||newsdipper.co.uk^$doc
-||bartowfirst.com^$doc
-||unsentproject.net^$doc
-||helinika.com^$doc
-||nazthrift.com^$doc
-||tensemagazine.com^$doc
-||elamatters.com^$doc
-||hackerella.com^$doc
-||gomyfinance.org^$doc
-||usatimemagazine.co.uk^$doc
-||timestech.co.uk^$doc
-||savvydispatches.com^$doc
-||imagesplatform.com^$doc
-||justweighingstuff.com^$doc
-||fungroupsnames.com^$doc
-||rizzlineshub.com^$doc
-||namesspark.com^$doc
-||nnaleb.com^$doc
-||blogmagazines.co.uk^$doc
-||sfmcompile.co.uk^$doc
-||gmru.co.uk^$doc
-||roastmedia.co.uk^$doc
-||av-tub.com^$doc
-||vistamagazine.com^$doc
-||kulfiy.com^$doc
-||calibermag.net^$doc
-||timelymagazine.co.uk^$doc
-||digimagazine.co.uk^$doc
-||pinayflix.com.in^$doc
-||epos-bihar.com^$doc
-||innerpreneur.blog^$doc
-||dirtyships.org^$doc
-||cafelam.com^$doc
-||2sistersgarlic.com^$doc
-||fitcoding.com^$doc
-||rizzapedia.com^$doc
-||trendoxygen.com^$doc
-||eveningchronicle.uk^$doc
-||legacynyc.com^$doc
-||projectleadersmagazine.com^$doc
-||solutionforever.com^$doc
-||mistyinfo.blog^$doc
-||digitoont.com^$doc
-||inflact.co.uk^$doc
-||readingpals.org^$doc
-||hocmuseum.com^$doc
-||techbetime.com^$doc
-||devsdash.com^$doc
-||spurtranker.com^$doc
-||draftmag.org^$doc
-||copperchips.com^$doc
-||screengamma.com^$doc
-||beginwithjava.com^$doc
-||magazinecontent.co.uk^$doc
-||buzzblog.co.uk^$doc
-||25pr.com^$doc
-||blogroom.co.uk^$doc
-||baddiehub.uk^$doc
-||rallynorth.net^$doc
-||coinverting.com^$doc
-||techdae.co.uk^$doc
-||mixedinsider.com^$doc
-||bsuperb.com^$doc
-||aiyifan.co.uk^$doc
-||makonitech.com^$doc
-||flatforks.com^$doc
-||rdtzone.com^$doc
-||uprytr.com^$doc
-||discovercraze.co.uk^$doc
-||simpcitysu.com^$doc
-||duzzbuzz.com^$doc
-||vizaca.co.uk^$doc
-||technologycrunch.co.uk^$doc
-||lotology.co.uk^$doc
-||www-schoology.com^$doc
-||avtube.org^$doc
-||bmtimes.co.uk^$doc
-||nairaland.co.uk^$doc
-||hypackels.com^$doc
-||apkek.org^$doc
-||iconicblogs.co.uk^$doc
-||techblaster.co.uk^$doc
-||mypascoconnect.co.uk^$doc
-||namesbluff.com^$doc
-||loopermagazine.co.uk^$doc
-||borkwoodblog.com^$doc
-||websauna.org^$doc
-||simpcity.co.uk^$doc
-||worthexplainer.com^$doc
-||estatehouzz.com^$doc
-||heavenhouzz.com^$doc
-||lolbeans.co.uk^$doc
-||dodbuzz.co.uk^$doc
-||everscroll.org^$doc
-||eventspro.org^$doc
-||newstap.co.uk^$doc
-||onionplay.co.uk^$doc
-||techtime.com.in^$doc
-||themorningtimes.co.uk^$doc
-||photosqn.com^$doc
-||servicesexplainer.com^$doc
-||trillionblog.com^$doc
-||m4uhd.co.uk^$doc
-||jojoygta5.co.uk^$doc
-||buzzzfeed.co.uk^$doc
-||ibusinessday.co.uk^$doc
-||m4ufree.co.uk^$doc
-||shoebooties.com^$doc
-||venisonmagazine.com^$doc
-||techlearner.co.uk^$doc
-||espressoblog.org^$doc
-||rexsdeli.com^$doc
-||fobie.org^$doc
-||norvasen.com^$doc
-||heavenclick.com^$doc
-||trekmag.co.uk^$doc
-||techymagazine.co.uk^$doc
-||smoothstacklawsuit.co.uk^$doc
-||manuscriptgrooming.com^$doc
-||infinityelse.co.uk^$doc
-||hsnime.co.uk^$doc
-||flaremagazine.co.uk^$doc
-||basicallybrit.com^$doc
-||tgtube.co.uk^$doc
-||cyberkannadig.com^$doc
-||dramatale.com^$doc
-||titfees.org^$doc
-||blunturi.org^$doc
-||techiwall.com^$doc
-||greencric.com^$doc
-||picuki.ca^$doc
-||techlevelbusiness.com^$doc
-||guestmagazines.co.uk^$doc
-||techannouncer.com^$doc
-||iocmkt.com.in^$doc
-||theexpotab.com^$doc
-||technotricks.com.in^$doc
-||redandwhitemags.com^$doc
-||how2invest.mx^$doc
-||indiacarez.com^$doc
-||tcl.news^$doc
-! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
-! ||apnews.com^$doc
-||arcarrierpoint.net^$doc
-||vamonde.com^$doc
-||ziplinq.com^$doc
-||crispme.com^$doc
-||healthke.com^$doc
-||exportingofamerica.com^$doc
-||threadswire.com^$doc
-||runpost.com.in^$doc
-||howinsights.com^$doc
-||papermag.org^$doc
-||fabulousboobies.com^$doc
-||magazinepro.co.uk^$doc
-||brookbtaube.com^$doc
-||digisimhub.com^$doc
-||dropshipinsight.com^$doc
-||evolvefeed.com^$doc
-||heraldspost.com^$doc
-||intelnook.com^$doc
-||kingymab.co.uk^$doc
-||lynndailyitem.com^$doc
-||multimindblog.com^$doc
-||newsgenius.co.uk^$doc
-||spicemastery.com^$doc
-||suffarankers.com^$doc
-||techbombers.com^$doc
-||techinflation.com^$doc
-||technicalsmind.com^$doc
-||usdigitalmagazine.com^$doc
-||zobuz.com^$doc
-||techmagazines.net^$doc
-||mxmenu.net^$doc
-||bicimag.com^$doc
-||buzfeed.co.uk^$doc
-||elephantstages.com^$doc
-||getusaupdates.com^$doc
-||howtweet.co.uk^$doc
-||wordiply.uk^$doc
-||techktimes.co.uk^$doc
-||techsslaash.com^$doc
-||thefriskytimes.com^$doc
-||vbusiness.co.uk^$doc
-||jnmpost.com^$doc
-||bestmessage.in^$doc
-||brandedpoetry.com^$doc
-||kongotech.org^$doc
-||tanzohub.today^$doc
-||how2invest.com.mx^$doc
-||masan.co.uk^$doc
-||trendbrizz.com^$doc
-||thebroadtrade.com^$doc
-||digitalnewsalerts.org^$doc
-||abcmagazine.org^$doc
-||beforeitnews.co.uk^$doc
-||pixwox.co.uk^$doc
-||abusinessventure.com^$doc
-||baddiehub.org.uk^$doc
-||cavegreen.us^$doc
-||baddiehub.blog^$doc
-||maccablog.com^$doc
-||truepeoplesearch.blog^$doc
-||discovercraze.com^$doc
-||mygroundbiz.co.uk^$doc
-||baddiehub.ca^$doc
-||cookape.com.in^$doc
-||blogangle.org^$doc
-||omgflix.co.uk^$doc
-||geeksaroundworld.com^$doc
-||interestingfacts.org^$doc
-||spacecoastdaily.co.uk^$doc
-||hogatoga.com.in^$doc
-||trendingcelebritys.com^$doc
-||technewztop.org^$doc
-||veganovtrichy.com^$doc
-||tgtube.us^$doc
-||reogma.com^$doc
-||msnblogs.co.uk^$doc
-||baddiehub.bond^$doc
-||thecelebrays.com^$doc
-||rollyvortex.com^$doc
-||crispme.co.uk^$doc
-||wrenable.com^$doc
-||thundern.com^$doc
-||nationaltoday.co.uk^$doc
-||speedyshort.org^$doc
-||cyberpulseltd.co.uk^$doc
-||picnob.uk^$doc
-||tamilprint2.co.uk^$doc
-||allinternetchicks.com^$doc
-||techvanguards.com^$doc
-||vibelinker.co.uk^$doc
-||blogbois.co.uk^$doc
-||vyvymangaa.co.uk^$doc
-||luv-trise.net^$doc
-||wellhealthalert.com^$doc
-||brookbtaubebox.com^$doc
-||businesssky.io^$doc
-||speakmagazine.co.uk^$doc
-||digicsol-system.com^$doc
-||calandrando.com^$doc
-||breakingbanner.com^$doc
-||basicadvise.co.uk^$doc
-||thinkbomall.com^$doc
-||techlokesh.org^$doc
-||forbesradar.co.uk^$doc
-||trustwino.com^$doc
-||seotakeaways.com^$doc
-||maccablog.co.uk^$doc
-||forbesinsider.co.uk^$doc
-||businesslisting.blog^$doc
-||problogschool.com^$doc
-||msnbusiness.co.uk^$doc
-||flixhq.uk^$doc
-||digitad.info^$doc
-||crunchnews.org^$doc
-||businesspossible.co.uk^$doc
-||bioscopey.com^$doc
-||alertecelebrites.fr^$doc
-||devtuc.com^$doc
-||menuaustralia.com^$doc
-||fixhq.org^$doc
-||jinxmanga.co.uk^$doc
-||howuknews.co.uk^$doc
-||usapointnetwork.com^$doc
-||frmenu.org^$doc
-||tmsimregistration.com^$doc
-||upbent.com^$doc
-||studyheals.com^$doc
-||betsays.com^$doc
-||hbtinsider.com^$doc
-||lunchmenualert.com^$doc
-||7networth.com^$doc
-||bistrovista.com^$doc
-||1xify.com^$doc
-||digitaalz.com^$doc
-||mealtop.co.uk^$doc
-||apexbeasts.com^$doc
-||thetrendzguruji.me^$doc
-||currentpackages.com^$doc
-||sgmenuprices.com^$doc
-||mycubatrip.com^$doc
-||mxmenu.org^$doc
-||bikutuda.com^$doc
-||blookt.net^$doc
-||rubmd.net^$doc
-||menualerteg.com^$doc
-||techhaumea.com^$doc
-||richcelebritiesnetworth.com^$doc
-||differencewise.com^$doc
-||poetryaddiction.com^$doc
-||prixdesmenus.com^$doc
-||pricealertbd.com^$doc
-||bighomesinfo.com^$doc
-||learnforsuccess.co.uk^$doc
-||thriveglobal.co.uk^$doc
-||technewztop.com.in^$doc
-||webteknohaber.org^$doc
-||ytrishi.org^$doc
-||techgup.org^$doc
-||biharjobportal.co.in^$doc
-||digitalagemagazine.com^$doc
-||stellarwhirl.org^$doc
-||incrediblewave.com^$doc
-||techsparkr.com^$doc
-||theradamm.com^$doc
-||thenewztalkies.com^$doc
-||aiotechnical.com.in^$doc
-||hindiyaro.net^$doc
-||deepcyclenews.co.uk^$doc
-||private-delights.org^$doc
-||theglobeandmail.co.uk^$doc
-||playblooket.co.uk^$doc
-||scareplay.com^$doc
-||jures.co.uk^$doc
-||maxxfour.net^$doc
-||themixmoz.com^$doc
-||bblogs.uk^$doc
-||fintechszoom.com^$doc
-||thetechgues.com^$doc
-||bloghives.com^$doc
-||nytimer.co.uk^$doc
-||baddiehub.link^$doc
-||diatm.com^$doc
-||livemint.uk^$doc
-||imginn.co.uk^$doc
-||winnoise.net^$doc
-||jboutique.co^$doc
-||howinsights.co.uk^$doc
-||bigmagazinenews.com^$doc
-||blooketcode.net^$doc
-||ferretstyle.com^$doc
-||techuknews.com^$doc
-||foxfaster.com^$doc
-||globalexpressinfo.com^$doc
-||fingerlakes1.co.uk^$doc
-||ventspeak.com^$doc
-||xannytech.co.uk^$doc
-||wordletoday.in^$doc
-||bigmagazinepro.com^$doc
-||washingtonbreeze.com^$doc
-||thrillrise.com^$doc
-||blogblower.com^$doc
-||americanrepost.com^$doc
-||newsjotechgeek.com^$doc
-||menproject.co.uk^$doc
-||wordleadvice.com^$doc
-||seokingsclub.com^$doc
-||techprimex.com^$doc
-||businessesplans.co.uk^$doc
-||baddie-hub.uk^$doc
-||allnewztalkies.com^$doc
-||ocnjdaily.co.uk^$doc
-||blogengine.co.uk^$doc
-||globesimregistration.net^$doc
-||myvyvymanga.com^$doc
-||aio-technical.com^$doc
-||todayoutlook.co.uk^$doc
-||creativeter.com^$doc
-||maasgracve.com^$doc
-||journalmatrixs.com^$doc
-||contextoanswertoday.com^$doc
-||croesoffice.org^$doc
-||techdeck.com.in^$doc
-||brooktaube.org^$doc
-||dondodson.com^$doc
-||techbards.org^$doc
-||intechpro.co.uk^$doc
-||urbanswall.com^$doc
-||techsquick.com^$doc
-||aaryaeditz.org^$doc
-||akedowarriors.com.au^$doc
-||ntdesigns.com.au^$doc
-||ideanestle.com^$doc
-||worldwids.com^$doc
-||inspiresprout.com^$doc
-||blogaroo.org^$doc
-||techdenser.com^$doc
-||viralzee.com^$doc
-||techiboomb.com^$doc
-||finbusines.com^$doc
-||techipes.com^$doc
-||wiki247.org^$doc
-||digitaljournel.com^$doc
-||usnowadays.com^$doc
-||outlookblogs.com^$doc
-||deepcyclenews.co.uk^$doc
-||private-delights.org^$doc
-||techwaqj.com^$doc
-||mazrms.com^$doc
-||altumw.com^$doc
-||anexuz.com^$doc
-||techtrending.co.uk^$doc
-||spiderhoods.ltd^$doc
-||depomin82.co.uk^$doc
-||techarchived.com^$doc
-||techcraigslist.com^$doc
-||retrobowl.co.uk^$doc
-||planetutech.com^$doc
-||apnew.co.uk^$doc
-||tubewellscreenss.com^$doc
-||storytellershat.com^$doc
-||relevantcodes.com^$doc
-||tirpse.com^$doc
-||websitesone.com^$doc
-||neclumi.com^$doc
-||police-writers.com^$doc
-||thegloworm.com^$doc
-||rideable.com.in^$doc
-||discoversmagazine.com^$doc
-||ezyzip.co.uk^$doc
-||ventoxweekly.com^$doc
-||admodito.co.uk^$doc
-||sonicshappyhour.com^$doc
-||1883magazine.co.uk^$doc
-||sethbtaubehub.com^$doc
-||magzinely.com^$doc
-||usaprotrend.com^$doc
-||gravityinternetnet.co.uk^$doc
-||todayoutlook.co.uk^$doc
-||decorunits.com^$doc
-||promagazinehub.com^$doc
-||msmagazine.co.uk^$doc
-||aaryaeditz.org^$doc
-||newzify.org^$doc
-||businessmanga.co.uk^$doc
-||techboostlab.com^$doc
-||adminsights.co.uk^$doc
-||mhinsights.co.uk^$doc
-||finsplore.com^$doc
-||nyweeklymsn.com.in^$doc
-||pondershort.com.in^$doc
-||xvif.com.in^$doc
-||nyweekly.co.uk^$doc
-||themsntimes.com^$doc
-||theshopingtimes.com^$doc
-||nbcjournals.com^$doc
-||newschecker.co.uk^$doc
-||jojoygta5.org^$doc
-||cooprat.com^$doc
-||nytcrossword.blog^$doc
-||theverge.com.in^$doc
-||thefluxtech.com^$doc
-||ventsmaga.com^$doc
-||usabusinesshub.blog^$doc
-||williegary.co.uk^$doc
-||dallasyocum.co.uk^$doc
-||luxpascal.com^$doc
-||andreaskeete.co.uk^$doc
-||usalivetrend.com^$doc
-||thenewswire.co.uk^$doc
-||usainfo.co.uk^$doc
-||99-maths.com^$doc
-||businessbond.net^$doc
-||crypto30xcom.com^$doc
-||techlokesh.org^$doc
-||aaryaeditz.org^$doc
-||blogkey.co.uk^$doc
-||bhulekhbhoomi.com^$doc
-||hindiqoutes.com^$doc
-||biharbhumilandrecord.com^$doc
-||apnakhataedhartirajasthan.com^$doc
-||mpbhulekhrcms.com^$doc
-||ssoidrajasthanlogin.com^$doc
-||startupsofindia.com^$doc
-||primenymedia.com^$doc
-||medianextusa.com^$doc
-||salaryslip.org^$doc
-||ladli-behna-yojana.com^$doc
-||husbandname.org^$doc
-||filmyflycom.com^$doc
-||vibnology.com^$doc
-||biharportalonline.com^$doc
-||thebioinfo.com^$doc
-||scoopwheels.com^$doc
-||thereaderstone.com^$doc
-||theunipost.com^$doc
-||thedigilocker.in^$doc
-||sarkareeportal.com^$doc
-||kedaiori.com^$doc
-||thezoomwire.com^$doc
-||baldockvets.com^$doc
-||rajkotupdatesnewsreport.com^$doc
-||yourssstory.com^$doc
-||stockdalecolemanforjudge.com^$doc
-||magazinespros.com^$doc
-||coreusnews.com^$doc
-||msnpro.co.uk^$doc
-||guidejunction.co.uk^$doc
-||ncrchronicle.com^$doc
-||unimarsh.com^$doc
-||theprimeport.com^$doc
-||scooptoop.com^$doc
-||myipscannerpro.com^$doc
-||norcow.com^$doc
-||startupvirals.com^$doc
-||automobileinfoz.com^$doc
-||eindiawire.com^$doc
-||glamourglom.com^$doc
-||nexerup.com^$doc
-||sportsvirals.com^$doc
-||timebuzinessnews.com^$doc
-||dailybizhunt.com^$doc
-||texanstimes.com^$doc
-||rumorster.com^$doc
-||magazinesmega.com^$doc
-||scratchwake.com^$doc
-||bravixo.com^$doc
-||thewiresolution.com^$doc
-||chicagonewsupdate.com^$doc
-||usaacemedia.com^$doc
-||iplworldcup.com^$doc
-||thenewznation.com^$doc
-||stylishword.com^$doc
-||doofliix.com^$doc
-||pedrovazpaulo.net^$doc
-||socialhubin.com^$doc
-||billionfire.com^$doc
-||bistrover.com^$doc
-||famous-parenting.com^$doc
-||vatonlinecalculator.co.uk^$doc
-||cubanribs.com^$doc
-||pmawasgraminlist.co^$doc
-||sumosearch.io^$doc
-||openhoursguru.com^$doc
-||spiritmeans.com^$doc
-||washingtongreek.co.uk^$doc
-||contacthelp.co.uk^$doc
-||hamrosolarllc.com^$doc
-||qaastechnology.us^$doc
-||futuremagazine.co.uk^$doc
-||basicknowledge.co.uk^$doc
-||soujiyi.net^$doc
-||unfite.net^$doc
-||klwap.com.in^$doc
-||naturerealytr.com^$doc
-||techgues.org^$doc
-||wbsedcl.com.in^$doc
-||depomin82.org^$doc
-||yearbook360.org^$doc
-||albergado.com^$doc
-||premiumbusinesshub.com^$doc
-||magque.org^$doc
-||blooklet.net^$doc
-||crypto30x.us^$doc
-||thesun.blog^$doc
-||evolvetofuture.com^$doc
-||articleforward.com^$doc
-||beebom.org^$doc
-||londonexpress.org^$doc
-||crispme.net^$doc
-||mashablestory.com^$doc
-||torontotimes.org^$doc
-||expressinternal.com^$doc
-||discoverthrill.co.uk^$doc
-||chicagodaily.org^$doc
-||flaremagazines.co.uk^$doc
-||londondaily.org^$doc
-||seofigure.com^$doc
-||theappkod.com^$doc
-||businessradar.co.uk^$doc
-||centernewshub.com^$doc
-||newsface.co.uk^$doc
-||tsvgcet.pro^$doc
-||ralcolor.net^$doc
-||tvinsider.co.uk^$doc
-||vital-mag-net-blog.com^$doc
-||themagazinezone.com^$doc
-||atfboru.co.uk^$doc
-||interlandtime.com^$doc
-||techu.blog^$doc
-||ventsmagalogue.co.uk^$doc
-||newspapertime.co.uk^$doc
-||nvidia-aktie.de^$doc
-||vstoriginal.com^$doc
-||cytocom.com^$doc
-||geeksgyan.com^$doc
-||thebeverlyadams.com^$doc
-||kntosa.com^$doc
-||chatiel.com^$doc
-||angerole.com^$doc
-||turdwords.com^$doc
-||theflexshow.com^$doc
-||clickup.com.in^$doc
-||kcrealestatemagazine.com^$doc
-||runningpost.com.in^$doc
-||falmyhit.com^$doc
-||photosgreet.com^$doc
-||ncedcloud.co.uk^$doc
-||msnwire.co.uk^$doc
-||wepbound.net^$doc
-||magazinenow.co.uk^$doc
-||authenticnews.co.uk^$doc
-||thecobox.org^$doc
-||fintechzooms.org^$doc
-||runningposts.com^$doc
-||spinupbusiness.com^$doc
-||ventsgrow.com^$doc
-||deoda.pro^$doc
-||cryptolazz.com^$doc
-||stufferdnb.org^$doc
-||getbreaknews.com^$doc
-||trendyblogging.com^$doc
-||papermanga.com^$doc
-||worldtrend.blog^$doc
-||livehint.blog^$doc
-||theblogverge.com^$doc
-||wegmans.co.uk^$doc
-||classcharts.org.uk^$doc
-||iganony.org.uk^$doc
-||voyageny.co.uk^$doc
-||tempindoors.com^$doc
-||thevitalmag.net^$doc
-||mirrornewz.com^$doc
-||brightnewz.com^$doc
-||techifuture.co.uk^$doc
-||techimillion.com^$doc
-||dreamteamvisions.com^$doc
-||skycryptpro.com^$doc
-||noodlemagazineo.com^$doc
-||wemagazine.co.uk^$doc
-||punjabeducare.co.uk^$doc
-||newslogicalshout.com^$doc
-||proxiyum.org^$doc
-||alvarezautosales.com^$doc
-||watdongmoonlek.com^$doc
-||mixtvnow.net^$doc
-||bigtechoro.org^$doc
-||cyberkannadig.net^$doc
-||theztec100.com^$doc
-||manhwa18.co.uk^$doc
-||eurobuzz.co.uk^$doc
-||entrepreneurera.co.uk^$doc
-||sparksweekly.com^$doc
-||urbansplatter.org^$doc
-||techbullion.org.uk^$doc
-||theworldfree4u.com^$doc
-||pressmagazine.org^$doc
-||heardle70s.co.uk^$doc
-||publicmagazine.co.uk^$doc
-||dailyfusion.co.uk^$doc
-||zvideopro.com^$doc
-||thefutureupdate.com^$doc
-||wordlehinttoday.blog^$doc
-||canvaartworks.com^$doc
-||buzztum.org^$doc
-||hitlmila.com^$doc
-||lillienu.net^$doc
-||quickmagazine.co.uk^$doc
-||examplemagazine.co.uk^$doc
-||comicfanzine.co.uk^$doc
-||thecoastnews.co.uk^$doc
-||veestrit.org^$doc
-||techvision.com.in^$doc
-||lionswire.blog^$doc
-||newslogictech.com^$doc
-||techplustime.com^$doc
-||techdecktrick.com^$doc
-||crackstreams.com.in^$doc
-||gimkithost.co.uk^$doc
-||unsentproject.co.uk^$doc
-||techpioneer.co.uk^$doc
-||glowmagazine.co.uk^$doc
-||msnnewz.com^$doc
-||dainikshikshapro.com^$doc
-||startrend.co.uk^$doc
-||itechgues.com^$doc
-||msagears.com^$doc
-||repoindustry.com^$doc
-||missionies.com^$doc
-||boldnews.co.uk^$doc
-||dirtyships.org^$doc
-||viprow.pro^$doc
-||digitalhub4geeks.net^$doc
-||megacaching.org^$doc
-||themp4moviez.com^$doc
-||showbizztoday-com.co.uk^$doc
-||usaviralnews.com^$doc
-||techweekly.com.in^$doc
-||exploratoryglory.com^$doc
-||techbullion.uk^$doc
-||hdhub4unit.com^$doc
-||adsypwhb3.com^$doc
-||bctimes.co.uk^$doc
-||timelens.co.uk^$doc
-||classicnews.co.uk^$doc
-||techfelts.co.uk^$doc
-||businesseshubs.com^$doc
-||knowledge.com.in^$doc
-||socialbizmagazine.co.uk^$doc
-||muzzmagazine.co.uk^$doc
-||pondershort.org^$doc
-||britainwrites.co.uk^$doc
-||blogstech.co.uk^$doc
-||fappeningblog.uk^$doc
-||erothot.org^$doc
-||fintechzoomcom.pro^$doc
-||vital-mag-net-blog.blog^$doc
-||wpdevshed.co.uk^$doc
-||ucatruco.com^$doc
-||ontpress.co.uk^$doc
-||symbolab.co.uk^$doc
-||techmagazinepro.co.uk^$doc
-||usmagazinepro.co.uk^$doc
-||versegrace.com^$doc
-||grammarglides.com^$doc
-||gigglenames.com^$doc
-||oxfordenglishlang.com^$doc
-||grammarcove.com^$doc
-||captionfinity.com^$doc
-||phrasespulse.com^$doc
-||recipevilla.com^$doc
-||dadaboudi.com^$doc
-||astheticflower.com^$doc
-||inglishe.com^$doc
-||menupriceast.com^$doc
-||uniabhimanyu.com^$doc
-||quoteshaze.com^$doc
-||sparklemorning.com^$doc
-||thebankify.com^$doc
-||ravguide.com^$doc
-||charmfulnames.com^$doc
-||primenamespot.com^$doc
-||namesvista.com^$doc
-||nomenly.com^$doc
-||finanzerr.com^$doc
-||headlessgenius.com^$doc
-||slangsandnames.com^$doc
-||quotescloud.org^$doc
-||sgmenus.org^$doc
-||journalelite.com^$doc
-||celebworthusa.com^$doc
-||thetechnotricks.com^$doc
-||idvisahub.com^$doc
-||radamm.net^$doc
-||truedynamicindia.com^$doc
-||thecaribloop.com^$doc
-||rare-fiedtech.com^$doc
-||fzkidd.com.in^$doc
-||mdisk.com.in^$doc
-||playmyworld.co.uk^$doc
-||yandexgamesresources.com^$doc
-||bolly4upro.com^$doc
-||rabbitweb.org^$doc
-||unsentprojects.com^$doc
-||thesmallbusinesstime.co.uk^$doc
-||objectprofile.com^$doc
-||webdesignpostfalls.com^$doc
-||fin-techzoom.com^$doc
-||webdesignpostfalls.com^$doc
-||recifest.com.au^$doc
-||techyapple.co.uk^$doc
-||gnhust.uk^$doc
-||hqfix.co.uk^$doc
-||peerji.com^$doc
-||bloggershub.org^$doc
-||zobuz.co.uk^$doc
-||veganovtrichy.net^$doc
-||thetechnotricks.in^$doc
-||techmininghub.co.uk^$doc
-||mopoga.uk^$doc
-||buzzhatch.co.uk^$doc
-||dignotech.com^$doc
-||lidnews.com^$doc
-||techsuse.com^$doc
-||newspaperinsider.com^$doc
-||investorweeklynews.com^$doc
-||dailynewswork.com^$doc
-||rockbandnews.com^$doc
-||techmarsh.com^$doc
-||dailydishnews.com^$doc
-||newsross.com^$doc
-||morningtimenews.com^$doc
-||sevenseventech.com^$doc
-||newscod.com^$doc
-||journalnewsinfo.com^$doc
-||ormetech.com^$doc
-||mytecharm.com^$doc
-||newsdailysources.com^$doc
-||techchevy.com^$doc
-||newsthere.com^$doc
-||carmannews.com^$doc
-||moonvalleynews.com^$doc
-||honestnewsdaily.com^$doc
-||greennewsdesk.com^$doc
-||relatednewsnetwork.com^$doc
-||dailynewslaw.com^$doc
-||portalnewsletter.com^$doc
-||notontech.com^$doc
-||reliablenewsdaily.com^$doc
-||techslassh.com^$doc
-||marketmedianews.com^$doc
-||recordnewswire.com^$doc
-||newsworlddaily.com^$doc
-||mediumbloggers.com^$doc
-||newspapercast.com^$doc
-||techhopes.com^$doc
-||technicalways.com^$doc
-||stocksmarkettips.com^$doc
-||buildingbusinessnews.com^$doc
-||moneynewsweb.com^$doc
-||economicweeklynews.com^$doc
-||myclassnews.com^$doc
-||bolly4you.net^$doc
-||betterthisworldcom.com^$doc
-||cozovmoni.net^$doc
-||rainmakerless.org^$doc
-||chandiapk.net^$doc
-||hd4hub4u.net^$doc
-||techleez.net^$doc
-||hdhun4u.com^$doc
-||springhillmedgroup.net^$doc
-||animedekho.org^$doc
-||nice1010fun.com^$doc
-||charfen.co.uk^$doc
-||kingcomix.us^$doc
-||utdplug.me.uk^$doc
-||techhuda.com^$doc
-||delightlacto.com^$doc
-||tuambia.co.uk^$doc
-||soldmagazine.co.uk^$doc
-||mytecharm.org^$doc
-||knowworld.co.uk^$doc
-||breakinsight.co.uk^$doc
-||businessoutside.co.uk^$doc
-||celebjournal.co.uk^$doc
-||lifesiters.com^$doc
-||blogbuzznews.com^$doc
-||delightlacto.com^$doc
-||techhuda.com^$doc
-||sfm-compile.com^$doc
-||climbblaster.co.uk^$doc
-||magazinepure.co.uk^$doc
-||aaryaeditz.us^$doc
-||happymistry.net^$doc
-||mahitechinfo.pro^$doc
-||techdecktrick.com^$doc
-||slideinsights.com^$doc
-||runposts.org^$doc
-||ucatruco.org^$doc
-||webgege.net^$doc
-||needmetals.com^$doc
-||rankguruji.net^$doc
-||thetechkeyboard.com^$doc
-||techsmotherboard.com^$doc
-||techyrams.com^$doc
-||thetoopa.com^$doc
-||businesstycoon.io^$doc
-||theincestflix.com^$doc
-||markmagazine.co.uk^$doc
-||smoothiepussit.com^$doc
-||teckjbcom.com^$doc
-||utdplug.co.uk^$doc
-||learnspreadsheet.com^$doc
-||theridgelinereport.com^$doc
-||howeyindustries.com^$doc
-||thejujutsukaisenread.com^$doc
-||instander-official.com^$doc
-||psbios.com^$doc
-||gtasanandreasapk.org^$doc
-||shayaristan.net^$doc
-||sosomodapks.com^$doc
-||ditosimregistration.net^$doc
-||winkapkgeek.com^$doc
-||cheeziousmenu.com^$doc
-||taradownloader.com^$doc
-||whatnetworksph.com^$doc
-||nytsudoku.net^$doc
-||sbhinter.com^$doc
-||cinemanaios.org^$doc
-||inat-box-apk.com.tr^$doc
-||vegassweeps.io^$doc
-||symbolbio.com^$doc
-||itscouriertracking.com^$doc
-||applicationformat.net^$doc
-||teraboxpro.com^$doc
-||groupsorlinky.com^$doc
-||goodwilloutlets.net^$doc
-||myphmenu.org^$doc
-||proinshots.com^$doc
-||sgmenuz.com^$doc
-||pixelabapk.com^$doc
-||carsimult.com^$doc
-||namemeup.com^$doc
-||universalnamegenerator.com^$doc
-||paintpulse.co.uk^$doc
-||celebhusband.com^$doc
-||dudemods.com^$doc
-||gepcoebill.pk^$doc
-||scmapk.com^$doc
-||travelsbird.com^$doc
-||hitvofficial.com^$doc
-||lightroomapks.org^$doc
-||thecarxstreetpro.com^$doc
-||punspromax.com^$doc
-||rareteamnames.com^$doc
-||fairmoore.co.uk^$doc
-||literary-techniques.com^$doc
-||lescobillpay.pk^$doc
-||technewsinfoo.com^$doc
-||philippinesmenu.com^$doc
-||captionsbuzz.com^$doc
-||carstale.com^$doc
-||idstatuscheck.com^$doc
-||anniversaryjourney.com^$doc
-||rantiethnicity.com^$doc
-||celebviki.net^$doc
-||alightmotionmodpro.com^$doc
-||duereply.com^$doc
-||menusalert.org^$doc
-||sinfuldeedsbio.com^$doc
-||drpoetry.com^$doc
-||animalsymbo.com^$doc
-||luaghter.com^$doc
-||philhealth.cc^$doc
-||alightmotionmapk.com^$doc
-||sgmenusprice.net^$doc
-||wishesbirthdays.com^$doc
-||elrutificadorchile.cl^$doc
-||emiratestatusid.com^$doc
-||bioviki.com^$doc
-||whatsmb.com^$doc
-||menuphl.org^$doc
-||readjujutsukaisenmanga.net^$doc
-||baseballes.com^$doc
-||pickuplinebuzz.com^$doc
-||michaelleva.com^$doc
-||whatsjt.com^$doc
-||celebsafairs.net^$doc
-||infotoptrend.com^$doc
-||zaraatofficial.com^$doc
-||fashionsquill.com^$doc
-||celeagenews.com^$doc
-||legendlifes.com^$doc
-||whatsgolden.com^$doc
-||volleyballblaze.com^$doc
-||wealthyhack.com^$doc
-||bionetworthzone.com^$doc
-||starsfaith.com^$doc
-||copyenglish.com^$doc
-||pikupline.net^$doc
-||wherepulse.com^$doc
-||inshotspot.com^$doc
-||techlivo.com^$doc
-||smartlyreply.com^$doc
-||sparktime.co.uk^$doc
-||pickleballopinion.com^$doc
-||stonesmentor.com^$doc
-||flappymagazine.com^$doc
-||vnrom.cc^$doc
-||animalsweeble.net^$doc
-||englishmasterypro.net^$doc
-||ventmagazines.co.uk^$doc
-||subwaysurferapk.net^$doc
-||tchtrends.net^$doc
-||infobiofusion.net^$doc
-||abpoetry.com^$doc
-||thenoobgamerz.com^$doc
-||knowledgemandi.com^$doc
-||starshistory.com^$doc
-||infospiritual.com^$doc
-||talkspeaker.net^$doc
-||jbms360.com^$doc
-||beingselfish.net^$doc
-||snap-insta.net^$doc
-||celebritiezclub.com^$doc
-||simpcity.org.uk^$doc
-||chromewebextensions.com^$doc
-||starbeliefs.com^$doc
-||enfopedia.com^$doc
-||shaladarpans.net^$doc
-||mummyname.com^$doc
-||englishsunglish.com^$doc
-||husbandinfo.com^$doc
-||celebhatelove.com^$doc
-||knowillegal.com^$doc
-||kenyasihami.com^$doc
-||bytevarsity.net^$doc
-||zamenu.net^$doc
-||bioinfoworld.net^$doc
-||shayriinurdu.net^$doc
-||englishlush.net^$doc
-||newsxrocks.com^$doc
-||thebriefmagazine.com^$doc
-||gotechlingo.net^$doc
-||sparkstale.net^$doc
-||baddieshuh.com^$doc
-||travelpackpro.net^$doc
-||quotesology.com^$doc
-||atozpoetry.net^$doc
-||terabapp.com^$doc
-||asenquavc.com^$doc
-||techycubs.net^$doc
-||techysparkel.net^$doc
-||captionpulse.net^$doc
-||thetechinsider.co.uk^$doc
-||earthnatures.net^$doc
-||toptechsinfo.net^$doc
-||synonymate.net^$doc
-||techtendspro.net^$doc
-||mostlytrend.com^$doc
-||captionsbyte.com^$doc
-||hexawings.net^$doc
-||techinfoes.com^$doc
-||organicblog.co.uk^$doc
-||mastimorning.pro^$doc
-||crystalsvista.net^$doc
-||muskaanhindi.org^$doc
-||celebrebuzz.com^$doc
-||applebemenu.com^$doc
-||thefunnypuns.com^$doc
-||croudmomentum.com^$doc
-||reptileguided.com^$doc
-||dunkin-donut.net^$doc
-||menupricesus.com^$doc
-||dimensionsscript.com^$doc
-||wishhes.com^$doc
-||networthsparks.com^$doc
-||ajankari.com^$doc
-||quicklymagazine.co.uk^$doc
-||forbesnetwork.co.uk^$doc
-||pkr4app.com^$doc
-||greblovz2004.org^$doc
-||zv2earning.com^$doc
-||technefi.net^$doc
-||cricketgateway.org^$doc
-||gazettedupmu2.co.uk^$doc
-||viralapks.com^$doc
-||bulbulnepal.org^$doc
-||ymovieshd.org^$doc
-||cozovmoni.net^$doc
-||zetop.org^$doc
-||youpak.net^$doc
-||messiturf100.com^$doc
-||9xfilix.net^$doc
-||4gagnants.com^$doc
-||donpmu.com^$doc
-||powerturf.org^$doc
-||freebookspot.org/^$doc
-||mathgames67.org^$doc
-||titfees.net^$doc
-||poetryaddiction.net^$doc
-||gazettepmu2.com^$doc
-||sansar24.org^$doc
-||wolni-turf.com^$doc
-||kappacoursepmu.net^$doc
-||myliberla.org^$doc
-||nice1010fun.com^$doc
-||filiereturf.com^$doc
-||pkr2earn.com^$doc
-||technefi.org^$doc
-||stmoro.net/^$doc
-||ultimatestatusbar.com^$doc
-||maryturf.com^$doc
-||turfmillionnaire.org^$doc
-||pmumaroc.com^$doc
-||toptierce.com^$doc
-||kappacourse-gagnant.com^$doc
-||turf-universel.com^$doc
-||rassakowska.com^$doc
-||pronologiqueturf.com^$doc
-||gazettepmu.com^$doc
-||monadetcourse.com^$doc
-||hiidude.net^$doc
-||bekirturf.org^$doc
-||thesoundstourcom.net^$doc
-||ifreechat.net^$doc
-||cplemaire.org^$doc
-||olaturf.org^$doc
-||universelturf.com^$doc
-||lillycourse.com^$doc
-||mygreenbucksnet.com^$doc
-||pronoverite.net^$doc
-||unfgaming.org^$doc
-||africpronostic.com^$doc
-||boss-turf.com^$doc
-||kappacourse.co.uk^$doc
-||leblogdewolni.com^$doc
-||marsturf.com^$doc
-||hdhun4u.com^$doc
-||kapacourse.net^$doc
-||arcenturfgagnant.net^$doc
-||abdellatifturf.com^$doc
-||rdxhd.org^$doc
-||cplemaire-pmu.com^$doc
-||hipposturf.org^$doc
-||radarturf.org^$doc
-||theboringmagazinecom.com^$doc
-||blogsternationcom.com^$doc
-||cplemaire-lavoyeuse.com^$doc
-||sumosearch.net^$doc
-||kappaturf.net^$doc
-||akanzaturf.com^$doc
-||geniduturf.org^$doc
-||pacoturf-40.com^$doc
-||eanduturfburkina.com^$doc
-||chantcourse.org^$doc
-||mundo3dprint.net^$doc
-||worldwidesciencestories.co.uk^$doc
-||thelitenews.org^$doc
-||fideleturf.co.uk^$doc
-||warrenbraithwaite.com^$doc
-||pepperboy.today^$doc
-||estoturfturf.net^$doc
-||tuambia-alimentos.com^$doc
-||jephteturf.net^$doc
-||mimyturf.org^$doc
-||usaenlinea.net^$doc
-||parivra.com^$doc
-||techleez.net^$doc
-||zecommentaires.com^$doc
-||elanduturfpmu.com^$doc
-||stmoro.co.uk^$doc
-||chandiapk.net^$doc
-||shiinabr.co.uk^$doc
-||consolidatetimes.com^$doc
-||consolidatetimes.com^$doc
-||turffr.net^$doc
-||casacourses.net^$doc
-||j2earn.net^$doc
-||planetecourse.net^$doc
-||ordretrio.com^$doc
-||ytrishiin.com^$doc
-||parivraivip.com^$doc
-||apkipl.net/^$doc
-||force-turf.com^$doc
-||dataroma.net^$doc
-||bigtechoro.org^$doc
-||comeapk.org/^$doc
-||animedekho.org^$doc
-||storino2day.org^$doc
-||pmumondial.com^$doc
-||miroir-pmu.com^$doc
-||weekturfjournal.com^$doc
-||clairekittle.com^$doc
-||thedailytribute.com^$doc
-||mygreenbucks.com.co^$doc
-||theboringmagazine.net^$doc
-||poetryvalley.com^$doc
-||tunwin365.org^$doc
-||bluesushisakegrill.net^$doc
-||redwingnews.com^$doc
-||pronoverite.org^$doc
-||manhuasy.org^$doc
-||messiturf100.org^$doc
-||freefollowersnet.com^$doc
-||whiitelist.com^$doc
-||genycourses.net^$doc
-||good-hippique.com^$doc
-||cplemairepmu.com^$doc
-||gazettedupmu-2.com^$doc
-||estoturfvip.com^$doc
-||lenscourse.com^$doc
-||thetechcofounder.com^$doc
-||zc2earning.org^$doc
-||metapressnews.com^$doc
-||thetravellino.net^$doc
-||stmoro.org/^$doc
-||homedecorchamp.com^$doc
-||viralapks.org/^$doc
-||aavotcom.com^$doc
-||bolly4you.net^$doc
-||hkrnl.com^$doc
-||tabletwritings.org^$doc
-||silvertakipci.net^$doc
-||morbagh.net^$doc
-||hippoturf.org^$doc
-||buffalocourse.com^$doc
-||honestdoor.org^$doc
-||turforiginal.com^$doc
-||grammarglow.com^$doc
-||semakan-mykid.my^$doc
-||pajskkpm.my^$doc
-||zaxbysmenus.com^$doc
-||baddies-hub.com^$doc
-||iotimes.co.uk^$doc
-||ukrtime.co.ua^$doc
-||hamariweb.co.uk^$doc
-||modern-family.tv^$doc
-||beziddi.com^$doc
-||tidingsmedia.org^$doc
-||thepillmagazine.com^$doc
-||ke4rx.org^$doc
-||icsehub.com^$doc
-||thithtoolwin.com^$doc
-||study4sure.com^$doc
-||viaeurasia.org^$doc
-||bestoftci.com^$doc
-||dar-care.com^$doc
-||temple-publications.com^$doc
-||yooooga.com^$doc
-||theblup.com^$doc
-||thebookseditora.com^$doc
-||tadworld.com^$doc
-||designviva.com^$doc
-||dailyodyssey.co.uk^$doc
-||imperfeed.com^$doc
-||mysdmcsso.us^$doc
-||eshikshakosh.com.co^$doc
-||newsross.org^$doc
-||www-wellhealthorganic.com^$doc
-||thekakupress.com^$doc
-||knowledgearrow.com^$doc
-||moon10.com.co^$doc
-||therome.co.uk^$doc
-||hoseasons.org.uk^$doc
-||touchcric.org.uk^$doc
-||gravityinternetnet.com.co^$doc
-||tribune.co.com^$doc
-||qiuzziz.com.co^$doc
-||thesmallbusinesstimes.com.co^$doc
-||vixencom.com^$doc
-||thewheonx.com^$doc
-||thelyricsbaazaar.com^$doc
-||runpost.com.co^$doc
-||theimagefap.com^$doc
-||theutdplug.co.uk^$doc
-||fappeningblog.com.co^$doc
-||adriaenglish.com^$doc
-||aaryaeditzorg.com^$doc
-||wheonx.com.co^$doc
-||eromecom.co^$doc
-||thetechlein.com^$doc
-||mahitechinfo.co.uk^$doc
-||dailynewsconsumer.org^$doc
-||joinmyquiz.com.co^$doc
-||wheon.com^$doc
-||newspure.co.uk^$doc
-||economicweeklynews.org^$doc
-||buildingbusinessnews.org^$doc
-||newztalkies.com^$doc
-||techgues.com^$doc
-||thetechnorozen.com^$doc
-||carsdestiny.com^$doc
-||visitblog.co.uk^$doc
-||contacthelp.co.uk^$doc
-||nexthome.blog^$doc
-||hamrosolarllc.com^$doc
-||ancientartz.com.co^$doc
-||techsslash.com.co^$doc
-||realerome.com^$doc
-||mistyinfo.com.co^$doc
-||washingtonglamour.com^$doc
-||teckjb.com.co^$doc
-||veganovtrichy.com.co^$doc
-||rockbandnews.org^$doc
-||lidnews.org^$doc
-||proxyium.com.co^$doc
-||influencersgonewild.ltd^$doc
-||pinayflix.com.co^$doc
-||themakeboth.com^$doc
-||theteckjb.com^$doc
-||thepinayflix.com^$doc
-||cryptonewzhub.com.co^$doc
-||thebaddiehub.blog^$doc
-||theknowledgearrow.com^$doc
-||mixmoz.com^$doc
-||theaavot.com^$doc
-||cashstark.com.co^$doc
-||tamilprint.com.co^$doc
-||thesfmcompile.com^$doc
-||theinflact.com^$doc
-||theibomma1.com^$doc
-||inventstech.com^$doc
-||paidforarticles.com.co^$doc
-||usavyvymanga.com^$doc
-||theyeshivaworld.com.co^$doc
-||uploadarticle.com.co^$doc
-||themangabuddy.com^$doc
-||mcdfoofforthoughts.com.co^$doc
-||wheonx.org^$doc
-||techmarsh.blog^$doc
-||newscod.blog^$doc
-||theapkek.com^$doc
-||thetechnotricks.com.co^$doc
-||thedignotech.com^$doc
-||earntuffer.com.co^$doc
-||investorweeklynews.com.co^$doc
-||instafest.org^$doc
-||technewztop.com.co^$doc
-||thetechcrusader.com^$doc
-||theunfite.com^$doc
-||thelookwhatmomfound.com^$doc
-||thepkr2earn.com^$doc
-||theyatrucoff.com^$doc
-||tamilprint.org.uk^$doc
-||theucatruco.com^$doc
-||theinfluencersgonewild.co.uk^$doc
-||themegapersonal.com^$doc
-||kuthira.com.co^$doc
-||ukpunting.org.uk^$doc
-||thegadgetfreeks.com^$doc
-||acknowledgement.com.co^$doc
-||loveshayari.co.uk^$doc
-||themegapersonal.com^$doc
-||bronceblass.org^$doc
-||thesevenseventech.com^$doc
-||thelakewoodscoop.co.uk^$doc
-||matzav.co.uk^$doc
-||davidicke.org^$doc
-||asianpinay.co.uk^$doc
-||vyvymanga.com^$doc
-||erome.uk.com^$doc
-||thedigitalconnectmag.com^$doc
-||www-usanewscity.com^$doc
-||theokhatrimaza.com^$doc
-||thetechjb.com^$doc
-||theistudyinfo.com^$doc
-||influencersgonewild.us.com^$doc
-||imagefap.ca^$doc
-||thetechsslaash.com^$doc
-||the7starhd.com^$doc
-||hawkecentre.com.au^$doc
-||influencersgoneswild.com^$doc
-||thetipsygypsies.net^$doc
-||tododisca.co.uk^$doc
-||literoticahub.it.com^$doc
-||thehrwp.com^$doc
-||techtorreto.com^$doc
-||techysoftwares.com^$doc
-||techysgpu.com^$doc
-||thetechkeyboard.com^$doc
-||techsmotherboard.com^$doc
-||techyrams.com^$doc
-||techscamera.com^$doc
-||techycameras.com^$doc
-||nhentaineff.com^$doc
-||quicklymagazine.co.uk^$doc
-||nowaiotechnical.com^$doc
-||themindfulmirror.com^$doc
-||glenechogolf.com^$doc
-||chas6d.com^$doc
-||fintechzoom-io.co.uk^$doc
-||money6x-com.us^$doc
-||nbascores.co.uk^$doc
-||diskmagik.com^$doc
-||ecomagazine.co.uk^$doc
-||newsbro.co.uk^$doc
-||dsnews.co.uk^$doc
-||booleandreams.com^$doc
-||worldlifemag.com^$doc
-||worldusmagazine.com^$doc
-||worldachieva.com^$doc
-||markiseteppe.com^$doc
-||ndmag.co.uk^$doc
-||timewarptaskus.com^$doc
-||simplicityitself.io^$doc
-||aitrender.co.uk^$doc
-||thesparkshop.blog^$doc
-||terrazonet.com^$doc
-||made-magazine.com^$doc
-||kistodaynews.com^$doc
-||usa-publications.com^$doc
-||runninglip.com^$doc
-||influencersgonewilds.pro^$doc
-||baddiehub1.com^$doc
-||influencersgonewildx.com^$doc
-||thescribblespot.com^$doc
-||influencersgonewildcom.com^$doc
-||sotwecom.com^$doc
-||motherlesscok.com^$doc
-||wheonhealthnews.com^$doc
-||technology.me.uk^$doc
-||nodlemagazine.org^$doc
-||hassdesign.com^$doc
-||the-batoto.com^$doc
-||socialpostbd.com^$doc
-||coolattitudecaptions.com^$doc
-||english-shayari.com^$doc
-||shayarizuban.com^$doc
-||islamicstatuses.com^$doc
-||wikilifeng.com^$doc
-||topinsures.com^$doc
-||banglayinfo.com^$doc
-||groupslinky.com^$doc
-||sonekabhav.in^$doc
-||thecoffeehorizon.com^$doc
-||spotimax.com^$doc
-||biblicalgo.com^$doc
-||ajkeridea.com^$doc
-||nidblog.com^$doc
-||prices-live.net^$doc
-||takainkam.com^$doc
-||mobilesmarkets.com^$doc
-||snipywify.com^$doc
-||playhop.org^$doc
-||barishkabhogi.in^$doc
-||jojoyminecraft.com^$doc
-||brbn.in^$doc
-||techprowourld.com^$doc
-||usatimemag.com^$doc
-||usalitemagazine.com^$doc
-||workupjobz.com^$doc
-||fordwave.com^$doc
-||vucrex.com^$doc
-||techkou.net^$doc
-||modskinlol.org^$doc
-||mobzel.com^$doc
-||tempetoes.com^$doc
-||blockshowasia.com^$doc
-||techpp.co.uk^$doc
-||morey-editions.com^$doc
-||rupimavi.com^$doc
-||themangabuddy.org^$doc
-||theshaderoom.blog^$doc
-||ellendewittrealestate.blog^$doc
-||dgmnews.io^$doc
-||pet5ardas.com^$doc
-||digitalconnectsmag.com^$doc
-||thenoodlesmagazine.com^$doc
-||techysoftwares.com^$doc
-||techysgpu.com^$doc
-||techyrams.com^$doc
-||techscamera.com^$doc
-||techycameras.com^$doc
-||whitelightsriot.com^$doc
-||usasmooths.com^$doc
-||nhentaineff.com^$doc
-||carsnletters.com^$doc
-||braflix.org.uk^$doc
-||buzzinsider.co.uk^$doc
-||missav.org.uk^$doc
-||deltanative.com^$doc
-||pantagonar.com^$doc
-||blessrise.com^$doc
-||mytecharm.org^$doc
-||celebvalues.com^$doc
-||miegacoanmenu.com^$doc
-||menupriceslists.com^$doc
-||yg-marley.com^$doc
-||jujutsu-infinitecodes.com^$doc
-||ricepurity-tests.com^$doc
-||captification.com^$doc
-||techhopes.blog^$doc
-||letterboxedanswers.today^$doc
-||wendys-menuwithprices.com^$doc
-||theapplebmenupricesus.com^$doc
-||despeisekartes.org^$doc
-||ymcqs.com^$doc
-||foodlion-weeklyad.store^$doc
-||blessinghubs.com^$doc
-||bigwigbios.com^$doc
-||techsfixs.com^$doc
-||semakan-mykid.my^$doc
-||pajskkpm.my^$doc
-||sara2025.my^$doc
-||poslajutracking.my^$doc
-||phmenusking.org^$doc
-||menuindia.com^$doc
-||buffstreams.org.uk^$doc
-||cinevez.in^$doc
-||somoymedia.com^$doc
-||paragraphsbd.com^$doc
-||ok-jatt.com^$doc
-||filmy4wap.pro^$doc
-||slimchickensmenu.com^$doc
-||blooketjoin.uk^$doc
-||cyberkannadig.in^$doc
-||calculattr.in^$doc
-||guicloud.org^$doc
-||damkotoaj.com^$doc
-||banglahunter.com^$doc
-||naztricks.com^$doc
-||hkrnl.in^$doc
-||gyaanduniya.in^$doc
-||kakupress.me^$doc
-||redgifs.org.uk^$doc
-||eromes.app^$doc
-||imhentai.co.uk^$doc
-||eroasmr.org^$doc
-||exploreclarion.co.uk^$doc
-||skinprest.com^$doc
-||tikcotechs.com^$doc
-||tymoffs.com^$doc
-||jdeconomics.com^$doc
-||vysatc.com^$doc
-||guidemagazine.co.uk^$doc
-||doms2cents.net^$doc
-||themotivatedlines.com^$doc
-||timemag.co.uk^$doc
-||anytimesmagazine.com^$doc
-||hdhub4u.us.com^$doc
-||thematchstats.com^$doc
-||weebtoonxyz.com^$doc
-||matchstats.org^$doc
-||isaiminily.com^$doc
-||kemono.us.com^$doc
-||tuambia.us^$doc
-||gimkit.cc^$doc
-||kemonoparty.org^$doc
-||estoturf.net^$doc
-||manhwaxyz.net^$doc
-||midtaper.net^$doc
-||manytoon.co.uk^$doc
-||webtoonxyz.org^$doc
-||timenewsmag.com^$doc
-||webtoonxyz.co.uk^$doc
-||waytob.com^$doc
-||deccanherald.co.uk^$doc
-||silicon-insider.com.in^$doc
-||hackercyber.com^$doc
-||jewelsgalaxywholesale.com^$doc
-||acubi.us^$doc
-||erothto.com^$doc
-||techhiscox.com^$doc
-||lamagazine.co.uk^$doc
-||trucofax.io^$doc
-||lightue.com^$doc
-||epicplacesss.com^$doc
-||truyentiki.com^$doc
-||javalava.org^$doc
-||mobmunch.com^$doc
-||allurelane.com^$doc
-||uknewspulse.co.uk^$doc
-||buzblog.co.uk^$doc
-||uknewspulse.co.uk^$doc
-||buzblog.co.uk^$doc
-||zoeperry.co.uk^$doc
-||awomoscow.com^$doc
-||contestshub.com^$doc
-||verse-mag.com^$doc
-||rawmags.com^$doc
-||astrologycosmos.com^$doc
-||psdgold.com^$doc
-||thebookswarm.com^$doc
-||thenewcub.com^$doc
-||uticamn.com^$doc
-||svtemplates.com^$doc
-||qisa.org^$doc
-||windowtothebeauty.com^$doc
-||postplace.co.uk^$doc
-||technicalinterest.com^$doc
-||uknewstap.co.uk^$doc
-||picsandprose.com^$doc
-||theblooket.blog^$doc
-||baddiehub.lt^$doc
-||warframemarket.co.uk^$doc
-||erone.co.uk^$doc
-||psbios.co.uk^$doc
-||mp4moviez.co.uk^$doc
-||techduffer.uk^$doc
-||eruditemeetup.co.uk^$doc
-||organizeblogs.com^$doc
-||addmagazine.co.uk^$doc
-||really-haunted.com^$doc
-||tributemosthaunted.co.uk^$doc
-||pinayflix.co.uk^$doc
-||startupblog.co.uk^$doc
-||mmsbee.co.uk^$doc
-||celebvogue.com^$doc
+! Reading file ./src/grouped/westdary.json
+||dcinl.com^$doc,reason="AI slop"
+||definicionwiki.com^$doc,reason="AI slop"
 
-! https://www.facebook.com/usman.warraich.136036/posts/pfbid02NvvbXTrZWysxJxhWRTn4qHvD7mFAk8yRpWUMFQmqLYppqU2dNmQwZX643w9Q9dEvl
-||www.otsnews.co.uk^$doc
-||newspatrolling.com^$doc
-||theukpost.co.uk^$doc
-! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
-! ||bristol247.com^$doc
-||www.parmapress24.it^$doc
-||northiowatoday.com^$doc
-||pmldaily.com^$doc
-||canadacrimeindex.com^$doc
-||prophecynewswatch.com^$doc
-||www.indiainputs.com^$doc
-||muddyrivernews.com^$doc
-||aajkitajikhabar.com^$doc
-||tasmaniantimes.com^$doc
-||hudsonweekly.com^$doc
-||consolidatetimes.com^$doc
-||www.hometownstation.com^$doc
-||newswatchtv.com^$doc
-||businesspost.ng^$doc
-||www.colombotelegraph.com^$doc
-||www.theclintoncourier.net^$doc
-||www.takeonedigitalnetwork.com^$doc
-||savedelete.com^$doc
-! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
-! ||worldcrunch.com^$doc
-||dailynewshungary.com^$doc
-||kahawatungu.com^$doc
-||businessoutstanders.com^$doc
-||www.fontmirror.com^$doc
-! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
-! ||dailytrust.com^$doc
-||www.readability.com^$doc
-
-! Clickout Media (https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/)
-||adventuregamers.com^$doc
-||escapistmagazine.com^$doc
-||www.gameshub.com^$doc
-||revenuepass.com^$doc
-||videogamer.com^$doc
-
-! westdary@gmail.com
-||dcinl.com^$doc
-||definicionwiki.com^$doc
-
-! Verypdf sites
-||veryutils.com^$doc
-||verypdf.com^$doc
-||verydoc.com^$doc
-||verydrm.com^$doc
-||eepdf.com^$doc
-||imagepdf.com^$doc
-||impdf.com^$doc
-||undopdf.com^$doc
-||crackpdf.com^$doc
-
-! Yorker Media (https://github.com/popcar2/BadWebsiteBlocklist/issues/1 and https://github.com/alvi-se/ai-ublock-blacklist/pull/27)
-||umatechnology.org^$doc
-||geekchamp.com^$doc
-||masteryourtech.com^$doc
-||supportyourtech.com^$doc
-||live2tech.com^$doc
-||solveyourtech.com^$doc
-||i5apps.com^$doc
-||mefmobile.org^$doc
-||techbloat.com^$doc
+! Reading file ./src/grouped/clickout.json
+||adventuregamers.com^$doc,reason="AI slop"
+||escapistmagazine.com^$doc,reason="AI slop"
+||www.gameshub.com^$doc,reason="AI slop"
+||revenuepass.com^$doc,reason="AI slop"
+||videogamer.com^$doc,reason="AI slop"
