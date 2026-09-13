@@ -951,6 +951,13 @@
             "site": "electronics.alibaba.com",
             "reason": "AI slop",
             "references": []
+        },
+        {
+            "site": "hanoverinstitute.com",
+            "reason": "AI slop, misinformation",
+            "references": [
+                "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/"
+            ]
         }
     ]
 }
