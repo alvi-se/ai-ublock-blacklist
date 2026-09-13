@@ -195,6 +195,7 @@
 ||unanswered.io^$doc,reason="AI slop"
 ||runtimewire.com^$doc,reason="AI slop"
 ||electronics.alibaba.com^$doc,reason="AI slop"
+||hanoverinstitute.com^$doc,reason="AI slop, misinformation"
 
 ! Reading file ./src/sheets/0.json
 ||techsslaash.com^$doc,reason="AI slop"

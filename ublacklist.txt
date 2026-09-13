@@ -196,6 +196,7 @@ name: alvi-se/ai-ublock-blacklist
 *://unanswered.io/*
 *://runtimewire.com/*
 *://electronics.alibaba.com/*
+*://hanoverinstitute.com/*
 
 # Reading file ./src/sheets/0.json
 *://techsslaash.com/*
