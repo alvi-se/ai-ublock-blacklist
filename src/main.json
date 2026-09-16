@@ -958,6 +958,11 @@
             "references": [
                 "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/"
             ]
+        },
+        {
+            "site": "lidarr.org",
+            "reason": "AI slop. Fake homepage for Lidarr. Official homepage is on lidarr.audio",
+            "references": []
         }
     ]
 }
