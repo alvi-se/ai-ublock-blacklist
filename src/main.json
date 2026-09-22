@@ -976,6 +976,13 @@
             "site": "aviary.pl",
             "reason": "AI slop",
             "references": []
+        },
+        {
+            "site": "bougetafrance.fr",
+            "reason": "AI slop, misinformation",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/issues/87"
+            ]
         }
     ]
 }
