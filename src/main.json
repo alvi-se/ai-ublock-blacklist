@@ -983,6 +983,13 @@
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/issues/87"
             ]
+        },
+        {
+            "site": "salivity.github.io",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/pull/98"
+            ]
         }
     ]
 }
