@@ -983,6 +983,13 @@
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/issues/87"
             ]
-        }
+        },
+		{
+			"site": "techlekh.com",
+			"reason": "AI slop",
+			"references": [
+				"https://techlekh.com/how-to-get-android-data-recovery-from-a-locked-phone/"
+			]
+		}
     ]
 }
