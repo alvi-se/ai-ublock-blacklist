@@ -983,6 +983,11 @@
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/issues/87"
             ]
+        },
+        {
+            "site": "ffmpeg-api.com",
+            "reason": "AI slop",
+            "references": []
         }
     ]
 }
