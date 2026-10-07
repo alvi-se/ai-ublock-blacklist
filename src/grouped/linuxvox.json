@@ -26,6 +26,18 @@
             ]
         },
         {
+            "site": "www.xjavascript.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.codestudy.net",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues/329"
+            ]
+        },
+        {
             "site": "codegenes.net",
             "reason": "AI slop",
             "references": [
