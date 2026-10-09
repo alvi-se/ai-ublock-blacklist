@@ -1,0 +1,41 @@
+{
+    "name": "Six Pixels",
+    "references": [],
+    "sites": [
+        {
+            "site": "grainedegateau.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "foodandcuisine.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "recettes-de-cake.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "chocoolat.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "lepourquoiducomment.fr",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "evier-cuisine.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "d-sarron.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}
