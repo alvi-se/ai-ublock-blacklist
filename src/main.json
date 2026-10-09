@@ -988,6 +988,20 @@
             "site": "ffmpeg-api.com",
             "reason": "AI slop",
             "references": []
-        }
+        },
+        {
+            "site": "salivity.github.io",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/pull/98"
+            ]
+        },
+        {
+			      "site": "techlekh.com",
+			      "reason": "AI slop",
+			      "references": [
+				        "https://techlekh.com/how-to-get-android-data-recovery-from-a-locked-phone/"
+			      ]
+		    }
     ]
 }
