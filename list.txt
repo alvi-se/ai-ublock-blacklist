@@ -201,6 +201,7 @@
 ||aviary.pl^$doc,reason="AI slop"
 ||bougetafrance.fr^$doc,reason="AI slop, misinformation"
 ||salivity.github.io^$doc,reason="AI slop"
+||techlekh.com^$doc,reason="AI slop"
 
 ! Reading file ./src/sheets/5.json
 ||www.otsnews.co.uk^$doc,reason="AI slop"
