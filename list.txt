@@ -2654,6 +2654,15 @@
 ||hmnshudhmn24.medium.com^$doc,reason="AI slop"
 ||medium.com/@ooikrish13^$doc,reason="AI slop"
 
+! Reading file ./src/grouped/sixpixels.json
+||grainedegateau.com^$doc,reason="AI slop"
+||foodandcuisine.com^$doc,reason="AI slop"
+||recettes-de-cake.fr^$doc,reason="AI slop"
+||chocoolat.fr^$doc,reason="AI slop"
+||lepourquoiducomment.fr^$doc,reason="AI slop"
+||evier-cuisine.net^$doc,reason="AI slop"
+||d-sarron.com^$doc,reason="AI slop"
+
 ! Reading file ./src/grouped/argentinian.json
 ||9geishas.com.ar^$doc,reason="AI slop"
 ||aberturasalemanas.com.ar^$doc,reason="AI slop"

@@ -2655,6 +2655,15 @@ name: alvi-se/ai-ublock-blacklist
 *://hmnshudhmn24.medium.com/*
 *://medium.com/@ooikrish13/*
 
+# Reading file ./src/grouped/sixpixels.json
+*://grainedegateau.com/*
+*://foodandcuisine.com/*
+*://recettes-de-cake.fr/*
+*://chocoolat.fr/*
+*://lepourquoiducomment.fr/*
+*://evier-cuisine.net/*
+*://d-sarron.com/*
+
 # Reading file ./src/grouped/argentinian.json
 *://9geishas.com.ar/*
 *://aberturasalemanas.com.ar/*
