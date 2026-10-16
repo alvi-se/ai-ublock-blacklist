@@ -200,6 +200,7 @@
 ||linuxsecurity.com^$doc,reason="AI slop"
 ||aviary.pl^$doc,reason="AI slop"
 ||bougetafrance.fr^$doc,reason="AI slop, misinformation"
+||ffmpeg-api.com^$doc,reason="AI slop"
 ||salivity.github.io^$doc,reason="AI slop"
 ||techlekh.com^$doc,reason="AI slop"
 

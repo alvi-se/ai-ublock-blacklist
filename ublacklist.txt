@@ -201,6 +201,7 @@ name: alvi-se/ai-ublock-blacklist
 *://linuxsecurity.com/*
 *://aviary.pl/*
 *://bougetafrance.fr/*
+*://ffmpeg-api.com/*
 *://salivity.github.io/*
 *://techlekh.com/*
 
