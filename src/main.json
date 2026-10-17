@@ -997,11 +997,31 @@
             ]
         },
         {
-			      "site": "techlekh.com",
-			      "reason": "AI slop",
-			      "references": [
-				        "https://techlekh.com/how-to-get-android-data-recovery-from-a-locked-phone/"
-			      ]
-		    }
+		"site": "techlekh.com",
+		"reason": "AI slop",
+		"references": [
+			"https://techlekh.com/how-to-get-android-data-recovery-from-a-locked-phone/"
+		]
+	},
+	{
+		"site":"scenekids.com",
+		"reason": "AI slop",
+		"references": []
+	},
+	{
+		"site":"sysadminsage.com",
+		"reason": "AI slop",
+		"references": []
+	},
+	{
+		"site":"electricalflux.com",
+		"reason": "AI slop",
+		"references": []
+	},
+	{
+		"site":"frameandfocal.com",
+		"reason": "AI slop",
+		"references": []
+	}
     ]
 }
