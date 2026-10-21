@@ -207,6 +207,7 @@
 ||sysadminsage.com^$doc,reason="AI slop"
 ||electricalflux.com^$doc,reason="AI slop"
 ||frameandfocal.com^$doc,reason="AI slop"
+||techietory.com^$doc,reason="AI slop"
 
 ! Reading file ./src/sheets/4.json
 ||ventsmagazine.co.uk^$doc,reason="AI slop"

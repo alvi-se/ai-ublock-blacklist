@@ -208,6 +208,7 @@ name: alvi-se/ai-ublock-blacklist
 *://sysadminsage.com/*
 *://electricalflux.com/*
 *://frameandfocal.com/*
+*://techietory.com/*
 
 # Reading file ./src/sheets/4.json
 *://ventsmagazine.co.uk/*
