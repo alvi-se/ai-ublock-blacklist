@@ -43,6 +43,11 @@
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/pull/23"
             ]
+        },
+        {
+            "site": "www.codelessgenie.com",
+            "reason": "AI slop",
+            "references": []
         }
     ]
 }
