@@ -31,7 +31,7 @@ name: alvi-se/ai-ublock-blacklist
                 print(f"Processing {filename}: {len(sites)} sites")
                 output_file.write(f"\n# Reading file {filename}\n")
                 for s in sites:
-                    line = "*://%s/*\n" % s["site"]
+                    line = "*://*.%s/*\n" % s["site"]
                     output_file.write(line)
                 total_sites += len(sites)
             except (json.JSONDecodeError, KeyError, OSError) as e:
