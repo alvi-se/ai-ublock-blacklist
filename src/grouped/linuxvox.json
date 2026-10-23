@@ -12,14 +12,14 @@
             ]
         },
         {
-            "site": "w3tutorials.net",
+            "site": "www.w3tutorials.net",
             "reason": "AI slop",
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/pull/38"
             ]
         },
         {
-            "site": "javaspring.net",
+            "site": "www.javaspring.net",
             "reason": "AI slop",
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/pull/40"
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "site": "codegenes.net",
+            "site": "www.codegenes.net",
             "reason": "AI slop",
             "references": [
                 "https://github.com/alvi-se/ai-ublock-blacklist/pull/23"
