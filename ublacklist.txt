@@ -148,7 +148,6 @@ name: alvi-se/ai-ublock-blacklist
 *://hyperclapper.com/blog-posts/*
 *://amateurphotographerguide.com/*
 *://magiskzip.com/*
-*://linuxvox.com/*
 *://cyberpost.co/*
 *://gameslearningsociety.org/*
 *://psicologiainsiemelivorno.it/*
@@ -158,7 +157,6 @@ name: alvi-se/ai-ublock-blacklist
 *://rankingcoach.com/*
 *://latex-tutorial.com/*
 *://snowboardinghelp.com/*
-*://codegenes.net/*
 *://outofbit.it/*
 *://comepulire.net/*
 *://qualcherisposta.it/*
@@ -167,10 +165,8 @@ name: alvi-se/ai-ublock-blacklist
 *://biggo.com/*
 *://gizmocleaning.com/*
 *://weerg.com/*
-*://w3tutorials.net/*
 *://printara3d.com/*
 *://coderscratchpad.com/*
-*://javaspring.net/*
 *://funwithlinux.net/*
 *://itsfoss.gitlab.io/*
 *://hdauto.it/*
@@ -2616,6 +2612,15 @@ name: alvi-se/ai-ublock-blacklist
 
 # Reading file ./src/grouped/facebook.json
 *://lookwhatmomfound.org/*
+
+# Reading file ./src/grouped/linuxvox.json
+*://linuxvox.com/*
+*://www.w3tutorials.net/*
+*://www.javaspring.net/*
+*://www.xjavascript.com/*
+*://www.codestudy.net/*
+*://www.codegenes.net/*
+*://www.codelessgenie.com/*
 
 # Reading file ./src/grouped/rankwc.json
 *://rankwc.com/*

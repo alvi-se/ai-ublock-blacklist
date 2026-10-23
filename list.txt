@@ -147,7 +147,6 @@
 ||hyperclapper.com/blog-posts^$doc,reason="AI slop"
 ||amateurphotographerguide.com^$doc,reason="AI slop"
 ||magiskzip.com^$doc,reason="AI slop"
-||linuxvox.com^$doc,reason="AI slop"
 ||cyberpost.co^$doc,reason="AI slop"
 ||gameslearningsociety.org^$doc,reason="AI slop"
 ||psicologiainsiemelivorno.it^$doc,reason="AI slop"
@@ -157,7 +156,6 @@
 ||rankingcoach.com^$doc,reason="AI slop"
 ||latex-tutorial.com^$doc,reason="AI slop"
 ||snowboardinghelp.com^$doc,reason="AI slop"
-||codegenes.net^$doc,reason="AI slop"
 ||outofbit.it^$doc,reason="AI slop"
 ||comepulire.net^$doc,reason="AI slop"
 ||qualcherisposta.it^$doc,reason="AI slop"
@@ -166,10 +164,8 @@
 ||biggo.com^$doc,reason="AI slop"
 ||gizmocleaning.com^$doc,reason="AI slop"
 ||weerg.com^$doc,reason="AI slop"
-||w3tutorials.net^$doc,reason="AI slop"
 ||printara3d.com^$doc,reason="AI slop"
 ||coderscratchpad.com^$doc,reason="AI slop"
-||javaspring.net^$doc,reason="AI slop"
 ||funwithlinux.net^$doc,reason="AI slop"
 ||itsfoss.gitlab.io^$doc,reason="AI slop"
 ||hdauto.it^$doc,reason="AI slop"
@@ -2615,6 +2611,15 @@
 
 ! Reading file ./src/grouped/facebook.json
 ||lookwhatmomfound.org^$doc,reason="AI slop"
+
+! Reading file ./src/grouped/linuxvox.json
+||linuxvox.com^$doc,reason="AI slop"
+||www.w3tutorials.net^$doc,reason="AI slop"
+||www.javaspring.net^$doc,reason="AI slop"
+||www.xjavascript.com^$doc,reason="AI slop"
+||www.codestudy.net^$doc,reason="AI slop"
+||www.codegenes.net^$doc,reason="AI slop"
+||www.codelessgenie.com^$doc,reason="AI slop"
 
 ! Reading file ./src/grouped/rankwc.json
 ||rankwc.com^$doc,reason="AI slop"
