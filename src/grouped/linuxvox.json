@@ -1,0 +1,53 @@
+{
+    "name": "LinuxVox & Co.",
+    "references": [
+        "https://github.com/alvi-se/ai-ublock-blacklist/pull/107"
+    ],
+    "sites": [
+        {
+            "site": "linuxvox.com",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/commit/cf2d552b6bbefa98a3b6f579009eee6d9df3db68"
+            ]
+        },
+        {
+            "site": "www.w3tutorials.net",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/pull/38"
+            ]
+        },
+        {
+            "site": "www.javaspring.net",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/pull/40"
+            ]
+        },
+        {
+            "site": "www.xjavascript.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "www.codestudy.net",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues/329"
+            ]
+        },
+        {
+            "site": "www.codegenes.net",
+            "reason": "AI slop",
+            "references": [
+                "https://github.com/alvi-se/ai-ublock-blacklist/pull/23"
+            ]
+        },
+        {
+            "site": "www.codelessgenie.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}
