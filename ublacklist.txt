@@ -207,6 +207,7 @@ name: alvi-se/ai-ublock-blacklist
 *://*.techietory.com/*
 *://*.historyandmystery.org/*
 *://*.encause.fr/*
+*://*.deepseek.com.pk/*
 
 # Reading file ./src/sheets/5.json
 *://*.www.otsnews.co.uk/*
