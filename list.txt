@@ -206,6 +206,7 @@
 ||techietory.com^$doc,reason="AI slop"
 ||historyandmystery.org^$doc,reason="AI slop"
 ||encause.fr^$doc,reason="AI slop"
+||deepseek.com.pk^$doc,reason="AI slop + fake deepseek website."
 
 ! Reading file ./src/sheets/5.json
 ||www.otsnews.co.uk^$doc,reason="AI slop"

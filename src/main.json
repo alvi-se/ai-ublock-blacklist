@@ -1017,6 +1017,11 @@
             "site": "encause.fr",
             "reason": "AI slop",
             "references": []
+        },
+        {
+            "site": "deepseek.com.pk",
+            "reason": "AI slop + fake deepseek website.",
+            "references": ["https://deepseek.com.pk/deepseek-student-offer-how-students-can-access-free-ai-tools/"]
         }
     ]
 }
