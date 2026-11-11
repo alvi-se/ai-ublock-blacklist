@@ -1033,6 +1033,26 @@
             "reason": "AI slop, misinformation",
             "references": [
                 "https://www.criptomania.it/exchange/coinbase/come-creare-piano-di-accumulo-bitcoin-coinbase/"
+         },
+         {
+            "site": "boon.so",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pixotech.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pixoinc.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "pixoagency.com",
+            "reason": "AI slop",
+            "references": []
             ]
         }
     ]
