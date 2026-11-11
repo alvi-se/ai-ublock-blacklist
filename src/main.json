@@ -1054,6 +1054,11 @@
             "site": "pixoagency.com",
             "reason": "AI slop",
             "references": []
+        },
+        {
+            "site": "pixo.agency",
+            "reason": "AI slop",
+            "references": []
         }
     ]
 }
